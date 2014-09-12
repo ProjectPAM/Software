@@ -376,14 +376,15 @@ dl dd {
 }
 
 #images_hz {
-width: 960px;
-height: auto;
-overflow: hidden;
+	width: 960px;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 20px;
 }
 
 #images_hz img {
-display: inline;
-margin: 0 10px;
+	display: inline;
+	margin: 0 1px;
 }
 
 footer {
