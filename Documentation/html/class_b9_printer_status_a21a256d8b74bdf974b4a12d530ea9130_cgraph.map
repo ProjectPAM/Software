@@ -1,0 +1,4 @@
+<map id="B9PrinterStatus::isCurrentVersion" name="B9PrinterStatus::isCurrentVersion">
+<area shape="rect" id="node2" href="$class_b9_update_manager.html#a9b013f6abd8045a77a79facf920bf132" title="B9UpdateManager::GetLocal\lFileVersion" alt="" coords="234,5,425,46"/>
+<area shape="rect" id="node3" href="$class_b9_printer_status.html#a9d6ee5461acc6bb66f4433555afb2c72" title="B9PrinterStatus::getIntVersion" alt="" coords="230,71,429,97"/>
+</map>

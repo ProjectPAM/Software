@@ -1,0 +1,9 @@
+<map id="B9SupportStructure::ImportAttachmentDataFromStls" name="B9SupportStructure::ImportAttachmentDataFromStls">
+<area shape="rect" id="node2" href="$_o_s___wrapper___functions_8cpp.html#a10dfe69e155df3c68edda1b0710ed5a2" title="CROSS_OS_GetDirectoryFrom\lLocationTag" alt="" coords="270,5,477,46"/>
+<area shape="rect" id="node3" href="$class_b9_model_loader.html#aa6ec28fd6200856a69111d2b59f92fb9" title="B9ModelLoader::LoadNextTri" alt="" coords="278,71,469,97"/>
+<area shape="rect" id="node5" href="$class_triangle3_d.html#a78491d2a2b4f57fca059e921c4f1c2da" title="Triangle3D::UpdateBounds" alt="" coords="284,121,463,148"/>
+<area shape="rect" id="node6" href="$class_b9_support_attachment_data.html#aec2a765c7fe1a5ddbec2a9ed10f20611" title="B9SupportAttachmentData\l::GetTriangles" alt="" coords="284,173,463,214"/>
+<area shape="rect" id="node7" href="$class_b9_support_attachment_data.html#ae62b1c8851477ac5cb75f25edc5325ea" title="B9SupportAttachmentData\l::SetName" alt="" coords="284,238,463,279"/>
+<area shape="rect" id="node8" href="$class_b9_support_attachment_data.html#a95c902290780af98819b91134a655215" title="B9SupportAttachmentData\l::CenterGeometry" alt="" coords="284,303,463,345"/>
+<area shape="rect" id="node4" href="$class_b9_model_loader.html#ac5078b7c135f4a8b9d70c222c46ef96b" title="B9ModelLoader::GetPercentDone" alt="" coords="526,71,743,97"/>
+</map>

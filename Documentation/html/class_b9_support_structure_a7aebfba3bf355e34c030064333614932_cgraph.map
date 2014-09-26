@@ -1,0 +1,7 @@
+<map id="B9SupportStructure::RenderPartPickGL" name="B9SupportStructure::RenderPartPickGL">
+<area shape="rect" id="node2" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="193,5,367,32"/>
+<area shape="rect" id="node3" href="$class_b9_support_structure.html#a429e09b49176f052035b7ed5395ec14a" title="B9SupportStructure\l::RenderTopGL" alt="" coords="212,57,348,98"/>
+<area shape="rect" id="node5" href="$class_b9_support_structure.html#ad867afb360b0b0955a353babbcfc28d4" title="B9SupportStructure\l::RenderMidGL" alt="" coords="212,122,348,163"/>
+<area shape="rect" id="node6" href="$class_b9_support_structure.html#a9ccf8ff67439cdc8c0ed730ac2c3cba1" title="B9SupportStructure\l::RenderBottomGL" alt="" coords="212,187,348,229"/>
+<area shape="rect" id="node4" href="$class_b9_support_attachment_data.html#a7ed5a5293bf1b623dc3df46cf248b795" title="B9SupportAttachmentData\l::Render" alt="" coords="416,122,595,163"/>
+</map>

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['name',['name',['../class_b9_support_attachment_data.html#a49490221ed1850e24350834351ad2111',1,'B9SupportAttachmentData']]],
+  ['needsupdated',['NeedsUpdated',['../class_b9_update_manager.html#aa4712d49973c23f36602ceb61be5eb13',1,'B9UpdateManager']]],
+  ['netmanager',['netManager',['../class_b9_update_manager.html#a21c615998d7f6328b30352fc39ab4136',1,'B9UpdateManager']]],
+  ['new',['New',['../class_b9_layout.html#aa19c04394ea75eb108e7aed867468b80',1,'B9Layout::New()'],['../class_b9_layout_project_data.html#a68d53acd54d37832747c53f8186c9845',1,'B9LayoutProjectData::New()'],['../class_project_data.html#aacdfb2f42b3ca850a610e13b51dd1761',1,'ProjectData::New()']]],
+  ['newgeometry',['newGeometry',['../class_b9_projector.html#a744020321c63e7898a2741bc090e7bbf',1,'B9Projector']]],
+  ['newjob',['newJob',['../class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808',1,'B9Edit']]],
+  ['nextslice',['NextSlice',['../class_slice_edit_view.html#a94aaf2516748b535a16e0f2365dd0a24',1,'SliceEditView']]],
+  ['normal',['normal',['../class_segment.html#a5ccefc32421704d2dd0750073d8cf671',1,'Segment::normal()'],['../class_triangle3_d.html#a931ca60ce908d43d9ce4c00b3c7b0dd8',1,'Triangle3D::normal()']]],
+  ['normalcolor',['normalcolor',['../class_b9_model_instance.html#a33dfa493904e3b48b2071ea3d5dc7d38',1,'B9ModelInstance']]],
+  ['normdisplists',['normDispLists',['../class_model_data.html#ace376c74495477e2a4d71744b3fa773e',1,'ModelData']]],
+  ['notify',['notify',['../class_b9_native_app.html#a513c7da24fda342e5d7ac4b1a1a2f853',1,'B9NativeApp']]],
+  ['notifyupdatefinished',['NotifyUpdateFinished',['../class_b9_update_manager.html#ab27c9504ad31dff6d1a677a2c983578a',1,'B9UpdateManager']]],
+  ['nudgesharedpoints',['NudgeSharedPoints',['../class_loop.html#a2c5f310aa9f5c875d6c6857a51c67f38',1,'Loop']]],
+  ['numloops',['numLoops',['../class_slice.html#aa9eb356331190a72a703e9ab5add3356',1,'Slice']]],
+  ['numpolyverts',['numPolyVerts',['../class_b9_tesselator.html#a86aa3d50f1ac5e78c809e86342f68680',1,'B9Tesselator']]],
+  ['numsegs',['numSegs',['../class_loop.html#a81cfc594b4d24a4f3a9ae2c740edc5a4',1,'Loop']]],
+  ['nx',['nx',['../struct_s_t_l_tri.html#ac8a8af07d063c2e18f2034bb8a48762b',1,'STLTri']]],
+  ['ny',['ny',['../struct_s_t_l_tri.html#a6a456f4a12ee5f33a13bbbb05627442f',1,'STLTri']]],
+  ['nz',['nz',['../struct_s_t_l_tri.html#ab7bc125643b0b8a201a30d662d44869e',1,'STLTri']]]
+];

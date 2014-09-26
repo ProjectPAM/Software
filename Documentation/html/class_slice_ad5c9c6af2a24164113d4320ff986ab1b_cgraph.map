@@ -1,0 +1,6 @@
+<map id="Slice::ConnectSegmentNeighbors" name="Slice::ConnectSegmentNeighbors">
+<area shape="rect" id="node2" href="$class_slice.html#af83e7726266bc57e45facd01ec80e0f2" title="Slice::GetSegmentsAroundX" alt="" coords="272,5,461,32"/>
+<area shape="rect" id="node3" href="$geometricfunctions_8cpp.html#a33153d828297aac1d81548f936a43de3" title="IsZero" alt="" coords="337,56,396,83"/>
+<area shape="rect" id="node4" href="$geometricfunctions_8cpp.html#abfbe6ba15075e74a90132db0beca5788" title="Distance2D" alt="" coords="321,107,412,133"/>
+<area shape="rect" id="node5" href="$class_segment.html#a44276838e3017f05ae7ca8c1a204b87d" title="Segment::FormNormal" alt="" coords="289,157,444,184"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="B9Layout::SetSelectionRot" name="B9Layout::SetSelectionRot">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a3099846419efa2162e601007449818c9" title="B9Layout::FindInstance" alt="" coords="241,72,401,99"/>
+<area shape="rect" id="node3" href="$class_b9_model_instance.html#a0a4b9e7c0eadd0a0ca057dd333102c8c" title="B9ModelInstance::SetRot" alt="" coords="235,123,407,149"/>
+<area shape="rect" id="node4" href="$class_b9_model_instance.html#acfc2e76ed2b4fbd22c54e0cccdc949b1" title="B9ModelInstance::CorrectRot" alt="" coords="487,5,681,32"/>
+<area shape="rect" id="node5" href="$class_b9_model_instance.html#ab6cc27bfdc0b2bdb91c33d216bf63db7" title="B9ModelInstance::OnRotation\lChangeRequest" alt="" coords="485,57,683,98"/>
+<area shape="rect" id="node9" href="$class_b9_model_instance.html#a4d1c622b7b9d71115e20cddcaf3eef94" title="B9ModelInstance::OnRotChanged" alt="" coords="473,123,695,149"/>
+<area shape="rect" id="node10" href="$class_b9_model_instance.html#afcd08debb7647723ecdd53f0c46a74c7" title="B9ModelInstance::OnRotXOr\lYChanged" alt="" coords="488,174,680,215"/>
+<area shape="rect" id="node11" href="$class_b9_model_instance.html#a30d490f0063482c9924142504eca0580" title="B9ModelInstance::OnRotZChangedOnly" alt="" coords="456,240,712,267"/>
+<area shape="rect" id="node6" href="$class_b9_layout.html#ae34bed62d4b342217aaf227fb5640dd6" title="B9Layout::ExitToolAction" alt="" coords="787,35,957,61"/>
+<area shape="rect" id="node8" href="$class_b9_model_instance.html#a528c99a93a7330dd960da4ff9d8fee2c" title="B9ModelInstance::RemoveAll\lSupports" alt="" coords="775,86,969,127"/>
+<area shape="rect" id="node7" href="$class_world_view.html#a4cc04c4430f1f3eaa95805624a4c3a9f" title="WorldView::ExitToolAction" alt="" coords="1032,35,1211,61"/>
+<area shape="rect" id="node12" href="$class_b9_model_instance.html#ac7b5474910e0c3bfd953abda05a7ed6d" title="B9ModelInstance::RotateSupports" alt="" coords="761,240,983,267"/>
+<area shape="rect" id="node13" href="$class_b9_support_structure.html#a0051053957ce2dacba6177f6d8f9fa73" title="B9SupportStructure\l::Rotate" alt="" coords="1053,233,1189,274"/>
+<area shape="rect" id="node14" href="$geometricfunctions_8h.html#ae99f1bb1020521f7b6d69023545c0c41" title="RotateVector" alt="" coords="1277,211,1376,237"/>
+<area shape="rect" id="node15" href="$class_b9_support_structure.html#a25bafc666c59b4f78d0fac782784728c" title="B9SupportStructure\l::ForceUpdate" alt="" coords="1259,262,1395,303"/>
+<area shape="rect" id="node16" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="1443,189,1618,216"/>
+<area shape="rect" id="node17" href="$geometricfunctions_8cpp.html#a08bb76383bc5dc89f94334abb3750fe1" title="Distance3D" alt="" coords="1485,240,1576,267"/>
+<area shape="rect" id="node18" href="$class_b9_support_structure.html#a03f3e73173d93f911370b0a76d25d6ba" title="B9SupportStructure\l::GetTopPoint" alt="" coords="1463,291,1599,333"/>
+<area shape="rect" id="node19" href="$class_b9_support_structure.html#a8a0fe2a31a4f14a7dd902eae48aa57b0" title="B9SupportStructure\l::GetBottomPoint" alt="" coords="1463,357,1599,398"/>
+</map>

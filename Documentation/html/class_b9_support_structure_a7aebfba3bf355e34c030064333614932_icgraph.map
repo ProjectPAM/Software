@@ -1,0 +1,5 @@
+<map id="B9SupportStructure::RenderPartPickGL" name="B9SupportStructure::RenderPartPickGL">
+<area shape="rect" id="node2" href="$class_world_view.html#a6a366c7591e9e30eef34719b99797b48" title="WorldView::GetSupportSection\lByScreen" alt="" coords="192,5,395,46"/>
+<area shape="rect" id="node3" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="443,5,610,46"/>
+<area shape="rect" id="node4" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="659,12,859,39"/>
+</map>

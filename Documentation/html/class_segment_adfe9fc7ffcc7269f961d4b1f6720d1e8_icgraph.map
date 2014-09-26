@@ -1,0 +1,12 @@
+<map id="Segment::Segment" name="Segment::Segment">
+<area shape="rect" id="node2" href="$class_loop.html#a106ef68596a85b9fe34f32c841ffa804" title="Loop::SealHole" alt="" coords="190,31,301,57"/>
+<area shape="rect" id="node4" href="$class_loop.html#ae8dca6c009b9a3eeb0abf4ce96647fb1" title="Loop::AttemptSplitUp" alt="" coords="488,81,635,108"/>
+<area shape="rect" id="node3" href="$class_loop.html#a71df9aefd6fbd7d70c2a5f7169c2f42c" title="Loop::Grow" alt="" coords="350,31,439,57"/>
+<area shape="rect" id="node5" href="$class_slice.html#a74e333fd2d47ac31a380c9f1d39f8cf1" title="Slice::GenerateLoops" alt="" coords="488,31,635,57"/>
+<area shape="rect" id="node6" href="$class_slice_set.html#adae0bea483f08acd2bf1cc4d6adb7c4f" title="SliceSet::ComputeSlice" alt="" coords="683,31,845,57"/>
+<area shape="rect" id="node7" href="$class_slice_set.html#a739e6ecdc5d38b33adba78b3eab4ffbd" title="SliceSet::ParallelCreate\lSlices" alt="" coords="894,23,1055,65"/>
+<area shape="rect" id="node8" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="1104,5,1288,32"/>
+<area shape="rect" id="node11" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="1105,56,1287,83"/>
+<area shape="rect" id="node9" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="1337,31,1485,57"/>
+<area shape="rect" id="node10" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="1533,31,1637,57"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="B9PrinterStatus::isValidVersion" name="B9PrinterStatus::isValidVersion">
+<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ab829fd26f34e966e58d7fdfbdd421bbd" title="B9PrinterComm::OpenB9Creator\lCommPort" alt="" coords="216,102,429,143"/>
+<area shape="rect" id="node7" href="$class_b9_printer_comm.html#a149593b2de378ef6f3dc54ced6657928" title="B9PrinterComm::isConnected" alt="" coords="225,195,421,221"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a7a47edf564160c731695b09e4b75912f" title="B9PrinterComm::RefreshComm\lPortItems" alt="" coords="477,74,685,115"/>
+<area shape="rect" id="node4" href="$class_b9_printer_comm.html#adda3b4b10775ab87594e08dbae6ade98" title="B9PrinterComm::B9PrinterComm" alt="" coords="733,5,949,32"/>
+<area shape="rect" id="node5" href="$class_b9_printer_comm.html#abe537ba42ff6ec10c54dba28ee3fbbb1" title="B9PrinterComm::watchDog" alt="" coords="750,56,933,83"/>
+<area shape="rect" id="node6" href="$class_b9_printer_comm.html#a50311eebbc0330f9dd6a974637f7f0ce" title="B9PrinterComm::startWatch\lDogTimer" alt="" coords="1009,49,1196,90"/>
+<area shape="rect" id="node8" href="$class_b9_terminal.html#ae940079db6abd3b2eb2c4ec39fd3d116" title="B9Terminal::setEnabledWarned" alt="" coords="478,195,685,221"/>
+<area shape="rect" id="node13" href="$class_b9_terminal.html#ab04f4f887e01621861cdae263e10bf3f" title="B9Terminal::isConnected" alt="" coords="497,348,666,375"/>
+<area shape="rect" id="node9" href="$class_b9_terminal.html#aa800cf37515116b2834fc226d6948f42" title="B9Terminal::onBC_Connection\lStatusDetailed" alt="" coords="740,158,943,199"/>
+<area shape="rect" id="node11" href="$class_b9_terminal.html#a448cc2b965f46c7f9e5c311155e4b053" title="B9Terminal::showIt" alt="" coords="774,224,909,251"/>
+<area shape="rect" id="node10" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="1021,165,1184,192"/>
+<area shape="rect" id="node12" href="$class_main_window.html#ac6aebacd127081a974424ba714e74404" title="MainWindow::showTerminal" alt="" coords="1009,224,1196,251"/>
+<area shape="rect" id="node14" href="$class_dlg_print_prep.html#a18e47119e3af2230aa82b7f640b3135b" title="DlgPrintPrep::on_checkBox\lStep1_clicked" alt="" coords="750,275,933,317"/>
+<area shape="rect" id="node15" href="$class_main_window.html#a0d6ddd4f58eb1e2699daf0233c1002f4" title="MainWindow::showCalibrate\lBuildTable" alt="" coords="747,341,935,382"/>
+<area shape="rect" id="node16" href="$class_main_window.html#a3bd051f012bac056788ad1f2f49bf37f" title="MainWindow::showCalibrate\lProjector" alt="" coords="747,406,935,447"/>
+<area shape="rect" id="node17" href="$class_main_window.html#a88f7cf85584ccbdf7c1e9cfa2ab736ca" title="MainWindow::AttemptPrint\lDialogWithFile" alt="" coords="752,471,931,513"/>
+<area shape="rect" id="node18" href="$class_main_window.html#a5472ba09210963f686d7a4f014af19d7" title="MainWindow::OpenJobFile" alt="" coords="1013,449,1192,476"/>
+<area shape="rect" id="node23" href="$class_main_window.html#a0bfce4d702b28b3b4827fb113e270e84" title="MainWindow::on_commandPrint\l_clicked" alt="" coords="997,501,1208,542"/>
+<area shape="rect" id="node19" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="1257,449,1482,476"/>
+<area shape="rect" id="node20" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1531,449,1581,476"/>
+<area shape="rect" id="node21" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1630,424,1786,451"/>
+<area shape="rect" id="node22" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1630,475,1786,501"/>
+<area shape="rect" id="node24" href="$class_main_window.html#a282dac29e83e9a71f2c317ed64d2ddbf" title="MainWindow::showPrint" alt="" coords="1288,508,1451,535"/>
+</map>

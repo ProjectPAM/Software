@@ -1,0 +1,21 @@
+<map id="/home/daniel/Git/Software/B9Creator/mainwindow.h" name="/home/daniel/Git/Software/B9Creator/mainwindow.h">
+<area shape="rect" id="node6" href="$logfilemanager_8h.html" title="logfilemanager.h" alt="" coords="1371,245,1487,272"/>
+<area shape="rect" id="node8" href="$b9layout_8h.html" title="b9layout/b9layout.h" alt="" coords="135,171,269,197"/>
+<area shape="rect" id="node15" href="$b9slice_8h.html" title="b9slice.h" alt="" coords="452,96,525,123"/>
+<area shape="rect" id="node17" href="$b9edit_8h.html" title="b9edit/b9edit.h" alt="" coords="931,96,1037,123"/>
+<area shape="rect" id="node35" href="$b9print_8h.html" title="b9print.h" alt="" coords="1995,96,2067,123"/>
+<area shape="rect" id="node39" href="$helpsystem_8h.html" title="helpsystem.h" alt="" coords="2286,171,2385,197"/>
+<area shape="rect" id="node41" href="$b9terminal_8h.html" title="b9terminal.h" alt="" coords="1637,171,1731,197"/>
+<area shape="rect" id="node48" href="$dlgprintprep_8h.html" title="dlgprintprep.h" alt="" coords="1647,96,1747,123"/>
+<area shape="rect" id="node49" href="$dlgcalbuildtable_8h.html" title="dlgcalbuildtable.h" alt="" coords="1500,96,1623,123"/>
+<area shape="rect" id="node50" href="$dlgcalprojector_8h.html" title="dlgcalprojector.h" alt="" coords="1771,96,1887,123"/>
+<area shape="rect" id="node11" href="$worldview_8h.html" title="worldview.h" alt="" coords="157,245,248,272"/>
+<area shape="rect" id="node13" href="$b9supportstructure_8h.html" title="b9supportstructure.h" alt="" coords="5,320,145,347"/>
+<area shape="rect" id="node23" href="$crushbitmap_8h.html" title="crushbitmap.h" alt="" coords="608,320,712,347"/>
+<area shape="rect" id="node27" href="$_slice_edit_view_8h.html" title="SliceEditView.h" alt="" coords="951,171,1065,197"/>
+<area shape="rect" id="node34" href="$aboutbox_8h.html" title="aboutbox.h" alt="" coords="374,245,460,272"/>
+<area shape="rect" id="node29" href="$_drawing_context_8h.html" title="DrawingContext.h" alt="" coords="706,245,832,272"/>
+<area shape="rect" id="node44" href="$b9printercomm_8h.html" title="b9printercomm.h" alt="" coords="1821,245,1939,272"/>
+<area shape="rect" id="node46" href="$b9projector_8h.html" title="b9projector.h" alt="" coords="1147,245,1244,272"/>
+<area shape="rect" id="node47" href="$b9matcat_8h.html" title="b9matcat.h" alt="" coords="1710,245,1796,272"/>
+</map>

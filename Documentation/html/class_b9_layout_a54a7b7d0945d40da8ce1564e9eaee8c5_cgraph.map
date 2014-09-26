@@ -1,0 +1,23 @@
+<map id="B9Layout::SetSelectionPos" name="B9Layout::SetSelectionPos">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a3099846419efa2162e601007449818c9" title="B9Layout::FindInstance" alt="" coords="263,319,423,345"/>
+<area shape="rect" id="node3" href="$class_b9_model_instance.html#abfec9cf5b121781cfa86254d1e17b355" title="B9ModelInstance::SetPos" alt="" coords="255,369,430,396"/>
+<area shape="rect" id="node8" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="1307,395,1482,421"/>
+<area shape="rect" id="node22" href="$class_b9_model_instance.html#aaf48cbe1d62da4d66da86ff9f7ef0c02" title="B9ModelInstance::GetMinBound" alt="" coords="237,471,448,497"/>
+<area shape="rect" id="node4" href="$class_b9_model_instance.html#a37ed2dafd3ed2c7904426cf484668176" title="B9ModelInstance::OnPosChange\lRequest" alt="" coords="500,303,716,345"/>
+<area shape="rect" id="node5" href="$class_b9_model_instance.html#a7de4b155c07dc0e91dc5f2953e95fa6a" title="B9ModelInstance::OnPosChanged" alt="" coords="497,224,719,251"/>
+<area shape="rect" id="node6" href="$class_b9_model_instance.html#aafc63bcf607dcf9be3e21b6edf8336ce" title="B9ModelInstance::UpdateSupports" alt="" coords="769,136,994,163"/>
+<area shape="rect" id="node12" href="$class_b9_model_instance.html#a45c8f39cbf76c55b2c7f13363c121fde" title="B9ModelInstance::Move" alt="" coords="800,369,963,396"/>
+<area shape="rect" id="node13" href="$class_b9_model_instance.html#ab19eee4b4ab764b1a2d72e6323d02471" title="B9ModelInstance::GetBase\lPlate" alt="" coords="790,187,973,229"/>
+<area shape="rect" id="node14" href="$class_b9_support_structure.html#a0a8350fa3aae6b3a83e5c770b154cc85" title="B9SupportStructure\l::GetBottomLength" alt="" coords="813,253,949,294"/>
+<area shape="rect" id="node15" href="$class_b9_layout.html#a7b0c75e90a7bfceb27f044eb723f14af" title="B9Layout::ProjectData" alt="" coords="804,319,959,345"/>
+<area shape="rect" id="node16" href="$class_b9_layout_project_data.html#a664ab11dba11ab11bb2109c6d026c0bf" title="B9LayoutProjectData\l::GetBuildSpace" alt="" coords="808,5,955,46"/>
+<area shape="rect" id="node17" href="$class_b9_layout_project_data.html#a2f9e021a41d78bc904e17d024cb99421" title="B9LayoutProjectData\l::UpdateZSpace" alt="" coords="808,70,955,111"/>
+<area shape="rect" id="node7" href="$class_b9_support_structure.html#a25bafc666c59b4f78d0fac782784728c" title="B9SupportStructure\l::ForceUpdate" alt="" coords="1083,219,1219,261"/>
+<area shape="rect" id="node9" href="$geometricfunctions_8cpp.html#a08bb76383bc5dc89f94334abb3750fe1" title="Distance3D" alt="" coords="1349,227,1440,253"/>
+<area shape="rect" id="node10" href="$class_b9_support_structure.html#a03f3e73173d93f911370b0a76d25d6ba" title="B9SupportStructure\l::GetTopPoint" alt="" coords="1327,278,1463,319"/>
+<area shape="rect" id="node11" href="$class_b9_support_structure.html#a8a0fe2a31a4f14a7dd902eae48aa57b0" title="B9SupportStructure\l::GetBottomPoint" alt="" coords="1327,161,1463,202"/>
+<area shape="rect" id="node18" href="$class_b9_layout.html#a1a5f5d2c3412fb41f8edc2d9601074e5" title="B9Layout::GetAllInstances" alt="" coords="1061,136,1240,163"/>
+<area shape="rect" id="node19" href="$class_b9_model_instance.html#afcb4374362d29162275a07d2f899afe5" title="B9ModelInstance::GetMaxBound" alt="" coords="1043,19,1258,45"/>
+<area shape="rect" id="node20" href="$class_b9_layout_project_data.html#a737f04b5302ed381df1a5417f15970f0" title="B9LayoutProjectData\l::SetBuildSpaceSize" alt="" coords="1077,70,1224,111"/>
+<area shape="rect" id="node21" href="$class_b9_layout_project_data.html#a26c8d2be451cba8442801576e3aa2186" title="B9LayoutProjectData\l::SetDirtied" alt="" coords="1321,70,1468,111"/>
+</map>

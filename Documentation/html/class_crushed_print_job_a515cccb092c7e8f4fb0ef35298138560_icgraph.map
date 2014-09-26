@@ -1,0 +1,20 @@
+<map id="CrushedPrintJob::getName" name="CrushedPrintJob::getName">
+<area shape="rect" id="node2" href="$class_b9_edit.html#afb05e7b06728a265059e52ef5ee58cc6" title="B9Edit::openJob" alt="" coords="273,43,391,69"/>
+<area shape="rect" id="node5" href="$class_b9_edit.html#a73b990ccdf293a349129a50827896c5c" title="B9Edit::importSlicesFromSvg" alt="" coords="235,93,429,120"/>
+<area shape="rect" id="node7" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="237,144,427,171"/>
+<area shape="rect" id="node8" href="$class_b9_edit.html#a482e84272759580a6439735655f39879" title="B9Edit::ExportToFolder" alt="" coords="253,195,411,221"/>
+<area shape="rect" id="node9" href="$class_b9_print.html#a84c25262040cab6093962fe32eef192b" title="B9Print::print3D" alt="" coords="275,245,389,272"/>
+<area shape="rect" id="node19" href="$class_dlg_print_prep.html#aa2b6ad3885d999855c24dc299f611c7b" title="DlgPrintPrep::DlgPrintPrep" alt="" coords="243,296,421,323"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="497,5,605,32"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a28d3b014af316b7e9a16aaaf9085cea2" title="B9Edit::dropEvent" alt="" coords="487,56,615,83"/>
+<area shape="rect" id="node6" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="480,132,621,159"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a925db8df9c1c11bfa1fb1a5a90975720" title="MainWindow::doPrint" alt="" coords="477,245,624,272"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a88f7cf85584ccbdf7c1e9cfa2ab736ca" title="MainWindow::AttemptPrint\lDialogWithFile" alt="" coords="672,238,851,279"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a5472ba09210963f686d7a4f014af19d7" title="MainWindow::OpenJobFile" alt="" coords="915,216,1093,243"/>
+<area shape="rect" id="node17" href="$class_main_window.html#a0bfce4d702b28b3b4827fb113e270e84" title="MainWindow::on_commandPrint\l_clicked" alt="" coords="899,267,1109,309"/>
+<area shape="rect" id="node13" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="1158,216,1383,243"/>
+<area shape="rect" id="node14" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1432,216,1483,243"/>
+<area shape="rect" id="node15" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1531,191,1687,217"/>
+<area shape="rect" id="node16" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1531,241,1687,268"/>
+<area shape="rect" id="node18" href="$class_main_window.html#a282dac29e83e9a71f2c317ed64d2ddbf" title="MainWindow::showPrint" alt="" coords="1189,275,1352,301"/>
+</map>

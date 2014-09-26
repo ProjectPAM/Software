@@ -1,0 +1,11 @@
+<map id="Slice::GenerateSegments" name="Slice::GenerateSegments">
+<area shape="rect" id="node2" href="$class_b9_model_instance.html#ab3b88c806969e4e6d8f9d0a0f8375a51" title="B9ModelInstance::GetTriangles\lAroundZ" alt="" coords="224,15,429,57"/>
+<area shape="rect" id="node3" href="$class_triangle3_d.html#a961a725fdeb38897f8af4e2e010604bb" title="Triangle3D::IntersectsXYPlane" alt="" coords="225,81,428,108"/>
+<area shape="rect" id="node8" href="$class_segment.html#a1ab48ecf6b2d61a64c530bdf37e2ce7f" title="Segment::CorrectPointOrder" alt="" coords="233,132,420,159"/>
+<area shape="rect" id="node10" href="$class_slice.html#a65db8b8d3c64358bbb1bce7fae11cc65" title="Slice::AddSegment" alt="" coords="259,183,394,209"/>
+<area shape="rect" id="node4" href="$class_triangle3_d.html#aa096a40a0449d819d25a7de364bff53b" title="Triangle3D::IsBad" alt="" coords="507,31,634,57"/>
+<area shape="rect" id="node7" href="$class_triangle3_d.html#a8bc95a5fe12313861aba7e3a3ea9b5a3" title="Triangle3D::ParallelXYPlane" alt="" coords="477,81,664,108"/>
+<area shape="rect" id="node5" href="$geometricfunctions_8cpp.html#a08bb76383bc5dc89f94334abb3750fe1" title="Distance3D" alt="" coords="712,5,803,32"/>
+<area shape="rect" id="node6" href="$geometricfunctions_8cpp.html#a33153d828297aac1d81548f936a43de3" title="IsZero" alt="" coords="728,56,787,83"/>
+<area shape="rect" id="node9" href="$geometricfunctions_8cpp.html#a81204b3a3719ae3fc19a0e81b9e8af99" title="PointLineCompare" alt="" coords="506,132,635,159"/>
+</map>

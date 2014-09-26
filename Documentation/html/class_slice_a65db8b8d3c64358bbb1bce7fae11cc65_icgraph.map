@@ -1,0 +1,16 @@
+<map id="Slice::AddSegment" name="Slice::AddSegment">
+<area shape="rect" id="node2" href="$class_loop.html#a106ef68596a85b9fe34f32c841ffa804" title="Loop::SealHole" alt="" coords="219,56,330,83"/>
+<area shape="rect" id="node12" href="$class_slice.html#a732db7a7fab1a1af727aeabf9d117327" title="Slice::GenerateSegments" alt="" coords="189,107,360,133"/>
+<area shape="rect" id="node3" href="$class_loop.html#a71df9aefd6fbd7d70c2a5f7169c2f42c" title="Loop::Grow" alt="" coords="455,56,545,83"/>
+<area shape="rect" id="node4" href="$class_loop.html#ae8dca6c009b9a3eeb0abf4ce96647fb1" title="Loop::AttemptSplitUp" alt="" coords="647,5,793,32"/>
+<area shape="rect" id="node5" href="$class_slice.html#a74e333fd2d47ac31a380c9f1d39f8cf1" title="Slice::GenerateLoops" alt="" coords="647,56,793,83"/>
+<area shape="rect" id="node6" href="$class_slice_set.html#adae0bea483f08acd2bf1cc4d6adb7c4f" title="SliceSet::ComputeSlice" alt="" coords="849,81,1010,108"/>
+<area shape="rect" id="node7" href="$class_slice_set.html#a739e6ecdc5d38b33adba78b3eab4ffbd" title="SliceSet::ParallelCreate\lSlices" alt="" coords="1059,74,1221,115"/>
+<area shape="rect" id="node8" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="1269,56,1453,83"/>
+<area shape="rect" id="node11" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="1270,107,1453,133"/>
+<area shape="rect" id="node9" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="1502,81,1650,108"/>
+<area shape="rect" id="node10" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="1699,81,1803,108"/>
+<area shape="rect" id="node13" href="$class_world_view.html#ac2e25787ea4709352b54dec261306ac2" title="WorldView::UpdateVisSlice" alt="" coords="409,157,591,184"/>
+<area shape="rect" id="node14" href="$class_world_view.html#ae3e0922fb29d8d63b35e0d397937816b" title="WorldView::UpdateTick" alt="" coords="640,157,800,184"/>
+<area shape="rect" id="node15" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="851,157,1007,184"/>
+</map>

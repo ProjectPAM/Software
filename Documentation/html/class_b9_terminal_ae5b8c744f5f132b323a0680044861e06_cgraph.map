@@ -1,0 +1,5 @@
+<map id="B9Terminal::rcResetFirmwareDefaults" name="B9Terminal::rcResetFirmwareDefaults">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#ad4d9201d19f3c79d46b46d683e7457f7" title="B9Terminal::on_pushButton\lFirmwareReset_clicked" alt="" coords="251,5,434,46"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="483,12,664,39"/>
+<area shape="rect" id="node4" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="713,5,887,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="B9PrinterStatus::getLastHomeDiff" name="B9PrinterStatus::getLastHomeDiff">
+<area shape="rect" id="node2" href="$class_b9_printer_comm.html#aa9cfdf24fe62e6057c7af06e6390cfce" title="B9PrinterComm::getLastHomeDiff" alt="" coords="219,12,442,39"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#a9f16a50281deb9498b29dad712dd2849" title="B9Terminal::onMotionReset\lComplete" alt="" coords="491,5,675,46"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="723,12,885,39"/>
+</map>

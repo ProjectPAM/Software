@@ -1,0 +1,16 @@
+<map id="B9MatCat::isFactoryEntry" name="B9MatCat::isFactoryEntry">
+<area shape="rect" id="node2" href="$class_b9_mat_cat.html#a6f8b875d2d74791d2bef1b79c0cbcaec" title="B9MatCat::streamOut" alt="" coords="254,25,405,52"/>
+<area shape="rect" id="node5" href="$class_b9_mat_cat.html#a02e74e762d453b7e3d5aac1dddd9e05a" title="B9MatCat::SaveUserMaterials\lToRegister" alt="" coords="229,77,429,118"/>
+<area shape="rect" id="node10" href="$class_dlg_materials_manager.html#a490aa62dc19e501f25a4e0d21946b85f" title="DlgMaterialsManager\l::updateEnabledStates" alt="" coords="252,142,407,183"/>
+<area shape="rect" id="node13" href="$class_dlg_materials_manager.html#af247c26c6654fb99bc8ad51ab4189ebf" title="DlgMaterialsManager\l::setUp" alt="" coords="257,207,402,249"/>
+<area shape="rect" id="node15" href="$class_dlg_materials_manager.html#a1719424f9750c719bb1707157fe8941b" title="DlgMaterialsManager\l::on_comboBoxMaterial\l_currentIndexChanged" alt="" coords="250,272,409,328"/>
+<area shape="rect" id="node3" href="$class_b9_mat_cat.html#aae6d1785b01fc8cbac787207a1ce5efa" title="B9MatCat::save" alt="" coords="505,25,623,52"/>
+<area shape="rect" id="node4" href="$class_dlg_materials_manager.html#a7b7ab0b8b69276d2818b6fa26c32b4ae" title="DlgMaterialsManager\l::on_buttonBoxSaveCancel\l_accepted" alt="" coords="705,4,887,60"/>
+<area shape="rect" id="node6" href="$class_b9_mat_cat.html#a53322c25085f6f8ac63db9412ce42c55" title="B9MatCat::load" alt="" coords="507,84,621,111"/>
+<area shape="rect" id="node7" href="$class_b9_terminal.html#a65c7b05e511d910a06aca9204a6bc215" title="B9Terminal::onBC_ModelInfo" alt="" coords="699,84,893,111"/>
+<area shape="rect" id="node9" href="$class_dlg_materials_manager.html#af99540c06075124231d7d62bc36b0abe" title="DlgMaterialsManager\l::on_buttonBoxSaveCancel\l_rejected" alt="" coords="705,135,887,191"/>
+<area shape="rect" id="node8" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="941,84,1104,111"/>
+<area shape="rect" id="node11" href="$class_dlg_materials_manager.html#aa5254954b12cad50c657f88789d63440" title="DlgMaterialsManager\l::on_pushButtonDelete\l_clicked" alt="" coords="487,135,641,191"/>
+<area shape="rect" id="node12" href="$class_dlg_materials_manager.html#a7b3610dd939f41252afe8d408417bca4" title="DlgMaterialsManager\l::on_pushButtonDuplicate\l_clicked" alt="" coords="478,215,650,271"/>
+<area shape="rect" id="node14" href="$class_dlg_materials_manager.html#aabedb9a6dc9437b40def313141fe87ca" title="DlgMaterialsManager\l::DlgMaterialsManager" alt="" coords="487,294,641,335"/>
+</map>

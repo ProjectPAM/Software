@@ -1,0 +1,11 @@
+<map id="B9Edit::updateSliceIndicator" name="B9Edit::updateSliceIndicator">
+<area shape="rect" id="node2" href="$class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808" title="B9Edit::newJob" alt="" coords="280,31,395,57"/>
+<area shape="rect" id="node5" href="$class_b9_edit.html#afb05e7b06728a265059e52ef5ee58cc6" title="B9Edit::openJob" alt="" coords="278,81,397,108"/>
+<area shape="rect" id="node7" href="$class_b9_edit.html#a01ea58c46dac46349813cf0ccc71c5a1" title="B9Edit::importSlicesFrom\lFirstFile" alt="" coords="252,133,423,174"/>
+<area shape="rect" id="node9" href="$class_b9_edit.html#a73b990ccdf293a349129a50827896c5c" title="B9Edit::importSlicesFromSvg" alt="" coords="240,199,435,225"/>
+<area shape="rect" id="node10" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="242,249,433,276"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="499,56,607,83"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a56a3b1732d0f09facfb82b7c87d34e18" title="B9Edit::closeEvent" alt="" coords="486,5,621,32"/>
+<area shape="rect" id="node6" href="$class_b9_edit.html#a28d3b014af316b7e9a16aaaf9085cea2" title="B9Edit::dropEvent" alt="" coords="489,107,617,133"/>
+<area shape="rect" id="node8" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="483,199,624,225"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Loop::Grow" name="Loop::Grow">
+<area shape="rect" id="node2" href="$class_loop.html#a90020843d031f5619eaae5849044cc07" title="Loop::AttachSegment" alt="" coords="305,5,453,32"/>
+<area shape="rect" id="node3" href="$class_loop.html#a106ef68596a85b9fe34f32c841ffa804" title="Loop::SealHole" alt="" coords="145,56,255,83"/>
+<area shape="rect" id="node4" href="$class_segment.html#adfe9fc7ffcc7269f961d4b1f6720d1e8" title="Segment::Segment" alt="" coords="311,56,446,83"/>
+<area shape="rect" id="node5" href="$class_slice.html#a65db8b8d3c64358bbb1bce7fae11cc65" title="Slice::AddSegment" alt="" coords="311,107,446,133"/>
+</map>

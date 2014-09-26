@@ -1,0 +1,6 @@
+<map id="B9Terminal::setEnabledWarned" name="B9Terminal::setEnabledWarned">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#aa800cf37515116b2834fc226d6948f42" title="B9Terminal::onBC_Connection\lStatusDetailed" alt="" coords="261,5,464,46"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#a448cc2b965f46c7f9e5c311155e4b053" title="B9Terminal::showIt" alt="" coords="295,71,430,97"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="524,12,687,39"/>
+<area shape="rect" id="node5" href="$class_main_window.html#ac6aebacd127081a974424ba714e74404" title="MainWindow::showTerminal" alt="" coords="512,71,699,97"/>
+</map>

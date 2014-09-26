@@ -1,0 +1,28 @@
+<map id="B9SupportAttachmentData::FormDisplayList" name="B9SupportAttachmentData::FormDisplayList">
+<area shape="rect" id="node2" href="$class_b9_support_structure.html#a752306cf62638b84f0334bc23297f246" title="B9SupportStructure\l::SetTopAttachShape" alt="" coords="243,263,389,305"/>
+<area shape="rect" id="node22" href="$class_b9_support_structure.html#a9916d3908234599853d5356447303de2" title="B9SupportStructure\l::SetMidAttachShape" alt="" coords="243,198,389,239"/>
+<area shape="rect" id="node24" href="$class_b9_support_structure.html#abca4f92682035240277380d4c80c2915" title="B9SupportStructure\l::SetBottomAttachShape" alt="" coords="233,403,399,445"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#a00109d34a7ef6da4a63cf5f769e06ca7" title="B9Layout::OnSupport\l_Top_AttachType_Changed" alt="" coords="459,81,643,122"/>
+<area shape="rect" id="node7" href="$class_b9_layout_project_data.html#ac33ce4bfd5d34fe14b26754112dba4fc" title="B9LayoutProjectData\l::StreamInSupportInfo" alt="" coords="737,315,887,357"/>
+<area shape="rect" id="node16" href="$class_b9_model_instance.html#ad693fbec02a529a00ac92073ccb5cb49" title="B9ModelInstance::EnableBase\lPlate" alt="" coords="450,433,651,474"/>
+<area shape="rect" id="node19" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="467,198,634,239"/>
+<area shape="rect" id="node21" href="$class_b9_support_structure.html#a0e1b6cd1e500bf239273e649091c2e06" title="B9SupportStructure\l::B9SupportStructure" alt="" coords="479,315,623,357"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#a229beb567681a2917b4a39e5c3765283" title="B9Layout::ResetSupportLight" alt="" coords="715,5,909,32"/>
+<area shape="rect" id="node5" href="$class_b9_layout.html#a6e2397da7af877f7fff94aafd570f4be" title="B9Layout::ResetSupportMedium" alt="" coords="707,56,917,83"/>
+<area shape="rect" id="node6" href="$class_b9_layout.html#a552553f3327363013690e2e9a25402d9" title="B9Layout::ResetSupportHeavy" alt="" coords="711,107,913,133"/>
+<area shape="rect" id="node8" href="$class_b9_layout_project_data.html#ae277f0fdb3f035b479e40bcc7481b3f8" title="B9LayoutProjectData\l::Open" alt="" coords="971,315,1117,357"/>
+<area shape="rect" id="node9" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="1206,297,1322,324"/>
+<area shape="rect" id="node11" href="$class_main_window.html#ae5ecffbef4642726ed324598bf348fc7" title="MainWindow::OpenLayoutFile" alt="" coords="1166,348,1362,375"/>
+<area shape="rect" id="node10" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="1453,297,1595,324"/>
+<area shape="rect" id="node12" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="1411,348,1637,375"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1685,348,1736,375"/>
+<area shape="rect" id="node14" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1785,323,1941,349"/>
+<area shape="rect" id="node15" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1785,373,1941,400"/>
+<area shape="rect" id="node17" href="$class_b9_layout.html#a5fbec0c2f27f101aca84ae24de5cf25e" title="B9Layout::DuplicateSelection" alt="" coords="715,440,909,467"/>
+<area shape="rect" id="node18" href="$class_b9_layout.html#ab8a1841a41872f2021f3d6d2dd7a5431" title="B9Layout::OnBasePlateProperties\lChanged" alt="" coords="701,519,923,561"/>
+<area shape="rect" id="node20" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="712,205,912,232"/>
+<area shape="rect" id="node23" href="$class_b9_layout.html#a7f5813889156ae652d3449a94c00de4e" title="B9Layout::OnSupport\l_Mid_AttachType_Changed" alt="" coords="459,15,642,57"/>
+<area shape="rect" id="node25" href="$class_b9_layout.html#a69bde562234e9dbea5be233e7f7e9e82" title="B9Layout::OnSupport\l_Bottom_AttachType_Changed" alt="" coords="449,498,653,539"/>
+<area shape="rect" id="node26" href="$class_world_view.html#a0c33e14f0640d2ff517a2cf4b4245a57" title="WorldView::OnToolDragAction" alt="" coords="451,615,651,641"/>
+<area shape="rect" id="node27" href="$class_world_view.html#a7b62bf386eb906f3265aa127566667fa" title="WorldView::mouseMoveEvent" alt="" coords="713,615,911,641"/>
+</map>

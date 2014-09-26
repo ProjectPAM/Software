@@ -1,0 +1,37 @@
+<map id="B9Layout::DeleteSupport" name="B9Layout::DeleteSupport">
+<area shape="rect" id="node2" href="$class_b9_layout.html#ab16790a18dc20d8277d728f974bb22de" title="B9Layout::SupportModeInst" alt="" coords="1032,127,1216,153"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#af1de5efd0d730d1852521918d69ab225" title="B9Layout::IsSupportSelected" alt="" coords="239,56,431,83"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#a146aa213c98d93db1f2944d94900970b" title="B9Layout::DeSelectSupport" alt="" coords="243,161,427,188"/>
+<area shape="rect" id="node6" href="$class_b9_layout.html#a10ae6f6be83a4adc08aa2f083c26b5c3" title="B9Layout::UpdateInterface" alt="" coords="509,385,688,412"/>
+<area shape="rect" id="node34" href="$class_b9_model_instance.html#af3748244677b0ffc908589b855422cdd" title="B9ModelInstance::RemoveSupport" alt="" coords="222,212,447,239"/>
+<area shape="rect" id="node35" href="$class_b9_layout.html#ac14d8c5ac7b4d271a72307bb4b325085" title="B9Layout::FillSupportList" alt="" coords="251,5,419,32"/>
+<area shape="rect" id="node5" href="$class_b9_support_structure.html#a8a345f967a9c1dab434206ba05816f4c" title="B9SupportStructure\l::SetSelected" alt="" coords="531,158,667,199"/>
+<area shape="rect" id="node7" href="$class_b9_layout.html#a3099846419efa2162e601007449818c9" title="B9Layout::FindInstance" alt="" coords="787,259,947,285"/>
+<area shape="rect" id="node8" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="779,309,954,336"/>
+<area shape="rect" id="node9" href="$class_b9_model_instance.html#aaf48cbe1d62da4d66da86ff9f7ef0c02" title="B9ModelInstance::GetMinBound" alt="" coords="761,360,972,387"/>
+<area shape="rect" id="node10" href="$class_b9_model_instance.html#a294725bc6d726d29b586802b00d2140f" title="B9ModelInstance::GetRot" alt="" coords="780,411,953,437"/>
+<area shape="rect" id="node11" href="$class_b9_model_instance.html#a94743e1858c3a8281406d5ecf7be22f7" title="B9ModelInstance::GetScale" alt="" coords="774,461,959,488"/>
+<area shape="rect" id="node12" href="$class_b9_model_instance.html#a781df8b6daf98023c7a431f35e0cbc81" title="B9ModelInstance::GetFlipped" alt="" coords="769,512,964,539"/>
+<area shape="rect" id="node13" href="$class_b9_model_instance.html#afcb4374362d29162275a07d2f899afe5" title="B9ModelInstance::GetMaxBound" alt="" coords="759,563,974,589"/>
+<area shape="rect" id="node14" href="$class_world_view.html#ad036b52a9f8ab11c65a8e0c66c02b954" title="WorldView::GetTool" alt="" coords="797,613,936,640"/>
+<area shape="rect" id="node15" href="$class_b9_layout.html#a64c74516593ed4f8d43a150d84c2de89" title="B9Layout::PushSupportProperties" alt="" coords="757,715,976,741"/>
+<area shape="rect" id="node30" href="$class_b9_layout.html#a5e7ce8681b8ceac5193cf8a71c2b3392" title="B9Layout::PushBasePlateProperties" alt="" coords="749,208,984,235"/>
+<area shape="rect" id="node32" href="$class_b9_layout.html#a83e93de38428c5b303b6a3fd6ead5acd" title="B9Layout::UpdateExtentsUI" alt="" coords="773,664,960,691"/>
+<area shape="rect" id="node16" href="$class_b9_support_structure.html#a576950266410f0214184ed66abfc0aa5" title="B9SupportStructure\l::GetTopRadius" alt="" coords="1056,511,1192,553"/>
+<area shape="rect" id="node17" href="$class_b9_support_structure.html#ae0a3b744dd070d5954e436ff1ccee418" title="B9SupportStructure\l::GetMidRadius" alt="" coords="1056,577,1192,618"/>
+<area shape="rect" id="node18" href="$class_b9_support_structure.html#a4e34dd9b6a09714ed68f6ee938c3cb8f" title="B9SupportStructure\l::GetBottomRadius" alt="" coords="1056,642,1192,683"/>
+<area shape="rect" id="node19" href="$class_b9_support_structure.html#a8819830317bcd7a8a81741e6dc52dc92" title="B9SupportStructure\l::GetTopLength" alt="" coords="1056,707,1192,749"/>
+<area shape="rect" id="node20" href="$class_b9_support_structure.html#a4a37302e391a2247578eeeba76c903e6" title="B9SupportStructure\l::GetMidLength" alt="" coords="1056,773,1192,814"/>
+<area shape="rect" id="node21" href="$class_b9_support_structure.html#a0a8350fa3aae6b3a83e5c770b154cc85" title="B9SupportStructure\l::GetBottomLength" alt="" coords="1056,381,1192,422"/>
+<area shape="rect" id="node22" href="$class_b9_support_structure.html#a2706bf946012376bc25cb23e293eba0e" title="B9SupportStructure\l::GetTopAngleFactor" alt="" coords="1053,838,1195,879"/>
+<area shape="rect" id="node23" href="$class_b9_support_structure.html#ae0a0b9789ffbc4c30d54163c50d08a0d" title="B9SupportStructure\l::GetBottomAngleFactor" alt="" coords="1043,903,1205,945"/>
+<area shape="rect" id="node24" href="$class_b9_support_structure.html#a9eca05f3f89a6871b48675b2b18f7227" title="B9SupportStructure\l::GetTopPenetration" alt="" coords="1055,969,1193,1010"/>
+<area shape="rect" id="node25" href="$class_b9_support_structure.html#a39f6c7b0d9423a4fb3dc3b1542001346" title="B9SupportStructure\l::GetBottomPenetration" alt="" coords="1045,1034,1203,1075"/>
+<area shape="rect" id="node26" href="$class_b9_support_structure.html#ad27bdb628d5afad5e5d9891d4211b7a2" title="B9SupportStructure\l::GetTopAttachShape" alt="" coords="1050,446,1198,487"/>
+<area shape="rect" id="node28" href="$class_b9_support_structure.html#a538eaf655b6251cc30d847bcf1853acf" title="B9SupportStructure\l::GetMidAttachShape" alt="" coords="1051,1099,1197,1141"/>
+<area shape="rect" id="node29" href="$class_b9_support_structure.html#a7f44ceb1974b2c45604db2390ae6b5cc" title="B9SupportStructure\l::GetBottomAttachShape" alt="" coords="1040,263,1208,305"/>
+<area shape="rect" id="node27" href="$class_b9_support_attachment_data.html#abcd24b402804618645f9d00d594881f5" title="B9SupportAttachmentData\l::GetName" alt="" coords="1264,446,1443,487"/>
+<area shape="rect" id="node31" href="$class_b9_model_instance.html#ab19eee4b4ab764b1a2d72e6323d02471" title="B9ModelInstance::GetBase\lPlate" alt="" coords="1033,198,1215,239"/>
+<area shape="rect" id="node33" href="$class_b9_layout.html#a7b0c75e90a7bfceb27f044eb723f14af" title="B9Layout::ProjectData" alt="" coords="1047,329,1201,356"/>
+<area shape="rect" id="node36" href="$class_b9_model_instance.html#ab63b8e8340f8ef7b1288335cdb06c245" title="B9ModelInstance::GetSupports" alt="" coords="497,56,701,83"/>
+</map>

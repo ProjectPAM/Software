@@ -1,0 +1,4 @@
+<map id="B9Layout::HidingSupports" name="B9Layout::HidingSupports">
+<area shape="rect" id="node2" href="$class_world_view.html#a42aabb5186b56d687d6bb0f8aa8efbe9" title="WorldView::DrawInstances" alt="" coords="229,5,411,32"/>
+<area shape="rect" id="node3" href="$class_world_view.html#ae250d316e11fea9c3b17181f284fc92a" title="WorldView::paintGL" alt="" coords="459,5,597,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="B9Terminal::onBC_ModelInfo" name="B9Terminal::onBC_ModelInfo">
+<area shape="rect" id="node2" href="$class_b9_mat_cat.html#a53322c25085f6f8ac63db9412ce42c55" title="B9MatCat::load" alt="" coords="281,123,394,149"/>
+<area shape="rect" id="node14" href="$class_b9_terminal.html#abecce7693ed35112dbebb3ee05430df8" title="B9Terminal::resetLastSent\lCycleSettings" alt="" coords="249,174,426,215"/>
+<area shape="rect" id="node3" href="$class_b9_mat_cat.html#aa810901b84034c70d8eedecad59a3d8a" title="B9MatCat::clear" alt="" coords="520,5,637,32"/>
+<area shape="rect" id="node4" href="$_o_s___wrapper___functions_8cpp.html#a10dfe69e155df3c68edda1b0710ed5a2" title="CROSS_OS_GetDirectoryFrom\lLocationTag" alt="" coords="475,57,682,98"/>
+<area shape="rect" id="node5" href="$class_b9_mat_cat.html#ae0069e0e63ce52fa817c387dc0be2ec3" title="B9MatCat::streamIn" alt="" coords="509,123,649,149"/>
+<area shape="rect" id="node6" href="$class_b9_mat_cat.html#a02e74e762d453b7e3d5aac1dddd9e05a" title="B9MatCat::SaveUserMaterials\lToRegister" alt="" coords="479,174,679,215"/>
+<area shape="rect" id="node13" href="$class_b9_mat_cat.html#a5d3e265e9275aad92c95545d88cb4792" title="B9MatCat::LoadUserMaterials\lFromRegister" alt="" coords="479,239,678,281"/>
+<area shape="rect" id="node7" href="$class_b9_mat_cat.html#a54608d4fc97d2c97a4a38762afa48b01" title="B9MatCat::isFactoryEntry" alt="" coords="753,43,927,69"/>
+<area shape="rect" id="node8" href="$class_b9_mat_cat.html#a11fe746a25c62bb1f61cd6fc3f6cd3a3" title="B9MatCat::getMaterialLabel" alt="" coords="748,93,932,120"/>
+<area shape="rect" id="node9" href="$class_b9_mat_cat.html#abfe46d65038895f7d004b3bddfc38749" title="B9MatCat::getMaterialDescription" alt="" coords="731,144,949,171"/>
+<area shape="rect" id="node10" href="$class_b9_mat_cat.html#a48066118c4c53c3cf4fdf96638a40d35" title="B9MatCat::getTattach" alt="" coords="765,219,915,245"/>
+<area shape="rect" id="node11" href="$class_b9_mat_cat.html#a5d61a399191c174683098f44c00240de" title="B9MatCat::getTbase" alt="" coords="769,293,911,320"/>
+<area shape="rect" id="node12" href="$class_b9_mat_cat.html#a430597a38b25a642a9247e1d177c9530" title="B9MatCat::getTover" alt="" coords="770,368,910,395"/>
+</map>

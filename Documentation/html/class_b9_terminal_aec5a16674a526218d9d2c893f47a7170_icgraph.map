@@ -1,0 +1,13 @@
+<map id="B9Terminal::getEstFinalCycleTime" name="B9Terminal::getEstFinalCycleTime">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#a3e2d48922af0da68c680c05d637b0ec1" title="B9Terminal::on_pushButton\lPrintFinal_clicked" alt="" coords="281,181,463,222"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#aace1e98c70ba75efb8e1ef4ff5b8fba6" title="B9Terminal::rcFinishPrint" alt="" coords="513,188,682,215"/>
+<area shape="rect" id="node4" href="$class_b9_print.html#a09be42b39a7a25a87ca21e8424f126b4" title="B9Print::on_signalAbortPrint" alt="" coords="731,161,917,188"/>
+<area shape="rect" id="node9" href="$class_b9_print.html#aeed05378cdefdfa07bc421f5bd9a6ca5" title="B9Print::exposureOfTOver\lLayersFinished" alt="" coords="965,210,1141,251"/>
+<area shape="rect" id="node5" href="$class_b9_print.html#a86f7e412f1ef7a886e2aa9ee4f4e97e7" title="B9Print::on_pushButtonAbort\l_clicked" alt="" coords="1435,38,1626,79"/>
+<area shape="rect" id="node8" href="$class_b9_print.html#a654b39ce33ebdf1858baa6de44519b7f" title="B9Print::exposeTBaseLayer" alt="" coords="1675,159,1861,185"/>
+<area shape="rect" id="node6" href="$class_b9_print.html#a4069cba1eae53e0ffc7179faff6e7475" title="B9Print::B9Print" alt="" coords="1910,107,2026,133"/>
+<area shape="rect" id="node7" href="$class_b9_print.html#a44d91af6b4687a98e3a7b771e06d4644" title="B9Print::closeEvent" alt="" coords="1699,5,1837,32"/>
+<area shape="rect" id="node10" href="$class_b9_print.html#a5a8a362f851bb3b296fc47a7b8914a0d" title="B9Print::on_pushButtonPause\lResume_clicked" alt="" coords="1189,93,1387,134"/>
+<area shape="rect" id="node11" href="$class_b9_print.html#a7455c84aea9bd129f77d7c7a54323ed8" title="B9Print::startExposeTOver\lLayers" alt="" coords="1441,210,1620,251"/>
+<area shape="rect" id="node12" href="$class_b9_print.html#a178d0c7616afa5649d2f1e139f1129f2" title="B9Print::exposureOfCurTint\lLayerFinished" alt="" coords="1197,265,1379,306"/>
+</map>

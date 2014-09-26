@@ -1,0 +1,14 @@
+<map id="B9Terminal::on_pushButtonStop_clicked" name="B9Terminal::on_pushButtonStop_clicked">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#a1ed7c33debd7e99c65917f2ed0412ede" title="B9Terminal::onMotionVatTimeout" alt="" coords="237,5,453,32"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#aa561ab24503d62264e106a64338a7e1f" title="B9Terminal::onReleaseCycle\lTimeout" alt="" coords="249,57,441,98"/>
+<area shape="rect" id="node5" href="$class_b9_terminal.html#a851e2c22fb9ae6aee04bb33441f586b2" title="B9Terminal::rcSTOP" alt="" coords="274,123,417,149"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="508,35,671,61"/>
+<area shape="rect" id="node6" href="$class_b9_print.html#aeed05378cdefdfa07bc421f5bd9a6ca5" title="B9Print::exposureOfTOver\lLayersFinished" alt="" coords="501,115,677,157"/>
+<area shape="rect" id="node7" href="$class_b9_print.html#a5a8a362f851bb3b296fc47a7b8914a0d" title="B9Print::on_pushButtonPause\lResume_clicked" alt="" coords="957,65,1155,106"/>
+<area shape="rect" id="node11" href="$class_b9_print.html#a7455c84aea9bd129f77d7c7a54323ed8" title="B9Print::startExposeTOver\lLayers" alt="" coords="967,151,1145,193"/>
+<area shape="rect" id="node13" href="$class_b9_print.html#a178d0c7616afa5649d2f1e139f1129f2" title="B9Print::exposureOfCurTint\lLayerFinished" alt="" coords="726,174,909,215"/>
+<area shape="rect" id="node8" href="$class_b9_print.html#a4069cba1eae53e0ffc7179faff6e7475" title="B9Print::B9Print" alt="" coords="1454,108,1570,135"/>
+<area shape="rect" id="node9" href="$class_b9_print.html#a86f7e412f1ef7a886e2aa9ee4f4e97e7" title="B9Print::on_pushButtonAbort\l_clicked" alt="" coords="1203,42,1394,83"/>
+<area shape="rect" id="node10" href="$class_b9_print.html#a44d91af6b4687a98e3a7b771e06d4644" title="B9Print::closeEvent" alt="" coords="1443,49,1581,76"/>
+<area shape="rect" id="node12" href="$class_b9_print.html#a654b39ce33ebdf1858baa6de44519b7f" title="B9Print::exposeTBaseLayer" alt="" coords="1206,159,1391,185"/>
+</map>

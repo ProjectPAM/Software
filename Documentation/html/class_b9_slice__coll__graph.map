@@ -1,0 +1,12 @@
+<map id="B9Slice" name="B9Slice">
+<area shape="rect" id="node3" href="$class_b9_layout.html" title="B9Layout" alt="" coords="259,83,335,109"/>
+<area shape="rect" id="node4" href="$class_b9_layout_project_data.html" title="B9LayoutProjectData" alt="" coords="508,173,655,200"/>
+<area shape="rect" id="node6" href="$class_world_view.html" title="WorldView" alt="" coords="283,667,368,693"/>
+<area shape="rect" id="node13" href="$class_model_data.html" title="ModelData" alt="" coords="316,224,401,251"/>
+<area shape="rect" id="node11" href="$class_slice_context.html" title="SliceContext" alt="" coords="641,275,737,301"/>
+<area shape="rect" id="node8" href="$class_b9_support_structure.html" title="B9SupportStructure" alt="" coords="393,576,528,603"/>
+<area shape="rect" id="node9" href="$class_b9_model_instance.html" title="B9ModelInstance" alt="" coords="392,456,515,483"/>
+<area shape="rect" id="node10" href="$class_slice_set.html" title="SliceSet" alt="" coords="551,365,621,392"/>
+<area shape="rect" id="node12" href="$class_slice.html" title="Slice" alt="" coords="713,173,764,200"/>
+<area shape="rect" id="node14" href="$class_b9_support_attachment_data.html" title="The B9SupportAttachmentData holds the information pretaining. " alt="" coords="541,456,720,483"/>
+</map>

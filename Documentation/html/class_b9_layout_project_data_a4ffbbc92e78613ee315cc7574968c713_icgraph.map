@@ -1,0 +1,16 @@
+<map id="B9LayoutProjectData::GetPixelSize" name="B9LayoutProjectData::GetPixelSize">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a8409404cf29931e63deacc05f6dbbe84" title="B9Layout::UpdateBuildSpaceUI" alt="" coords="201,192,407,219"/>
+<area shape="rect" id="node6" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="854,243,997,269"/>
+<area shape="rect" id="node10" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="212,395,396,421"/>
+<area shape="rect" id="node13" href="$class_b9_layout_project_data.html#a27e88c67818a1532da56de065f81b213" title="B9LayoutProjectData\l::Save" alt="" coords="231,278,377,319"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#aa19c04394ea75eb108e7aed867468b80" title="B9Layout::New" alt="" coords="475,116,587,143"/>
+<area shape="rect" id="node9" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="671,243,787,269"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#aa9b1a4aa78c9c25a8a35701bd476d832" title="B9Layout::B9Layout" alt="" coords="659,141,799,168"/>
+<area shape="rect" id="node5" href="$class_b9_layout.html#a72037f93b87b05d332a57e658e4667d0" title="B9Layout::closeEvent" alt="" coords="654,192,805,219"/>
+<area shape="rect" id="node7" href="$class_b9_slice.html#a7d711c4e07e0a89852405c028a7aa7cb" title="B9Slice::hideEvent" alt="" coords="663,40,796,67"/>
+<area shape="rect" id="node8" href="$class_b9_slice.html#acd2e23ba7d54188b3999c9787e60bee4" title="B9Slice::showEvent" alt="" coords="659,91,799,117"/>
+<area shape="rect" id="node11" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="457,395,605,421"/>
+<area shape="rect" id="node12" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="677,395,781,421"/>
+<area shape="rect" id="node14" href="$class_b9_layout.html#ad1038b42c7b240908f856dcf045f605e" title="B9Layout::Save" alt="" coords="672,293,787,320"/>
+<area shape="rect" id="node15" href="$class_b9_layout.html#ac595aad2c6bc507ef230cb68df5b9258" title="B9Layout::SaveAs" alt="" coords="465,243,596,269"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="B9Layout::XRayPercentage" name="B9Layout::XRayPercentage">
+<area shape="rect" id="node2" href="$class_world_view.html#ab6a77dbf0bc9386f217707cf37a47c78" title="WorldView::ResetCamera" alt="" coords="238,5,413,32"/>
+<area shape="rect" id="node3" href="$class_world_view.html#ae250d316e11fea9c3b17181f284fc92a" title="WorldView::paintGL" alt="" coords="461,5,600,32"/>
+</map>

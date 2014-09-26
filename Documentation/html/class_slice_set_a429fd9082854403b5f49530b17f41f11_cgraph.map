@@ -1,0 +1,5 @@
+<map id="SliceSet::RasterizeSlice" name="SliceSet::RasterizeSlice">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a7b0c75e90a7bfceb27f044eb723f14af" title="B9Layout::ProjectData" alt="" coords="219,5,373,32"/>
+<area shape="rect" id="node3" href="$class_b9_layout_project_data.html#ada22c5ba7fe8e33b209f5b04124dfd7a" title="B9LayoutProjectData\l::GetResolution" alt="" coords="223,57,369,98"/>
+<area shape="rect" id="node4" href="$class_slice_context.html#ad2d382b18e2c3335bf0340e89673088f" title="SliceContext::SetSlice" alt="" coords="219,123,373,149"/>
+</map>

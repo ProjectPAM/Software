@@ -1,0 +1,10 @@
+<map id="B9UpdateManager::GetLocalFileVersion" name="B9UpdateManager::GetLocalFileVersion">
+<area shape="rect" id="node2" href="$class_b9_printer_status.html#a21a256d8b74bdf974b4a12d530ea9130" title="B9PrinterStatus::isCurrent\lVersion" alt="" coords="271,63,446,105"/>
+<area shape="rect" id="node7" href="$class_b9_update_manager.html#a4f253c5b1aaea11b1fa1fc361d04ef0a" title="B9UpdateManager::CopyInRemote\lEntries" alt="" coords="245,134,472,175"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a7a47edf564160c731695b09e4b75912f" title="B9PrinterComm::RefreshComm\lPortItems" alt="" coords="521,53,729,94"/>
+<area shape="rect" id="node4" href="$class_b9_printer_comm.html#adda3b4b10775ab87594e08dbae6ade98" title="B9PrinterComm::B9PrinterComm" alt="" coords="779,5,995,32"/>
+<area shape="rect" id="node5" href="$class_b9_printer_comm.html#abe537ba42ff6ec10c54dba28ee3fbbb1" title="B9PrinterComm::watchDog" alt="" coords="795,56,978,83"/>
+<area shape="rect" id="node6" href="$class_b9_printer_comm.html#a50311eebbc0330f9dd6a974637f7f0ce" title="B9PrinterComm::startWatch\lDogTimer" alt="" coords="1043,49,1229,90"/>
+<area shape="rect" id="node8" href="$class_b9_update_manager.html#ac05ad264636294e9240fb707f00c8bed" title="B9UpdateManager::OnRecieved\lReply" alt="" coords="520,137,731,178"/>
+<area shape="rect" id="node9" href="$class_b9_update_manager.html#a08839a41be141b521eceaca7780af8c0" title="B9UpdateManager::B9Update\lManager" alt="" coords="789,158,985,199"/>
+</map>

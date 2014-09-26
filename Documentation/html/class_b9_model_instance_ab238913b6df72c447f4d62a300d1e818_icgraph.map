@@ -1,0 +1,6 @@
+<map id="B9ModelInstance::FreeFromSlicing" name="B9ModelInstance::FreeFromSlicing">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="240,5,424,32"/>
+<area shape="rect" id="node5" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="241,56,423,83"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="473,31,621,57"/>
+<area shape="rect" id="node4" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="669,31,773,57"/>
+</map>

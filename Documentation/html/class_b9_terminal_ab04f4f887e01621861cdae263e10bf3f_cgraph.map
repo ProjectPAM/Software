@@ -1,0 +1,4 @@
+<map id="B9Terminal::isConnected" name="B9Terminal::isConnected">
+<area shape="rect" id="node2" href="$class_b9_printer_comm.html#a149593b2de378ef6f3dc54ced6657928" title="B9PrinterComm::isConnected" alt="" coords="225,12,421,39"/>
+<area shape="rect" id="node3" href="$class_b9_printer_status.html#a8231ccafa88948caa5080fae12663d37" title="B9PrinterStatus::isValid\lVersion" alt="" coords="470,5,631,46"/>
+</map>

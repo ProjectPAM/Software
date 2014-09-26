@@ -1,0 +1,12 @@
+<map id="LoadingBar::setValue" name="LoadingBar::setValue">
+<area shape="rect" id="node2" href="$class_b9_edit.html#a01ea58c46dac46349813cf0ccc71c5a1" title="B9Edit::importSlicesFrom\lFirstFile" alt="" coords="228,5,399,46"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="218,71,409,97"/>
+<area shape="rect" id="node5" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="221,121,405,148"/>
+<area shape="rect" id="node8" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="222,172,405,199"/>
+<area shape="rect" id="node9" href="$class_b9_update_manager.html#a4f253c5b1aaea11b1fa1fc361d04ef0a" title="B9UpdateManager::CopyInRemote\lEntries" alt="" coords="200,223,427,265"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="509,41,651,68"/>
+<area shape="rect" id="node6" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="506,147,654,173"/>
+<area shape="rect" id="node7" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="780,147,884,173"/>
+<area shape="rect" id="node10" href="$class_b9_update_manager.html#ac05ad264636294e9240fb707f00c8bed" title="B9UpdateManager::OnRecieved\lReply" alt="" coords="475,223,685,265"/>
+<area shape="rect" id="node11" href="$class_b9_update_manager.html#a08839a41be141b521eceaca7780af8c0" title="B9UpdateManager::B9Update\lManager" alt="" coords="734,223,930,265"/>
+</map>

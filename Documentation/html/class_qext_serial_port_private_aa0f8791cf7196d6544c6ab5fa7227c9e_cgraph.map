@@ -1,0 +1,11 @@
+<map id="QextSerialPortPrivate::open_sys" name="QextSerialPortPrivate::open_sys">
+<area shape="rect" id="node2" href="$class_qext_serial_port_private.html#a93dbaf89172345288b00e936bc3ea87c" title="QextSerialPortPrivate\l::updatePortSettings" alt="" coords="203,27,351,69"/>
+<area shape="rect" id="node3" href="$class_qext_serial_port_private.html#a55836e767da039d663fbdb70557f4b73" title="QextSerialPortPrivate\l::_q_canRead" alt="" coords="203,93,351,134"/>
+<area shape="rect" id="node10" href="$class_qext_serial_port_private.html#af504151e61016c5e8a6d93378b834602" title="QextSerialPortPrivate\l::translateError" alt="" coords="203,158,351,199"/>
+<area shape="rect" id="node4" href="$class_qext_serial_port_private.html#a08f7713afcdbadd43a845233a659986d" title="QextSerialPortPrivate\l::bytesAvailable_sys" alt="" coords="410,5,558,46"/>
+<area shape="rect" id="node5" href="$class_qext_read_buffer.html#a999f128b49feab8ab71a9d11ef6f4b7a" title="QextReadBuffer::reserve" alt="" coords="401,71,567,97"/>
+<area shape="rect" id="node6" href="$class_qext_serial_port_private.html#ab4a75579c479ccebb5f325af737a7045" title="QextSerialPortPrivate\l::readData_sys" alt="" coords="410,122,558,163"/>
+<area shape="rect" id="node7" href="$class_qext_read_buffer.html#af17e28158a3206f118bf9216ffaa271e" title="QextReadBuffer::chop" alt="" coords="408,188,560,215"/>
+<area shape="rect" id="node8" href="$class_qext_read_buffer.html#ab903dcbd4394f4140f89ccff5ddae172" title="QextReadBuffer::clear" alt="" coords="616,163,768,189"/>
+<area shape="rect" id="node9" href="$class_qext_read_buffer.html#a6c0fbc8bc1722f058a1781319ecb3cd6" title="QextReadBuffer::size" alt="" coords="618,213,766,240"/>
+</map>

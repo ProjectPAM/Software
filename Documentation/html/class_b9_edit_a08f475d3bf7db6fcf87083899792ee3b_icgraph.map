@@ -1,0 +1,7 @@
+<map id="B9Edit::SetDirty" name="B9Edit::SetDirty">
+<area shape="rect" id="node2" href="$class_slice_edit_view.html#aa7f2318a5aad3bd4bdfcdcb3da1ddce1" title="SliceEditView::PrepareBase" alt="" coords="171,16,357,43"/>
+<area shape="rect" id="node4" href="$class_slice_edit_view.html#a935699270e315fb4a48d1e195c3045fd" title="SliceEditView::AddSupport" alt="" coords="175,71,353,97"/>
+<area shape="rect" id="node6" href="$class_slice_edit_view.html#a2fc17f86c95b2649b5c59a331da6bb81" title="SliceEditView::DeleteAll\lSupports" alt="" coords="182,122,346,163"/>
+<area shape="rect" id="node3" href="$class_slice_edit_view.html#a9eccd0797ef83bf4600673176e5bfb7f" title="SliceEditView::PromptBase\lOptions" alt="" coords="413,5,595,46"/>
+<area shape="rect" id="node5" href="$class_drawing_context.html#a72db62dac35c8795ff1ff7ac73ea4fa4" title="DrawingContext::mousePress\lEvent" alt="" coords="405,70,603,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="dlgCalProjector::on_comboBoxXPPixelSize_currentIndexChanged" name="dlgCalProjector::on_comboBoxXPPixelSize_currentIndexChanged">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#adcc253c07a240528c0e6a41c4a045354" title="B9Terminal::rcSendCmd" alt="" coords="219,19,384,45"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="432,19,613,45"/>
+<area shape="rect" id="node4" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="662,11,837,53"/>
+</map>

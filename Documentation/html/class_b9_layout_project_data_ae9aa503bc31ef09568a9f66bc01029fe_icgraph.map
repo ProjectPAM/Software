@@ -1,0 +1,10 @@
+<map id="B9LayoutProjectData::LoadDefaults" name="B9LayoutProjectData::LoadDefaults">
+<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#a68d53acd54d37832747c53f8186c9845" title="B9LayoutProjectData::New" alt="" coords="200,136,381,163"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#aa19c04394ea75eb108e7aed867468b80" title="B9Layout::New" alt="" coords="451,107,563,133"/>
+<area shape="rect" id="node9" href="$class_b9_layout_project_data.html#abc3ccc3e9d6efa26521e7a1e6cfccf4b" title="B9LayoutProjectData\l::B9LayoutProjectData" alt="" coords="429,158,584,199"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#aa9b1a4aa78c9c25a8a35701bd476d832" title="B9Layout::B9Layout" alt="" coords="638,5,778,32"/>
+<area shape="rect" id="node5" href="$class_b9_layout.html#a72037f93b87b05d332a57e658e4667d0" title="B9Layout::closeEvent" alt="" coords="633,56,783,83"/>
+<area shape="rect" id="node6" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="637,107,779,133"/>
+<area shape="rect" id="node7" href="$class_b9_slice.html#a7d711c4e07e0a89852405c028a7aa7cb" title="B9Slice::hideEvent" alt="" coords="641,157,775,184"/>
+<area shape="rect" id="node8" href="$class_b9_slice.html#acd2e23ba7d54188b3999c9787e60bee4" title="B9Slice::showEvent" alt="" coords="638,208,778,235"/>
+</map>

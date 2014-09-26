@@ -1,0 +1,17 @@
+<map id="DlgPrintPrep::on_spinBoxLayersToPrint_valueChanged" name="DlgPrintPrep::on_spinBoxLayersToPrint_valueChanged">
+<area shape="rect" id="node2" href="$class_crushed_print_job.html#acaa41d002847fe361dbe3079ca8ff2fe" title="CrushedPrintJob::getTotal\lLayers" alt="" coords="250,158,425,199"/>
+<area shape="rect" id="node3" href="$class_dlg_print_prep.html#a0281953ad2d9c5df3036da6c40a75a8c" title="DlgPrintPrep::updateTimes" alt="" coords="248,224,427,251"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#a140fb56b1579c0564e05fa3af92f99d4" title="B9Terminal::getEstComplete\lTimeMS" alt="" coords="487,129,678,170"/>
+<area shape="rect" id="node14" href="$class_crushed_print_job.html#ab1efa49815ffd20e7f003eee51389f11" title="CrushedPrintJob::getZLayermm" alt="" coords="479,195,686,221"/>
+<area shape="rect" id="node15" href="$class_crushed_print_job.html#addc7e2653ac6a01044942094917b069d" title="CrushedPrintJob::getTotal\lWhitePixels" alt="" coords="495,246,670,287"/>
+<area shape="rect" id="node16" href="$class_crushed_print_job.html#af43670af3c2474d9f1aac30e42fb4717" title="CrushedPrintJob::getXYPixelmm" alt="" coords="475,312,690,339"/>
+<area shape="rect" id="node5" href="$class_b9_terminal.html#ad9856d05a319901e3723ae756562df9f" title="B9Terminal::getLampAdjusted\lExposureTime" alt="" coords="739,45,936,86"/>
+<area shape="rect" id="node10" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="757,111,917,137"/>
+<area shape="rect" id="node12" href="$class_b9_terminal.html#ae12e25c5e8861dd34b4b31c428a109df" title="B9Terminal::getZMoveTime" alt="" coords="746,161,929,188"/>
+<area shape="rect" id="node13" href="$class_b9_terminal.html#aade364e46897a3024a6cd9409514b7be" title="B9Terminal::getVatMoveTime" alt="" coords="740,212,935,239"/>
+<area shape="rect" id="node6" href="$class_b9_printer_comm.html#aaec5b8baa0ae0381ce1110213be767c0" title="B9PrinterComm::getLampHrs" alt="" coords="984,5,1179,32"/>
+<area shape="rect" id="node8" href="$class_b9_printer_comm.html#acb39c34438f19854eeb73ddc634e5242" title="B9PrinterComm::getHalfLife" alt="" coords="988,56,1175,83"/>
+<area shape="rect" id="node7" href="$class_b9_printer_status.html#ae560999fd34816c0e38781b7c6683d3a" title="B9PrinterStatus::getLampHrs" alt="" coords="1227,5,1421,32"/>
+<area shape="rect" id="node9" href="$class_b9_printer_status.html#a1c9f4f08ac4ae36a37c06867394ec845" title="B9PrinterStatus::getHalfLife" alt="" coords="1231,56,1417,83"/>
+<area shape="rect" id="node11" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="1002,111,1161,137"/>
+</map>

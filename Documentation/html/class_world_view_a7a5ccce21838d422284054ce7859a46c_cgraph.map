@@ -1,0 +1,4 @@
+<map id="WorldView::GetPickOnTriangle" name="WorldView::GetPickOnTriangle">
+<area shape="rect" id="node2" href="$class_b9_model_instance.html#ab2c9d7561227b966b21876b1ba2debc4" title="B9ModelInstance::RenderSingle\lTrianglePickGL" alt="" coords="257,5,466,46"/>
+<area shape="rect" id="node3" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="274,71,449,97"/>
+</map>

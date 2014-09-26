@@ -1,0 +1,4 @@
+<map id="B9Terminal::onBC_UpperZLimPU" name="B9Terminal::onBC_UpperZLimPU">
+<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="272,5,432,32"/>
+<area shape="rect" id="node3" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="481,5,639,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DlgMaterialsManager::stuffData" name="DlgMaterialsManager::stuffData">
+<area shape="rect" id="node2" href="$class_b9_mat_cat.html#a6b609f6c455533a97e6c400ef06294c1" title="B9MatCat::getMaterialCount" alt="" coords="201,5,389,32"/>
+<area shape="rect" id="node3" href="$class_b9_mat_cat.html#a8298f5dbbbcdfbfab9cbaf9ccd13cb8a" title="B9MatCat::setTattach" alt="" coords="219,56,370,83"/>
+<area shape="rect" id="node4" href="$class_b9_mat_cat.html#a53055034989df3025248f296db90fe8d" title="B9MatCat::getCurMatIndex" alt="" coords="203,107,386,133"/>
+<area shape="rect" id="node5" href="$class_b9_mat_cat.html#aa5f6bce5e574f7d05db5eeca363f38b1" title="B9MatCat::getCurXYIndex" alt="" coords="205,157,384,184"/>
+<area shape="rect" id="node6" href="$class_b9_mat_cat.html#a90c255a3d3badc11da1fa50d6138d66e" title="B9MatCat::setTbase" alt="" coords="223,208,366,235"/>
+<area shape="rect" id="node7" href="$class_b9_mat_cat.html#a68354962d3f8d13ffa96ad7e97b83d7a" title="B9MatCat::setTover" alt="" coords="225,259,365,285"/>
+</map>

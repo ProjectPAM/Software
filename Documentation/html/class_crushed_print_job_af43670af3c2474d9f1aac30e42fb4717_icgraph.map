@@ -1,0 +1,24 @@
+<map id="CrushedPrintJob::getXYPixelmm" name="CrushedPrintJob::getXYPixelmm">
+<area shape="rect" id="node2" href="$class_b9_edit.html#a73b990ccdf293a349129a50827896c5c" title="B9Edit::importSlicesFromSvg" alt="" coords="288,5,483,32"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="290,56,481,83"/>
+<area shape="rect" id="node5" href="$class_b9_print.html#a84c25262040cab6093962fe32eef192b" title="B9Print::print3D" alt="" coords="829,157,944,184"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a88f7cf85584ccbdf7c1e9cfa2ab736ca" title="MainWindow::AttemptPrint\lDialogWithFile" alt="" coords="1187,125,1365,166"/>
+<area shape="rect" id="node15" href="$class_b9_projector.html#a17744e6e42f22a0b37ad696ebed8f611" title="B9Projector::createNormalizedMask" alt="" coords="269,233,501,260"/>
+<area shape="rect" id="node19" href="$class_dlg_print_prep.html#aa2b6ad3885d999855c24dc299f611c7b" title="DlgPrintPrep::DlgPrintPrep" alt="" coords="576,360,755,387"/>
+<area shape="rect" id="node20" href="$class_dlg_print_prep.html#a0281953ad2d9c5df3036da6c40a75a8c" title="DlgPrintPrep::updateTimes" alt="" coords="296,419,475,445"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="595,31,736,57"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a925db8df9c1c11bfa1fb1a5a90975720" title="MainWindow::doPrint" alt="" coords="992,157,1139,184"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a5472ba09210963f686d7a4f014af19d7" title="MainWindow::OpenJobFile" alt="" coords="1429,103,1608,129"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a0bfce4d702b28b3b4827fb113e270e84" title="MainWindow::on_commandPrint\l_clicked" alt="" coords="1413,154,1624,195"/>
+<area shape="rect" id="node9" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="1673,103,1898,129"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1947,103,1997,129"/>
+<area shape="rect" id="node11" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="2046,77,2202,104"/>
+<area shape="rect" id="node12" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="2046,128,2202,155"/>
+<area shape="rect" id="node14" href="$class_main_window.html#a282dac29e83e9a71f2c317ed64d2ddbf" title="MainWindow::showPrint" alt="" coords="1704,161,1867,188"/>
+<area shape="rect" id="node16" href="$class_b9_projector.html#ac7b5c7f42ed7cb0a367312451ce0ddbf" title="B9Projector::showProjector" alt="" coords="575,259,756,285"/>
+<area shape="rect" id="node17" href="$class_b9_projector.html#a3dc60e5622fd8c776515f0660de7dfff" title="B9Projector::resizeEvent" alt="" coords="582,309,749,336"/>
+<area shape="rect" id="node18" href="$class_b9_terminal.html#aa70a9d61d00d0b537e52dd9d6c1eef62" title="B9Terminal::createNormalizedMask" alt="" coords="550,208,781,235"/>
+<area shape="rect" id="node21" href="$class_dlg_print_prep.html#a9365672c35ec9624865f4f63eefd220d" title="DlgPrintPrep::on_comboBox\lMaterial_currentIndexChanged" alt="" coords="566,411,765,453"/>
+<area shape="rect" id="node22" href="$class_dlg_print_prep.html#a2a227086df02fc383b9a04eebf8d3529" title="DlgPrintPrep::on_pushButton\lReleaseCycle_clicked" alt="" coords="570,477,761,518"/>
+<area shape="rect" id="node23" href="$class_dlg_print_prep.html#a8d2e41eed1fc75184b7fb29fb670c355" title="DlgPrintPrep::on_spinBox\lLayersToPrint_valueChanged" alt="" coords="569,542,762,583"/>
+</map>

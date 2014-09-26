@@ -1,0 +1,8 @@
+<map id="B9SupportStructure::IsTopAngleUp" name="B9SupportStructure::IsTopAngleUp">
+<area shape="rect" id="node2" href="$class_b9_support_structure.html#a8d350da181e7ed5e2c0d301d7370a3f0" title="B9SupportStructure\l::IsTopPrintable" alt="" coords="189,27,325,69"/>
+<area shape="rect" id="node3" href="$class_b9_support_structure.html#a31b5c0bb7d06b28a3969bb93bdd213af" title="B9SupportStructure\l::IsPrintable" alt="" coords="373,27,509,69"/>
+<area shape="rect" id="node4" href="$class_world_view.html#a0c33e14f0640d2ff517a2cf4b4245a57" title="WorldView::OnToolDragAction" alt="" coords="557,5,757,32"/>
+<area shape="rect" id="node6" href="$class_world_view.html#ab120ac8eb7705eb070c112040240e827" title="WorldView::OnToolRelease\lAction" alt="" coords="566,57,749,98"/>
+<area shape="rect" id="node5" href="$class_world_view.html#a7b62bf386eb906f3265aa127566667fa" title="WorldView::mouseMoveEvent" alt="" coords="814,5,1013,32"/>
+<area shape="rect" id="node7" href="$class_world_view.html#a177e8eaa0cf4c0d2c3b236af2c84a67a" title="WorldView::mouseReleaseEvent" alt="" coords="806,64,1021,91"/>
+</map>

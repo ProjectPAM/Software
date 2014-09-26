@@ -1,0 +1,8 @@
+<map id="B9Terminal::on_pushButtonCmdReset_clicked" name="B9Terminal::on_pushButtonCmdReset_clicked">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#aa46717017606677a75b5841a7185da09" title="B9Terminal::rcResetHomePos" alt="" coords="237,67,437,93"/>
+<area shape="rect" id="node3" href="$classdlg_cal_build_table.html#a82e64aff90f85de5ba148601eae1b15e" title="dlgCalBuildTable::findHome" alt="" coords="489,15,673,41"/>
+<area shape="rect" id="node5" href="$classdlg_cal_projector.html#aaafb96f7609282a976ee01afcc38bd48" title="dlgCalProjector::findHome" alt="" coords="494,67,669,93"/>
+<area shape="rect" id="node7" href="$class_dlg_print_prep.html#ae2068f0339dc5f733661e7cb4669793d" title="DlgPrintPrep::on_pushButton\lStep3_clicked" alt="" coords="486,118,677,159"/>
+<area shape="rect" id="node4" href="$classdlg_cal_build_table.html#ae99d3903fd1a940c2ebbcdd293606ea3" title="dlgCalBuildTable::on\l_Step3" alt="" coords="738,5,881,46"/>
+<area shape="rect" id="node6" href="$classdlg_cal_projector.html#ade4575d8774d296a652dcac57799f518" title="dlgCalProjector::onStep3" alt="" coords="726,71,893,97"/>
+</map>

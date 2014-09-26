@@ -1,0 +1,24 @@
+<map id="SliceSet::ComputeSlice" name="SliceSet::ComputeSlice">
+<area shape="rect" id="node2" href="$class_slice.html#a732db7a7fab1a1af727aeabf9d117327" title="Slice::GenerateSegments" alt="" coords="240,121,411,148"/>
+<area shape="rect" id="node12" href="$class_slice.html#a6d82f2ce5b3dbcd01cc121f78954cf5e" title="Slice::SortSegmentsByX" alt="" coords="242,501,409,528"/>
+<area shape="rect" id="node14" href="$class_slice.html#ad5c9c6af2a24164113d4320ff986ab1b" title="Slice::ConnectSegmentNeighbors" alt="" coords="216,324,435,351"/>
+<area shape="rect" id="node18" href="$class_slice.html#a74e333fd2d47ac31a380c9f1d39f8cf1" title="Slice::GenerateLoops" alt="" coords="252,425,399,452"/>
+<area shape="rect" id="node3" href="$class_b9_model_instance.html#ab3b88c806969e4e6d8f9d0a0f8375a51" title="B9ModelInstance::GetTriangles\lAroundZ" alt="" coords="483,5,688,46"/>
+<area shape="rect" id="node4" href="$class_triangle3_d.html#a961a725fdeb38897f8af4e2e010604bb" title="Triangle3D::IntersectsXYPlane" alt="" coords="484,71,687,97"/>
+<area shape="rect" id="node9" href="$class_segment.html#a1ab48ecf6b2d61a64c530bdf37e2ce7f" title="Segment::CorrectPointOrder" alt="" coords="492,121,679,148"/>
+<area shape="rect" id="node11" href="$class_slice.html#a65db8b8d3c64358bbb1bce7fae11cc65" title="Slice::AddSegment" alt="" coords="978,324,1113,351"/>
+<area shape="rect" id="node5" href="$class_triangle3_d.html#aa096a40a0449d819d25a7de364bff53b" title="Triangle3D::IsBad" alt="" coords="766,71,893,97"/>
+<area shape="rect" id="node8" href="$class_triangle3_d.html#a8bc95a5fe12313861aba7e3a3ea9b5a3" title="Triangle3D::ParallelXYPlane" alt="" coords="736,20,923,47"/>
+<area shape="rect" id="node6" href="$geometricfunctions_8cpp.html#a08bb76383bc5dc89f94334abb3750fe1" title="Distance3D" alt="" coords="1000,71,1091,97"/>
+<area shape="rect" id="node7" href="$geometricfunctions_8cpp.html#a33153d828297aac1d81548f936a43de3" title="IsZero" alt="" coords="1016,172,1075,199"/>
+<area shape="rect" id="node10" href="$geometricfunctions_8cpp.html#a81204b3a3719ae3fc19a0e81b9e8af99" title="PointLineCompare" alt="" coords="765,121,894,148"/>
+<area shape="rect" id="node13" href="$class_segment.html#a1aaf218d53ee341d320caf7c4fc6962b" title="Segment::lessthanX" alt="" coords="515,527,655,553"/>
+<area shape="rect" id="node15" href="$class_slice.html#af83e7726266bc57e45facd01ec80e0f2" title="Slice::GetSegmentsAroundX" alt="" coords="491,273,680,300"/>
+<area shape="rect" id="node16" href="$geometricfunctions_8cpp.html#abfbe6ba15075e74a90132db0beca5788" title="Distance2D" alt="" coords="540,324,631,351"/>
+<area shape="rect" id="node17" href="$class_segment.html#a44276838e3017f05ae7ca8c1a204b87d" title="Segment::FormNormal" alt="" coords="508,375,663,401"/>
+<area shape="rect" id="node19" href="$class_loop.html#a71df9aefd6fbd7d70c2a5f7169c2f42c" title="Loop::Grow" alt="" coords="541,476,630,503"/>
+<area shape="rect" id="node23" href="$class_loop.html#a58b7ad4857a07ec7933d0e42149ce333" title="Loop::Destroy" alt="" coords="533,425,637,452"/>
+<area shape="rect" id="node20" href="$class_loop.html#a90020843d031f5619eaae5849044cc07" title="Loop::AttachSegment" alt="" coords="971,476,1119,503"/>
+<area shape="rect" id="node21" href="$class_loop.html#a106ef68596a85b9fe34f32c841ffa804" title="Loop::SealHole" alt="" coords="774,425,885,452"/>
+<area shape="rect" id="node22" href="$class_segment.html#adfe9fc7ffcc7269f961d4b1f6720d1e8" title="Segment::Segment" alt="" coords="978,425,1113,452"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="B9SupportStructure::GetTopPivot" name="B9SupportStructure::GetTopPivot">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a0f537938674e1617803c3a66b2cb83c9" title="B9Layout::MakeSelectedSupports\lVertical" alt="" coords="193,5,413,46"/>
+<area shape="rect" id="node3" href="$class_b9_model_instance.html#a0a7685950d847c415bc2fbe8f00a9873" title="B9ModelInstance::RenderSupports\lTipsGL" alt="" coords="190,70,415,111"/>
+<area shape="rect" id="node6" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="219,135,386,177"/>
+<area shape="rect" id="node8" href="$class_world_view.html#a0c33e14f0640d2ff517a2cf4b4245a57" title="WorldView::OnToolDragAction" alt="" coords="203,201,403,228"/>
+<area shape="rect" id="node4" href="$class_world_view.html#a42aabb5186b56d687d6bb0f8aa8efbe9" title="WorldView::DrawInstances" alt="" coords="473,77,655,104"/>
+<area shape="rect" id="node5" href="$class_world_view.html#ae250d316e11fea9c3b17181f284fc92a" title="WorldView::paintGL" alt="" coords="712,77,851,104"/>
+<area shape="rect" id="node7" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="464,143,664,169"/>
+<area shape="rect" id="node9" href="$class_world_view.html#a7b62bf386eb906f3265aa127566667fa" title="WorldView::mouseMoveEvent" alt="" coords="465,201,663,228"/>
+</map>

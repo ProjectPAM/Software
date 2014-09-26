@@ -1,0 +1,7 @@
+<map id="B9LayoutProjectData::Save" name="B9LayoutProjectData::Save">
+<area shape="rect" id="node2" href="$class_b9_layout.html#ad1038b42c7b240908f856dcf045f605e" title="B9Layout::Save" alt="" coords="397,5,512,32"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#ac595aad2c6bc507ef230cb68df5b9258" title="B9Layout::SaveAs" alt="" coords="200,56,331,83"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="397,56,513,83"/>
+<area shape="rect" id="node6" href="$class_b9_layout.html#a72037f93b87b05d332a57e658e4667d0" title="B9Layout::closeEvent" alt="" coords="379,107,530,133"/>
+<area shape="rect" id="node5" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="579,56,722,83"/>
+</map>

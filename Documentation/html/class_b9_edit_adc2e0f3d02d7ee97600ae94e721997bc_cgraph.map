@@ -1,0 +1,17 @@
+<map id="B9Edit::PatchJobData" name="B9Edit::PatchJobData">
+<area shape="rect" id="node2" href="$class_b9_edit.html#ab30166335f6c4d0f411f6cd91c1b0dee" title="B9Edit::updateWindowTitle" alt="" coords="217,35,397,61"/>
+<area shape="rect" id="node3" href="$class_crushed_print_job.html#acaa41d002847fe361dbe3079ca8ff2fe" title="CrushedPrintJob::getTotal\lLayers" alt="" coords="219,86,394,127"/>
+<area shape="rect" id="node4" href="$class_crushed_print_job.html#a033a8f0b728353dc8b10ed67fecff1e3" title="CrushedPrintJob::setCurrent\lSlice" alt="" coords="213,151,401,193"/>
+<area shape="rect" id="node5" href="$class_crushed_print_job.html#a27def84f36f56205825b1df38c0845e0" title="CrushedPrintJob::crushCurrent\lSlice" alt="" coords="205,217,408,258"/>
+<area shape="rect" id="node6" href="$class_crushed_print_job.html#a54d81f75c536403416c6a1b42b12c2d7" title="CrushedPrintJob::crushSlice" alt="" coords="457,224,645,251"/>
+<area shape="rect" id="node7" href="$class_crushed_print_job.html#aa3bf3dec3d79afe9bd731d2bbe9e39c2" title="CrushedPrintJob::getCBMSlice" alt="" coords="694,85,898,112"/>
+<area shape="rect" id="node11" href="$class_crushed_bit_map.html#a52308acd10643cf4dee4c64c3128ca0f" title="CrushedBitMap::crushSlice" alt="" coords="705,199,887,225"/>
+<area shape="rect" id="node15" href="$class_crushed_bit_map.html#acc7f154a88d13c71756b2ee7533c3ddc" title="CrushedBitMap::getWidth" alt="" coords="710,249,882,276"/>
+<area shape="rect" id="node16" href="$class_crushed_bit_map.html#afd063279eafd6a2b235f5c42a61047fb" title="CrushedBitMap::getHeight" alt="" coords="708,300,884,327"/>
+<area shape="rect" id="node8" href="$class_crushed_bit_map.html#a1b5e5dce37b8449e5e5be255dbcd42f7" title="CrushedBitMap::setWidth" alt="" coords="970,5,1142,32"/>
+<area shape="rect" id="node9" href="$class_crushed_bit_map.html#a16832c570d6fb9397df3411d037e9631" title="CrushedBitMap::setHeight" alt="" coords="968,56,1144,83"/>
+<area shape="rect" id="node10" href="$class_crushed_bit_map.html#a55f356b57d5abdbabbce4b75eebfe0dc" title="CrushedBitMap::setIsBase\lLayer" alt="" coords="967,107,1145,149"/>
+<area shape="rect" id="node12" href="$class_crushed_bit_map.html#a2bf3dec8e51a53de106dff76838bf8e8" title="CrushedBitMap::pixelIsWhite" alt="" coords="960,173,1152,200"/>
+<area shape="rect" id="node13" href="$class_crushed_bit_map.html#ad9496c496cfb5f3d249a78313592bfff" title="CrushedBitMap::pushBits" alt="" coords="971,224,1141,251"/>
+<area shape="rect" id="node14" href="$class_crushed_bit_map.html#ab0e06b59f8bf7079e3246b8cf4ff3082" title="CrushedBitMap::computeKeySize" alt="" coords="947,275,1165,301"/>
+</map>

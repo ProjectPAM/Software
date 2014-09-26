@@ -1,0 +1,4 @@
+<map id="SliceEditView::SetDrawTool" name="SliceEditView::SetDrawTool">
+<area shape="rect" id="node2" href="$class_slice_edit_view.html#a1c9f40aa2edbc8edace5841f825586b0" title="SliceEditView::PopDrawButtons" alt="" coords="240,5,451,32"/>
+<area shape="rect" id="node3" href="$class_drawing_context.html#ac09e543f7021d83b6c9174253eb67be3" title="DrawingContext::SetPenColor" alt="" coords="246,56,445,83"/>
+</map>

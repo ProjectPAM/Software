@@ -1,0 +1,8 @@
+<map id="ProjectData::SetDefaults" name="ProjectData::SetDefaults">
+<area shape="rect" id="node2" href="$class_project_data.html#a107fb7c9d17ed24a52b48458edbdabc0" title="ProjectData::SetPixelSize" alt="" coords="498,5,673,32"/>
+<area shape="rect" id="node4" href="$class_project_data.html#a94de412ea83dde58ee2f706b3d75c795" title="ProjectData::SetPixelThickness" alt="" coords="481,56,689,83"/>
+<area shape="rect" id="node5" href="$class_project_data.html#a02a07f06cd69349d7f85be8d7d7d6230" title="ProjectData::SetResolution" alt="" coords="236,107,417,133"/>
+<area shape="rect" id="node6" href="$class_project_data.html#a748e67f05e2f91bb709e63119d5a34fd" title="ProjectData::CalculateBuildArea" alt="" coords="221,157,432,184"/>
+<area shape="rect" id="node7" href="$class_project_data.html#a3b44641698b0cdfb8aebb3ce865662e9" title="ProjectData::SetBuildSpaceSize" alt="" coords="480,157,691,184"/>
+<area shape="rect" id="node3" href="$class_project_data.html#a177eb82a4f75d287a04a5242b06ad253" title="ProjectData::SetDirtied" alt="" coords="739,81,896,108"/>
+</map>
