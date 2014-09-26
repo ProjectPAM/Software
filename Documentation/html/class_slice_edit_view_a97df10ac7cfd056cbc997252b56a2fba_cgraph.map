@@ -1,0 +1,5 @@
+<map id="SliceEditView::SetSupportTool" name="SliceEditView::SetSupportTool">
+<area shape="rect" id="node2" href="$class_slice_edit_view.html#abbbdd9b28ebe61947747bb70f60e9ee4" title="SliceEditView::PopSupport\lButtons" alt="" coords="256,5,435,46"/>
+<area shape="rect" id="node3" href="$class_simple_support.html#a8c8a326b7be5588900b264eb0ed3e9b8" title="SimpleSupport::getCursor\lImage" alt="" coords="259,70,431,111"/>
+<area shape="rect" id="node4" href="$class_simple_support.html#aab26a9f60af88d523e250f82d84be3a7" title="SimpleSupport::draw" alt="" coords="483,77,626,104"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="B9Edit::updateWindowTitle" name="B9Edit::updateWindowTitle">
+<area shape="rect" id="node2" href="$class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808" title="B9Edit::newJob" alt="" coords="495,32,609,59"/>
+<area shape="rect" id="node5" href="$class_b9_edit.html#afb05e7b06728a265059e52ef5ee58cc6" title="B9Edit::openJob" alt="" coords="493,99,611,125"/>
+<area shape="rect" id="node7" href="$class_b9_edit.html#ac8f7b86feec70c746f02e5fb759e34f7" title="B9Edit::saveJob" alt="" coords="263,79,382,105"/>
+<area shape="rect" id="node8" href="$class_b9_edit.html#adc2e0f3d02d7ee97600ae94e721997bc" title="B9Edit::PatchJobData" alt="" coords="247,180,399,207"/>
+<area shape="rect" id="node9" href="$class_b9_edit.html#a08f475d3bf7db6fcf87083899792ee3b" title="B9Edit::SetDirty" alt="" coords="264,231,381,257"/>
+<area shape="rect" id="node15" href="$class_b9_edit.html#a5cde6f7ddd7aa233a5bd9f7161bbaa80" title="B9Edit::updateVersion" alt="" coords="247,281,399,308"/>
+<area shape="rect" id="node16" href="$class_b9_edit.html#af912f9f41767d3c93dd3d7c74f8253f7" title="B9Edit::updateName" alt="" coords="251,332,394,359"/>
+<area shape="rect" id="node17" href="$class_b9_edit.html#a42586a3a29af08f0f26b36a3cf5ce6b0" title="B9Edit::updateDescription" alt="" coords="235,383,410,409"/>
+<area shape="rect" id="node18" href="$class_b9_edit.html#a7fe49178aa65924dd90d92fab3f8f1b1" title="B9Edit::updateXY" alt="" coords="259,433,386,460"/>
+<area shape="rect" id="node19" href="$class_b9_edit.html#a34c9dd4385f906b5ec5e5221ca45c246" title="B9Edit::updateZ" alt="" coords="265,484,381,511"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="738,56,846,83"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a56a3b1732d0f09facfb82b7c87d34e18" title="B9Edit::closeEvent" alt="" coords="725,5,859,32"/>
+<area shape="rect" id="node6" href="$class_b9_edit.html#a28d3b014af316b7e9a16aaaf9085cea2" title="B9Edit::dropEvent" alt="" coords="728,107,856,133"/>
+<area shape="rect" id="node10" href="$class_slice_edit_view.html#aa7f2318a5aad3bd4bdfcdcb3da1ddce1" title="SliceEditView::PrepareBase" alt="" coords="459,176,645,203"/>
+<area shape="rect" id="node12" href="$class_slice_edit_view.html#a935699270e315fb4a48d1e195c3045fd" title="SliceEditView::AddSupport" alt="" coords="463,231,641,257"/>
+<area shape="rect" id="node14" href="$class_slice_edit_view.html#a2fc17f86c95b2649b5c59a331da6bb81" title="SliceEditView::DeleteAll\lSupports" alt="" coords="470,282,634,323"/>
+<area shape="rect" id="node11" href="$class_slice_edit_view.html#a9eccd0797ef83bf4600673176e5bfb7f" title="SliceEditView::PromptBase\lOptions" alt="" coords="701,162,883,203"/>
+<area shape="rect" id="node13" href="$class_drawing_context.html#a72db62dac35c8795ff1ff7ac73ea4fa4" title="DrawingContext::mousePress\lEvent" alt="" coords="693,227,891,269"/>
+</map>

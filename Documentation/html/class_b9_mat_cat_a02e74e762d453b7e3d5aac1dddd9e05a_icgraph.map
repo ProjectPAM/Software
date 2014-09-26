@@ -1,0 +1,8 @@
+<map id="B9MatCat::SaveUserMaterialsToRegister" name="B9MatCat::SaveUserMaterialsToRegister">
+<area shape="rect" id="node2" href="$class_b9_mat_cat.html#a53322c25085f6f8ac63db9412ce42c55" title="B9MatCat::load" alt="" coords="255,71,369,97"/>
+<area shape="rect" id="node6" href="$class_b9_mat_cat.html#aae6d1785b01fc8cbac787207a1ce5efa" title="B9MatCat::save" alt="" coords="253,136,371,163"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#a65c7b05e511d910a06aca9204a6bc215" title="B9Terminal::onBC_ModelInfo" alt="" coords="419,5,613,32"/>
+<area shape="rect" id="node5" href="$class_dlg_materials_manager.html#af99540c06075124231d7d62bc36b0abe" title="DlgMaterialsManager\l::on_buttonBoxSaveCancel\l_rejected" alt="" coords="425,56,607,112"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="661,5,824,32"/>
+<area shape="rect" id="node7" href="$class_dlg_materials_manager.html#a7b7ab0b8b69276d2818b6fa26c32b4ae" title="DlgMaterialsManager\l::on_buttonBoxSaveCancel\l_accepted" alt="" coords="425,136,607,192"/>
+</map>

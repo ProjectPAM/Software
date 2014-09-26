@@ -1,0 +1,5 @@
+<map id="B9Tesselator::GetTrangleStrip" name="B9Tesselator::GetTrangleStrip">
+<area shape="rect" id="node2" href="$b9tesselator_8h.html#ab8fb98c9b78120ab1d6e8af4774f72ad" title="tessVertexCB" alt="" coords="224,12,328,39"/>
+<area shape="rect" id="node3" href="$class_b9_tesselator.html#acadefb6f8e930d63334019d436a27b35" title="B9Tesselator::Triangulate" alt="" coords="376,12,547,39"/>
+<area shape="rect" id="node4" href="$class_loop.html#a16bc72c5086f047a5ebc8b6a4abb1e75" title="Loop::formTriStrip" alt="" coords="595,12,722,39"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="LogFileManager::setPrinting" name="LogFileManager::setPrinting">
+<area shape="rect" id="node2" href="$class_main_window.html#aaede3008a9b4c24958af6dc5e61d4ecf" title="MainWindow::handleW4Hide" alt="" coords="238,8,429,35"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a925db8df9c1c11bfa1fb1a5a90975720" title="MainWindow::doPrint" alt="" coords="260,60,407,87"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="478,5,658,32"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a88f7cf85584ccbdf7c1e9cfa2ab736ca" title="MainWindow::AttemptPrint\lDialogWithFile" alt="" coords="479,57,657,98"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a5472ba09210963f686d7a4f014af19d7" title="MainWindow::OpenJobFile" alt="" coords="723,35,901,61"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a0bfce4d702b28b3b4827fb113e270e84" title="MainWindow::on_commandPrint\l_clicked" alt="" coords="707,86,917,127"/>
+<area shape="rect" id="node7" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="966,35,1191,61"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1240,35,1291,61"/>
+<area shape="rect" id="node9" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1339,9,1495,36"/>
+<area shape="rect" id="node10" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1339,60,1495,87"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a282dac29e83e9a71f2c317ed64d2ddbf" title="MainWindow::showPrint" alt="" coords="997,93,1160,120"/>
+</map>

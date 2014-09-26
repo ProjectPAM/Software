@@ -1,0 +1,5 @@
+<map id="B9Terminal::updateProjector" name="B9Terminal::updateProjector">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#a12591bd6e88e45fca80896535d0823e5" title="B9Terminal::onBC_ProjStatus\lChanged" alt="" coords="240,5,437,46"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="760,12,923,39"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#a6109e9c6b71cb34fd8af970cf798c238" title="B9Terminal::onBC_ProjStatusFAIL" alt="" coords="486,37,711,64"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="B9Terminal::getXYPixelSize" name="B9Terminal::getXYPixelSize">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#afabf472d3a46a9f412124a72e4a942fe" title="B9Terminal::on_comboBoxXPPixel\lSize_currentIndexChanged" alt="" coords="240,5,467,46"/>
+<area shape="rect" id="node3" href="$classdlg_cal_projector.html#a72b2a9c323b5707df56081cd5dc6a5bb" title="dlgCalProjector::dlgCalProjector" alt="" coords="249,71,457,97"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a88f7cf85584ccbdf7c1e9cfa2ab736ca" title="MainWindow::AttemptPrint\lDialogWithFile" alt="" coords="264,122,443,163"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a5472ba09210963f686d7a4f014af19d7" title="MainWindow::OpenJobFile" alt="" coords="531,100,709,127"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a0bfce4d702b28b3b4827fb113e270e84" title="MainWindow::on_commandPrint\l_clicked" alt="" coords="515,151,725,193"/>
+<area shape="rect" id="node6" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="774,100,999,127"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1048,100,1099,127"/>
+<area shape="rect" id="node8" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1147,75,1303,101"/>
+<area shape="rect" id="node9" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1147,125,1303,152"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a282dac29e83e9a71f2c317ed64d2ddbf" title="MainWindow::showPrint" alt="" coords="805,159,968,185"/>
+</map>

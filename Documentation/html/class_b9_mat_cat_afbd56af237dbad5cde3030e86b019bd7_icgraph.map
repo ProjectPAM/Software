@@ -1,0 +1,4 @@
+<map id="B9MatCat::deleteMaterial" name="B9MatCat::deleteMaterial">
+<area shape="rect" id="node2" href="$class_dlg_materials_manager.html#aa5254954b12cad50c657f88789d63440" title="DlgMaterialsManager\l::on_pushButtonDelete\l_clicked" alt="" coords="233,5,388,61"/>
+<area shape="rect" id="node3" href="$class_dlg_materials_manager.html#a7b3610dd939f41252afe8d408417bca4" title="DlgMaterialsManager\l::on_pushButtonDuplicate\l_clicked" alt="" coords="225,85,397,141"/>
+</map>

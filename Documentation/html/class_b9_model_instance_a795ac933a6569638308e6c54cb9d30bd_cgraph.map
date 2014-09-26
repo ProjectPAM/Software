@@ -1,0 +1,5 @@
+<map id="B9ModelInstance::RenderPickGL" name="B9ModelInstance::RenderPickGL">
+<area shape="rect" id="node2" href="$class_b9_support_structure.html#a2df054c0e786a91a3446a3ce387f63eb" title="B9SupportStructure\l::RenderLower" alt="" coords="269,5,405,46"/>
+<area shape="rect" id="node3" href="$class_b9_support_structure.html#a9ccf8ff67439cdc8c0ed730ac2c3cba1" title="B9SupportStructure\l::RenderBottomGL" alt="" coords="453,5,589,46"/>
+<area shape="rect" id="node4" href="$class_b9_support_attachment_data.html#a7ed5a5293bf1b623dc3df46cf248b795" title="B9SupportAttachmentData\l::Render" alt="" coords="637,5,816,46"/>
+</map>

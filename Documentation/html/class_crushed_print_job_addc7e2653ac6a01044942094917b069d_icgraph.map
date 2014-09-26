@@ -1,0 +1,7 @@
+<map id="CrushedPrintJob::getTotalWhitePixels" name="CrushedPrintJob::getTotalWhitePixels">
+<area shape="rect" id="node2" href="$class_dlg_print_prep.html#aa2b6ad3885d999855c24dc299f611c7b" title="DlgPrintPrep::DlgPrintPrep" alt="" coords="467,5,645,32"/>
+<area shape="rect" id="node3" href="$class_dlg_print_prep.html#a0281953ad2d9c5df3036da6c40a75a8c" title="DlgPrintPrep::updateTimes" alt="" coords="229,64,408,91"/>
+<area shape="rect" id="node4" href="$class_dlg_print_prep.html#a9365672c35ec9624865f4f63eefd220d" title="DlgPrintPrep::on_comboBox\lMaterial_currentIndexChanged" alt="" coords="457,57,655,98"/>
+<area shape="rect" id="node5" href="$class_dlg_print_prep.html#a2a227086df02fc383b9a04eebf8d3529" title="DlgPrintPrep::on_pushButton\lReleaseCycle_clicked" alt="" coords="461,122,651,163"/>
+<area shape="rect" id="node6" href="$class_dlg_print_prep.html#a8d2e41eed1fc75184b7fb29fb670c355" title="DlgPrintPrep::on_spinBox\lLayersToPrint_valueChanged" alt="" coords="459,187,653,229"/>
+</map>

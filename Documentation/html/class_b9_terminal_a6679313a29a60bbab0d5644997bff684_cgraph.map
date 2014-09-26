@@ -1,0 +1,7 @@
+<map id="B9Terminal::setProjectorPowerCmd" name="B9Terminal::setProjectorPowerCmd">
+<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ac2e1587b9667345ac5f0eceaadfc4441" title="B9PrinterComm::setProjector\lPowerCmd" alt="" coords="222,63,415,105"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="469,12,651,39"/>
+<area shape="rect" id="node5" href="$class_b9_printer_status.html#ac2f6a0c411cbcf8ee987d20cfb80ad76" title="B9PrinterStatus::setProjector\lStatus" alt="" coords="464,63,656,105"/>
+<area shape="rect" id="node6" href="$class_b9_printer_status.html#a93ec5214e446b357e5b6b5deb24bad6c" title="B9PrinterStatus::resetLast\lProjCmdTime" alt="" coords="472,129,648,170"/>
+<area shape="rect" id="node4" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="705,5,879,46"/>
+</map>

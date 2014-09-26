@@ -1,0 +1,23 @@
+<map id="/home/daniel/Git/Software/B9Creator/b9nativeapp.h" name="/home/daniel/Git/Software/B9Creator/b9nativeapp.h">
+<area shape="rect" id="node3" href="$mainwindow_8h.html" title="mainwindow.h" alt="" coords="977,96,1081,123"/>
+<area shape="rect" id="node47" href="$_o_s___wrapper___functions_8h.html" title="OS_Wrapper_Functions.h" alt="" coords="2361,245,2532,272"/>
+<area shape="rect" id="node8" href="$logfilemanager_8h.html" title="logfilemanager.h" alt="" coords="2132,320,2248,347"/>
+<area shape="rect" id="node10" href="$b9layout_8h.html" title="b9layout/b9layout.h" alt="" coords="194,245,328,272"/>
+<area shape="rect" id="node17" href="$b9slice_8h.html" title="b9slice.h" alt="" coords="381,171,455,197"/>
+<area shape="rect" id="node19" href="$b9edit_8h.html" title="b9edit/b9edit.h" alt="" coords="1624,171,1731,197"/>
+<area shape="rect" id="node32" href="$b9print_8h.html" title="b9print.h" alt="" coords="993,171,1065,197"/>
+<area shape="rect" id="node36" href="$helpsystem_8h.html" title="helpsystem.h" alt="" coords="1141,245,1240,272"/>
+<area shape="rect" id="node38" href="$b9terminal_8h.html" title="b9terminal.h" alt="" coords="703,245,796,272"/>
+<area shape="rect" id="node44" href="$dlgprintprep_8h.html" title="dlgprintprep.h" alt="" coords="671,171,771,197"/>
+<area shape="rect" id="node45" href="$dlgcalbuildtable_8h.html" title="dlgcalbuildtable.h" alt="" coords="796,171,919,197"/>
+<area shape="rect" id="node46" href="$dlgcalprojector_8h.html" title="dlgcalprojector.h" alt="" coords="531,171,647,197"/>
+<area shape="rect" id="node13" href="$worldview_8h.html" title="worldview.h" alt="" coords="92,320,183,347"/>
+<area shape="rect" id="node15" href="$b9supportstructure_8h.html" title="b9supportstructure.h" alt="" coords="207,395,347,421"/>
+<area shape="rect" id="node25" href="$crushbitmap_8h.html" title="crushbitmap.h" alt="" coords="1521,395,1625,421"/>
+<area shape="rect" id="node28" href="$_slice_edit_view_8h.html" title="SliceEditView.h" alt="" coords="1389,245,1504,272"/>
+<area shape="rect" id="node30" href="$aboutbox_8h.html" title="aboutbox.h" alt="" coords="2082,245,2168,272"/>
+<area shape="rect" id="node41" href="$b9printercomm_8h.html" title="b9printercomm.h" alt="" coords="871,320,989,347"/>
+<area shape="rect" id="node42" href="$b9projector_8h.html" title="b9projector.h" alt="" coords="1066,320,1163,347"/>
+<area shape="rect" id="node43" href="$b9matcat_8h.html" title="b9matcat.h" alt="" coords="574,320,660,347"/>
+<area shape="rect" id="node50" href="$b9updateentry_8h.html" title="b9updateentry.h" alt="" coords="2500,320,2615,347"/>
+</map>

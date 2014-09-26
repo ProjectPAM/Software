@@ -1,0 +1,6 @@
+<map id="B9Terminal::rcClearTimedPixels" name="B9Terminal::rcClearTimedPixels">
+<area shape="rect" id="node2" href="$class_b9_print.html#a178d0c7616afa5649d2f1e139f1129f2" title="B9Print::exposureOfCurTint\lLayerFinished" alt="" coords="230,5,413,46"/>
+<area shape="rect" id="node3" href="$class_b9_print.html#a7455c84aea9bd129f77d7c7a54323ed8" title="B9Print::startExposeTOver\lLayers" alt="" coords="461,5,640,46"/>
+<area shape="rect" id="node4" href="$class_b9_print.html#a654b39ce33ebdf1858baa6de44519b7f" title="B9Print::exposeTBaseLayer" alt="" coords="689,12,874,39"/>
+<area shape="rect" id="node5" href="$class_b9_print.html#a4069cba1eae53e0ffc7179faff6e7475" title="B9Print::B9Print" alt="" coords="923,12,1039,39"/>
+</map>

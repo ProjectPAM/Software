@@ -1,0 +1,10 @@
+<map id="LoadingBar::setMin" name="LoadingBar::setMin">
+<area shape="rect" id="node2" href="$class_b9_update_manager.html#ab5afa436e319efdbd0af8af10a3b3c35" title="B9UpdateManager::ResetEverything" alt="" coords="189,107,424,133"/>
+<area shape="rect" id="node8" href="$class_b9_update_manager.html#aa57576c256a536543b14238106382064" title="B9UpdateManager::StartNew\lDownload" alt="" coords="474,5,667,46"/>
+<area shape="rect" id="node9" href="$class_loading_bar.html#a84b80072156c1cce13d9940e48520f5b" title="LoadingBar::LoadingBar" alt="" coords="227,157,387,184"/>
+<area shape="rect" id="node3" href="$class_b9_update_manager.html#ac05ad264636294e9240fb707f00c8bed" title="B9UpdateManager::OnRecieved\lReply" alt="" coords="992,85,1203,126"/>
+<area shape="rect" id="node5" href="$class_b9_update_manager.html#ac108f54e11a62f341e9469367ab54c8e" title="B9UpdateManager::OnDownload\lTimeout" alt="" coords="724,187,937,229"/>
+<area shape="rect" id="node6" href="$class_b9_update_manager.html#a74b1dfa9d868545d369db79b37281d98" title="B9UpdateManager::OnCancel\lUpdate" alt="" coords="473,70,669,111"/>
+<area shape="rect" id="node4" href="$class_b9_update_manager.html#a08839a41be141b521eceaca7780af8c0" title="B9UpdateManager::B9Update\lManager" alt="" coords="1251,129,1447,170"/>
+<area shape="rect" id="node7" href="$class_b9_update_manager.html#a4f253c5b1aaea11b1fa1fc361d04ef0a" title="B9UpdateManager::CopyInRemote\lEntries" alt="" coords="717,70,944,111"/>
+</map>

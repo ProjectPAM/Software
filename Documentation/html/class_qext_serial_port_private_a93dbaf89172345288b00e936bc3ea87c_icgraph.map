@@ -1,0 +1,10 @@
+<map id="QextSerialPortPrivate::updatePortSettings" name="QextSerialPortPrivate::updatePortSettings">
+<area shape="rect" id="node2" href="$class_qext_serial_port_private.html#ab4cf4d3b42758d9805208ddce26215eb" title="QextSerialPortPrivate\l::setBaudRate" alt="" coords="203,5,351,46"/>
+<area shape="rect" id="node3" href="$class_qext_serial_port_private.html#aa95fcee325e1c3bb464be7f62a2cbf4d" title="QextSerialPortPrivate\l::setPortSettings" alt="" coords="401,187,549,229"/>
+<area shape="rect" id="node4" href="$class_qext_serial_port_private.html#ad1a380156394923938c41128ddde2a10" title="QextSerialPortPrivate\l::setParity" alt="" coords="203,122,351,163"/>
+<area shape="rect" id="node5" href="$class_qext_serial_port_private.html#a33d235600c54568b1cde952e0293df44" title="QextSerialPortPrivate\l::setDataBits" alt="" coords="203,187,351,229"/>
+<area shape="rect" id="node6" href="$class_qext_serial_port_private.html#ab3ae113721dcd77de506ce47742ebd58" title="QextSerialPortPrivate\l::setStopBits" alt="" coords="203,253,351,294"/>
+<area shape="rect" id="node7" href="$class_qext_serial_port_private.html#a2150c2071a220bfc57b97a3438d5c4ab" title="QextSerialPortPrivate\l::setFlowControl" alt="" coords="203,318,351,359"/>
+<area shape="rect" id="node8" href="$class_qext_serial_port_private.html#ab33a38a569ed9922101756be47069e21" title="QextSerialPortPrivate\l::setTimeout" alt="" coords="203,383,351,425"/>
+<area shape="rect" id="node9" href="$class_qext_serial_port_private.html#aa0f8791cf7196d6544c6ab5fa7227c9e" title="QextSerialPortPrivate\l::open_sys" alt="" coords="203,449,351,490"/>
+</map>

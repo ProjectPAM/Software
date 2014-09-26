@@ -1,0 +1,4 @@
+<map id="B9Layout::XRayEnabled" name="B9Layout::XRayEnabled">
+<area shape="rect" id="node2" href="$class_world_view.html#ae250d316e11fea9c3b17181f284fc92a" title="WorldView::paintGL" alt="" coords="443,5,581,32"/>
+<area shape="rect" id="node3" href="$class_world_view.html#ab6a77dbf0bc9386f217707cf37a47c78" title="WorldView::ResetCamera" alt="" coords="219,31,394,57"/>
+</map>

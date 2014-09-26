@@ -1,0 +1,7 @@
+<map id="B9ModelInstance::RemoveSupport" name="B9ModelInstance::RemoveSupport">
+<area shape="rect" id="node2" href="$class_b9_layout.html#a75868ece01aeb5153cf78d50e4573e39" title="B9Layout::DeleteSelected\lSupports" alt="" coords="281,5,455,46"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#a5b37e3c06684f109bb0504970716a8fa" title="B9Layout::DeleteSupport" alt="" coords="284,71,452,97"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#a62e0d39d0e6e922e8754feb270171cb8" title="B9Layout::DeleteSelection" alt="" coords="505,12,682,39"/>
+<area shape="rect" id="node5" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="510,63,677,105"/>
+<area shape="rect" id="node6" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="731,71,931,97"/>
+</map>

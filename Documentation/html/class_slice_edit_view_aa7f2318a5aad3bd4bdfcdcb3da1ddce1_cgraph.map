@@ -1,0 +1,32 @@
+<map id="SliceEditView::PrepareBase" name="SliceEditView::PrepareBase">
+<area shape="rect" id="node2" href="$class_crushed_print_job.html#aa2f157d246020387a1c62ebba1e84921" title="CrushedPrintJob::getBase" alt="" coords="254,251,429,277"/>
+<area shape="rect" id="node3" href="$class_crushed_print_job.html#aafac57a9e08185da99e0a204bff713d1" title="CrushedPrintJob::setBase" alt="" coords="254,301,429,328"/>
+<area shape="rect" id="node4" href="$class_crushed_print_job.html#a6a5cc2eb997b08709687305bb4490b8f" title="CrushedPrintJob::setFilled" alt="" coords="253,352,429,379"/>
+<area shape="rect" id="node5" href="$class_slice_edit_view.html#a3c1905d50ac122eea1408225cf95a91a" title="SliceEditView::GoToSlice" alt="" coords="255,403,427,429"/>
+<area shape="rect" id="node29" href="$class_b9_edit.html#a08f475d3bf7db6fcf87083899792ee3b" title="B9Edit::SetDirty" alt="" coords="283,559,400,585"/>
+<area shape="rect" id="node31" href="$class_slice_edit_view.html#a7bf4d1ebd363f505ca8200a82a623e83" title="SliceEditView::UpdateWidgets" alt="" coords="241,483,442,509"/>
+<area shape="rect" id="node6" href="$class_crushed_print_job.html#acaa41d002847fe361dbe3079ca8ff2fe" title="CrushedPrintJob::getTotal\lLayers" alt="" coords="1226,425,1401,466"/>
+<area shape="rect" id="node7" href="$class_slice_edit_view.html#ae62ead063d3acc66f1af504b72443a61" title="SliceEditView::ClearUndo\lBuffer" alt="" coords="505,366,679,407"/>
+<area shape="rect" id="node8" href="$class_slice_edit_view.html#a7132b4582341604a76b844c2cf0a0f78" title="SliceEditView::GetEditMode" alt="" coords="499,483,685,509"/>
+<area shape="rect" id="node9" href="$class_slice_edit_view.html#a1a67d1dde5244b7c3a8a76e1ac21145f" title="SliceEditView::DeCompress\lIntoContext" alt="" coords="498,183,686,225"/>
+<area shape="rect" id="node26" href="$class_slice_edit_view.html#a72b1f718ec7f821cbcc9c8896eb7d65d" title="SliceEditView::RefreshContext" alt="" coords="491,249,693,276"/>
+<area shape="rect" id="node28" href="$class_slice_edit_view.html#a009f33e1e8c75b16a460ef135708f597" title="SliceEditView::SaveToUndo\lBuffer" alt="" coords="499,301,685,342"/>
+<area shape="rect" id="node10" href="$class_crushed_print_job.html#a033a8f0b728353dc8b10ed67fecff1e3" title="CrushedPrintJob::setCurrent\lSlice" alt="" coords="753,242,941,283"/>
+<area shape="rect" id="node11" href="$class_crushed_print_job.html#a50b3108a89d93a81fe3e1e740e906426" title="CrushedPrintJob::showSupports" alt="" coords="741,308,952,335"/>
+<area shape="rect" id="node12" href="$class_crushed_print_job.html#accdcf3e399850be685e684796df6258a" title="CrushedPrintJob::inflate\lCurrentSlice" alt="" coords="765,74,928,115"/>
+<area shape="rect" id="node24" href="$class_drawing_context.html#aee8222ca773c5deb9b64e5a8194397cc" title="DrawingContext::SetUpperImg" alt="" coords="746,140,947,167"/>
+<area shape="rect" id="node25" href="$class_drawing_context.html#a8a9bde46722337611d4ac0268183fa5e" title="DrawingContext::SetLowerImg" alt="" coords="746,191,947,217"/>
+<area shape="rect" id="node13" href="$class_crushed_print_job.html#af103ac23b3ec47351aac7f9fd4ae9c9f" title="CrushedPrintJob::inflate\lSlice" alt="" coords="1000,170,1163,211"/>
+<area shape="rect" id="node14" href="$class_crushed_print_job.html#aa3bf3dec3d79afe9bd731d2bbe9e39c2" title="CrushedPrintJob::getCBMSlice" alt="" coords="1211,123,1415,149"/>
+<area shape="rect" id="node18" href="$class_crushed_bit_map.html#a5b13a4ca7d01d12741f835095d97a286" title="CrushedBitMap::inflateSlice" alt="" coords="1221,177,1405,204"/>
+<area shape="rect" id="node21" href="$class_simple_support.html#a393ab2b4ec56f3c28543b0e3a56ece92" title="SimpleSupport::setPoint" alt="" coords="1232,228,1395,255"/>
+<area shape="rect" id="node22" href="$class_simple_support.html#a73e5609813b28a1d471be014f54fc92f" title="SimpleSupport::getPoint" alt="" coords="1232,279,1395,305"/>
+<area shape="rect" id="node23" href="$class_simple_support.html#aab26a9f60af88d523e250f82d84be3a7" title="SimpleSupport::draw" alt="" coords="1242,72,1385,99"/>
+<area shape="rect" id="node15" href="$class_crushed_bit_map.html#a1b5e5dce37b8449e5e5be255dbcd42f7" title="CrushedBitMap::setWidth" alt="" coords="1482,123,1654,149"/>
+<area shape="rect" id="node16" href="$class_crushed_bit_map.html#a16832c570d6fb9397df3411d037e9631" title="CrushedBitMap::setHeight" alt="" coords="1480,5,1656,32"/>
+<area shape="rect" id="node17" href="$class_crushed_bit_map.html#a55f356b57d5abdbabbce4b75eebfe0dc" title="CrushedBitMap::setIsBase\lLayer" alt="" coords="1479,57,1657,98"/>
+<area shape="rect" id="node19" href="$class_crushed_bit_map.html#a7d6b9b801d1e30d06e8d6f09f29dc9d9" title="CrushedBitMap::popBits" alt="" coords="1486,240,1650,267"/>
+<area shape="rect" id="node20" href="$class_crushed_bit_map.html#a1d224a9e9da89714da5430039dac0521" title="CrushedBitMap::setWhiteImage\lPixel" alt="" coords="1464,174,1672,215"/>
+<area shape="rect" id="node27" href="$class_drawing_context.html#a400ea20c52d1ff9afde64e45c6f74841" title="DrawingContext::Generate\lLogicImage" alt="" coords="758,359,935,401"/>
+<area shape="rect" id="node30" href="$class_b9_edit.html#ab30166335f6c4d0f411f6cd91c1b0dee" title="B9Edit::updateWindowTitle" alt="" coords="502,584,682,611"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="B9Terminal::setTgtAltitudeIN" name="B9Terminal::setTgtAltitudeIN">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#a98258d24b52f64c6148bd0501d15034a" title="B9Terminal::setTgtAltitudeMM" alt="" coords="246,5,445,32"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="739,5,899,32"/>
+<area shape="rect" id="node5" href="$class_b9_terminal.html#a15cb8872d189b601c8587cc10c8dd25a" title="B9Terminal::setTgtAltitudePU" alt="" coords="494,31,690,57"/>
+<area shape="rect" id="node4" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="947,5,1106,32"/>
+</map>

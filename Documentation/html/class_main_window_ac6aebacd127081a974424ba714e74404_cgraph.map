@@ -1,0 +1,7 @@
+<map id="MainWindow::showTerminal" name="MainWindow::showTerminal">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#a448cc2b965f46c7f9e5c311155e4b053" title="B9Terminal::showIt" alt="" coords="241,31,375,57"/>
+<area shape="rect" id="node3" href="$class_b9_terminal.html#ae940079db6abd3b2eb2c4ec39fd3d116" title="B9Terminal::setEnabledWarned" alt="" coords="425,31,631,57"/>
+<area shape="rect" id="node4" href="$class_b9_terminal.html#aa7b6502d9f44e4bcdfd51d524b709262" title="B9Terminal::warnSingleMonitor" alt="" coords="680,5,883,32"/>
+<area shape="rect" id="node5" href="$class_b9_printer_comm.html#a149593b2de378ef6f3dc54ced6657928" title="B9PrinterComm::isConnected" alt="" coords="683,56,879,83"/>
+<area shape="rect" id="node6" href="$class_b9_printer_status.html#a8231ccafa88948caa5080fae12663d37" title="B9PrinterStatus::isValid\lVersion" alt="" coords="931,49,1093,90"/>
+</map>

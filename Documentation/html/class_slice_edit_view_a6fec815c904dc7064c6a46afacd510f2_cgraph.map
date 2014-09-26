@@ -1,0 +1,12 @@
+<map id="SliceEditView::SliceEditView" name="SliceEditView::SliceEditView">
+<area shape="rect" id="node2" href="$class_slice_edit_view.html#a025f8056528904ae43de2a3d96d3371c" title="SliceEditView::RefreshWith\lGreen" alt="" coords="255,41,439,82"/>
+<area shape="rect" id="node4" href="$class_slice_edit_view.html#a97df10ac7cfd056cbc997252b56a2fba" title="SliceEditView::SetSupportTool" alt="" coords="246,143,447,169"/>
+<area shape="rect" id="node8" href="$class_slice_edit_view.html#acb49046238d67388eb9e6c6f96c87656" title="SliceEditView::SetDrawTool" alt="" coords="253,197,440,224"/>
+<area shape="rect" id="node11" href="$class_slice_edit_view.html#a4a83ce90d9811730511931da33da7bbd" title="SliceEditView::ShowSupport\lButtons" alt="" coords="252,249,441,290"/>
+<area shape="rect" id="node3" href="$class_drawing_context.html#ad1f995277d686dbd4ebde8575bf134c4" title="DrawingContext::Generate\lGreenImage" alt="" coords="513,5,690,46"/>
+<area shape="rect" id="node5" href="$class_slice_edit_view.html#abbbdd9b28ebe61947747bb70f60e9ee4" title="SliceEditView::PopSupport\lButtons" alt="" coords="512,70,691,111"/>
+<area shape="rect" id="node6" href="$class_simple_support.html#a8c8a326b7be5588900b264eb0ed3e9b8" title="SimpleSupport::getCursor\lImage" alt="" coords="515,135,687,177"/>
+<area shape="rect" id="node7" href="$class_simple_support.html#aab26a9f60af88d523e250f82d84be3a7" title="SimpleSupport::draw" alt="" coords="755,143,898,169"/>
+<area shape="rect" id="node9" href="$class_slice_edit_view.html#a1c9f40aa2edbc8edace5841f825586b0" title="SliceEditView::PopDrawButtons" alt="" coords="496,201,707,228"/>
+<area shape="rect" id="node10" href="$class_drawing_context.html#ac09e543f7021d83b6c9174253eb67be3" title="DrawingContext::SetPenColor" alt="" coords="502,252,701,279"/>
+</map>

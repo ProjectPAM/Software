@@ -1,0 +1,5 @@
+<map id="B9SupportStructure::GetBottomPivot" name="B9SupportStructure::GetBottomPivot">
+<area shape="rect" id="node2" href="$class_b9_model_instance.html#a0a7685950d847c415bc2fbe8f00a9873" title="B9ModelInstance::RenderSupports\lTipsGL" alt="" coords="190,5,415,46"/>
+<area shape="rect" id="node3" href="$class_world_view.html#a42aabb5186b56d687d6bb0f8aa8efbe9" title="WorldView::DrawInstances" alt="" coords="464,12,645,39"/>
+<area shape="rect" id="node4" href="$class_world_view.html#ae250d316e11fea9c3b17181f284fc92a" title="WorldView::paintGL" alt="" coords="693,12,832,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="B9Print::on_pushButtonPauseResume_clicked" name="B9Print::on_pushButtonPauseResume_clicked">
+<area shape="rect" id="node2" href="$class_b9_print.html#a4069cba1eae53e0ffc7179faff6e7475" title="B9Print::B9Print" alt="" coords="502,5,618,32"/>
+<area shape="rect" id="node3" href="$class_b9_print.html#a86f7e412f1ef7a886e2aa9ee4f4e97e7" title="B9Print::on_pushButtonAbort\l_clicked" alt="" coords="251,53,442,94"/>
+<area shape="rect" id="node4" href="$class_b9_print.html#a44d91af6b4687a98e3a7b771e06d4644" title="B9Print::closeEvent" alt="" coords="491,60,629,87"/>
+</map>

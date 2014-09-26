@@ -1,0 +1,5 @@
+<map id="HelpSystem::startHelp" name="HelpSystem::startHelp">
+<area shape="rect" id="node2" href="$class_help_system.html#a46ee72d9974c2c6a36fad9fa1b9ac4c7" title="HelpSystem::showHelpFile" alt="" coords="208,31,389,57"/>
+<area shape="rect" id="node3" href="$class_b9_print.html#ac2470c074c106f9df67123f36f45cb73" title="B9Print::showHelp" alt="" coords="453,5,584,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a3111788b36503e5ae8eabef2b32a6f62" title="MainWindow::showHelp" alt="" coords="437,56,600,83"/>
+</map>

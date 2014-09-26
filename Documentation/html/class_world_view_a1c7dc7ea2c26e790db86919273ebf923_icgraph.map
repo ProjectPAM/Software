@@ -1,0 +1,6 @@
+<map id="WorldView::UpdatePlasmaFence" name="WorldView::UpdatePlasmaFence">
+<area shape="rect" id="node2" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="291,5,407,32"/>
+<area shape="rect" id="node4" href="$class_world_view.html#ae3e0922fb29d8d63b35e0d397937816b" title="WorldView::UpdateTick" alt="" coords="269,56,429,83"/>
+<area shape="rect" id="node3" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="485,5,627,32"/>
+<area shape="rect" id="node5" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="478,56,634,83"/>
+</map>

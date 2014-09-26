@@ -1,0 +1,8 @@
+<map id="Slice::GenerateLoops" name="Slice::GenerateLoops">
+<area shape="rect" id="node2" href="$class_loop.html#a71df9aefd6fbd7d70c2a5f7169c2f42c" title="Loop::Grow" alt="" coords="207,31,297,57"/>
+<area shape="rect" id="node7" href="$class_loop.html#a58b7ad4857a07ec7933d0e42149ce333" title="Loop::Destroy" alt="" coords="200,81,304,108"/>
+<area shape="rect" id="node3" href="$class_loop.html#a90020843d031f5619eaae5849044cc07" title="Loop::AttachSegment" alt="" coords="513,5,661,32"/>
+<area shape="rect" id="node4" href="$class_loop.html#a106ef68596a85b9fe34f32c841ffa804" title="Loop::SealHole" alt="" coords="353,56,463,83"/>
+<area shape="rect" id="node5" href="$class_segment.html#adfe9fc7ffcc7269f961d4b1f6720d1e8" title="Segment::Segment" alt="" coords="519,56,654,83"/>
+<area shape="rect" id="node6" href="$class_slice.html#a65db8b8d3c64358bbb1bce7fae11cc65" title="Slice::AddSegment" alt="" coords="519,107,654,133"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="DlgMaterialsManager::DlgMaterialsManager" name="DlgMaterialsManager::DlgMaterialsManager">
+<area shape="rect" id="node2" href="$class_dlg_materials_manager.html#af247c26c6654fb99bc8ad51ab4189ebf" title="DlgMaterialsManager\l::setUp" alt="" coords="209,603,354,645"/>
+<area shape="rect" id="node14" href="$class_dlg_materials_manager.html#a9a0b633ecca737416ff179c5936a4d85" title="DlgMaterialsManager\l::fillData" alt="" coords="209,299,354,341"/>
+<area shape="rect" id="node3" href="$class_b9_mat_cat.html#a6b609f6c455533a97e6c400ef06294c1" title="B9MatCat::getMaterialCount" alt="" coords="415,408,603,435"/>
+<area shape="rect" id="node4" href="$class_b9_mat_cat.html#a7fef77d4d89fead7162ad8673b2ccab8" title="B9MatCat::setCurMatIndex" alt="" coords="418,459,601,485"/>
+<area shape="rect" id="node5" href="$class_b9_mat_cat.html#a54608d4fc97d2c97a4a38762afa48b01" title="B9MatCat::isFactoryEntry" alt="" coords="422,661,597,688"/>
+<area shape="rect" id="node6" href="$class_b9_mat_cat.html#a53055034989df3025248f296db90fe8d" title="B9MatCat::getCurMatIndex" alt="" coords="418,509,601,536"/>
+<area shape="rect" id="node7" href="$class_b9_mat_cat.html#a792ad0e7a35134694296e5f812d06050" title="B9MatCat::getModelName" alt="" coords="421,712,598,739"/>
+<area shape="rect" id="node8" href="$class_b9_mat_cat.html#ae70370d42fb4a677878cee89aad3b16d" title="B9MatCat::getZCount" alt="" coords="434,763,585,789"/>
+<area shape="rect" id="node9" href="$class_b9_mat_cat.html#a5313739dac2509283416a1dd1a6b8016" title="B9MatCat::getZLabel" alt="" coords="436,813,583,840"/>
+<area shape="rect" id="node11" href="$class_b9_mat_cat.html#a11fe746a25c62bb1f61cd6fc3f6cd3a3" title="B9MatCat::getMaterialLabel" alt="" coords="417,864,601,891"/>
+<area shape="rect" id="node12" href="$class_b9_mat_cat.html#ac36714e666c0611e1b70abf54d961701" title="B9MatCat::getXYCount" alt="" coords="429,560,589,587"/>
+<area shape="rect" id="node13" href="$class_b9_mat_cat.html#a54bcb6705d29b0280b4e006e8f812ca3" title="B9MatCat::getXYLabel" alt="" coords="431,611,587,637"/>
+<area shape="rect" id="node10" href="$class_b9_mat_cat.html#ad7e47884896cc2d89beea7cb1a458c73" title="B9MatCat::getZinMM" alt="" coords="667,813,813,840"/>
+<area shape="rect" id="node15" href="$class_b9_mat_cat.html#ac1681cd822d2972d281333f12bbcf613" title="B9MatCat::setCurXYIndex" alt="" coords="420,155,599,181"/>
+<area shape="rect" id="node16" href="$class_b9_mat_cat.html#a2ccf7b7df8b03b64351fbc4897769c40" title="B9MatCat::setCurZIndex" alt="" coords="425,205,593,232"/>
+<area shape="rect" id="node17" href="$class_b9_mat_cat.html#aa5f6bce5e574f7d05db5eeca363f38b1" title="B9MatCat::getCurXYIndex" alt="" coords="420,256,599,283"/>
+<area shape="rect" id="node18" href="$class_b9_mat_cat.html#accfffa258d3dd2b868be860f72cde95f" title="B9MatCat::getCurTattach" alt="" coords="423,307,595,333"/>
+<area shape="rect" id="node20" href="$class_b9_mat_cat.html#aa0b78dd80490bc6869a75a66f8b4c3d1" title="B9MatCat::getCurNumberAttach" alt="" coords="403,357,615,384"/>
+<area shape="rect" id="node21" href="$class_b9_mat_cat.html#a5d61a399191c174683098f44c00240de" title="B9MatCat::getTbase" alt="" coords="438,29,581,56"/>
+<area shape="rect" id="node22" href="$class_b9_mat_cat.html#a430597a38b25a642a9247e1d177c9530" title="B9MatCat::getTover" alt="" coords="439,104,579,131"/>
+<area shape="rect" id="node19" href="$class_b9_mat_cat.html#a48066118c4c53c3cf4fdf96638a40d35" title="B9MatCat::getTattach" alt="" coords="665,307,815,333"/>
+</map>

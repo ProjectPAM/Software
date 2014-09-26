@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['e_5fagain',['E_AGAIN',['../qextserialport_8h.html#ae0d3f0bc7b34c83621699562072ec204',1,'qextserialport.h']]],
+  ['e_5fbreak_5fcondition',['E_BREAK_CONDITION',['../qextserialport_8h.html#a19bf37831728ff3d4e4cd896f90d1ec8',1,'qextserialport.h']]],
+  ['e_5fbuffer_5foverrun',['E_BUFFER_OVERRUN',['../qextserialport_8h.html#a6fe68fa1ebcf4b57f197a3f4197aa4ff',1,'qextserialport.h']]],
+  ['e_5fcaught_5fnon_5fblocked_5fsignal',['E_CAUGHT_NON_BLOCKED_SIGNAL',['../qextserialport_8h.html#a38fe9ecbec8c1ef8ae913c829c5fdcfe',1,'qextserialport.h']]],
+  ['e_5ffile_5fnot_5ffound',['E_FILE_NOT_FOUND',['../qextserialport_8h.html#a657d0128f4f8ae61d6a2c6ae0fe8b2a4',1,'qextserialport.h']]],
+  ['e_5fframing_5ferror',['E_FRAMING_ERROR',['../qextserialport_8h.html#a762322ccbcd786286ff049ad159481b8',1,'qextserialport.h']]],
+  ['e_5finvalid_5fdevice',['E_INVALID_DEVICE',['../qextserialport_8h.html#a2bdea3e664206ef35c0a092dac553cae',1,'qextserialport.h']]],
+  ['e_5finvalid_5ffd',['E_INVALID_FD',['../qextserialport_8h.html#a2abf2bf23007ebc781ab5b0b165c3436',1,'qextserialport.h']]],
+  ['e_5fio_5ferror',['E_IO_ERROR',['../qextserialport_8h.html#a3b76bea6be89989cf24e4576d8a51a48',1,'qextserialport.h']]],
+  ['e_5fno_5ferror',['E_NO_ERROR',['../qextserialport_8h.html#aa1f0dfda864fa9d2630645f233e1fdb4',1,'qextserialport.h']]],
+  ['e_5fno_5fmemory',['E_NO_MEMORY',['../qextserialport_8h.html#af38d07f1af1bfdc44efa5c2ba5f4e1fb',1,'qextserialport.h']]],
+  ['e_5fpermission_5fdenied',['E_PERMISSION_DENIED',['../qextserialport_8h.html#aa54e6e2e8bb01ff5b823922ea204bff7',1,'qextserialport.h']]],
+  ['e_5fport_5ftimeout',['E_PORT_TIMEOUT',['../qextserialport_8h.html#a2b4bd10fa885cf9b82ef3ebb0c1ff266',1,'qextserialport.h']]],
+  ['e_5fread_5ffailed',['E_READ_FAILED',['../qextserialport_8h.html#a193a92bab0339d238bc2cb398df9bba9',1,'qextserialport.h']]],
+  ['e_5freceive_5foverflow',['E_RECEIVE_OVERFLOW',['../qextserialport_8h.html#a057242de580197703ea39d48c94e3e88',1,'qextserialport.h']]],
+  ['e_5freceive_5fparity_5ferror',['E_RECEIVE_PARITY_ERROR',['../qextserialport_8h.html#a069d1d0863b70b907afb4ad3003c075f',1,'qextserialport.h']]],
+  ['e_5ftransmit_5foverflow',['E_TRANSMIT_OVERFLOW',['../qextserialport_8h.html#a6d11119247071eadf061186234c7df8d',1,'qextserialport.h']]],
+  ['e_5fwrite_5ffailed',['E_WRITE_FAILED',['../qextserialport_8h.html#ad1fd3402e19645e257825928ef932869',1,'qextserialport.h']]]
+];

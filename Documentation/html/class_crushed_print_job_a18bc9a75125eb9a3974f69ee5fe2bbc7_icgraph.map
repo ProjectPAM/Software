@@ -1,0 +1,9 @@
+<map id="CrushedPrintJob::setDescription" name="CrushedPrintJob::setDescription">
+<area shape="rect" id="node2" href="$class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808" title="B9Edit::newJob" alt="" coords="299,31,413,57"/>
+<area shape="rect" id="node5" href="$class_b9_edit.html#a42586a3a29af08f0f26b36a3cf5ce6b0" title="B9Edit::updateDescription" alt="" coords="269,81,443,108"/>
+<area shape="rect" id="node6" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="264,132,448,159"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="517,5,625,32"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a56a3b1732d0f09facfb82b7c87d34e18" title="B9Edit::closeEvent" alt="" coords="503,56,638,83"/>
+<area shape="rect" id="node7" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="497,132,645,159"/>
+<area shape="rect" id="node8" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="693,132,797,159"/>
+</map>

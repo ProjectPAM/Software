@@ -1,0 +1,21 @@
+<map id="B9Terminal::rcSetProjMessage" name="B9Terminal::rcSetProjMessage">
+<area shape="rect" id="node2" href="$class_b9_print.html#a2500a808e778c09a2665eda22ac555f1" title="B9Print::setProjMessage" alt="" coords="257,292,423,319"/>
+<area shape="rect" id="node18" href="$class_b9_print.html#aeed05378cdefdfa07bc421f5bd9a6ca5" title="B9Print::exposureOfTOver\lLayersFinished" alt="" coords="472,398,648,439"/>
+<area shape="rect" id="node3" href="$class_b9_print.html#a4069cba1eae53e0ffc7179faff6e7475" title="B9Print::B9Print" alt="" coords="1495,249,1611,276"/>
+<area shape="rect" id="node4" href="$class_b9_print.html#a84c25262040cab6093962fe32eef192b" title="B9Print::print3D" alt="" coords="503,96,617,123"/>
+<area shape="rect" id="node14" href="$class_b9_print.html#a5a8a362f851bb3b296fc47a7b8914a0d" title="B9Print::on_pushButtonPause\lResume_clicked" alt="" coords="696,285,893,326"/>
+<area shape="rect" id="node15" href="$class_b9_print.html#a86f7e412f1ef7a886e2aa9ee4f4e97e7" title="B9Print::on_pushButtonAbort\l_clicked" alt="" coords="942,230,1133,271"/>
+<area shape="rect" id="node17" href="$class_b9_print.html#a654b39ce33ebdf1858baa6de44519b7f" title="B9Print::exposeTBaseLayer" alt="" coords="1194,351,1379,377"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a925db8df9c1c11bfa1fb1a5a90975720" title="MainWindow::doPrint" alt="" coords="721,92,868,119"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a88f7cf85584ccbdf7c1e9cfa2ab736ca" title="MainWindow::AttemptPrint\lDialogWithFile" alt="" coords="948,82,1127,123"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a5472ba09210963f686d7a4f014af19d7" title="MainWindow::OpenJobFile" alt="" coords="1197,31,1376,57"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a0bfce4d702b28b3b4827fb113e270e84" title="MainWindow::on_commandPrint\l_clicked" alt="" coords="1181,82,1392,123"/>
+<area shape="rect" id="node8" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="1441,31,1666,57"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1715,31,1765,57"/>
+<area shape="rect" id="node10" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1814,5,1970,32"/>
+<area shape="rect" id="node11" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1814,56,1970,83"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a282dac29e83e9a71f2c317ed64d2ddbf" title="MainWindow::showPrint" alt="" coords="1472,89,1635,116"/>
+<area shape="rect" id="node16" href="$class_b9_print.html#a44d91af6b4687a98e3a7b771e06d4644" title="B9Print::closeEvent" alt="" coords="1217,249,1356,276"/>
+<area shape="rect" id="node19" href="$class_b9_print.html#a7455c84aea9bd129f77d7c7a54323ed8" title="B9Print::startExposeTOver\lLayers" alt="" coords="948,402,1127,443"/>
+<area shape="rect" id="node20" href="$class_b9_print.html#a178d0c7616afa5649d2f1e139f1129f2" title="B9Print::exposureOfCurTint\lLayerFinished" alt="" coords="703,453,886,494"/>
+</map>

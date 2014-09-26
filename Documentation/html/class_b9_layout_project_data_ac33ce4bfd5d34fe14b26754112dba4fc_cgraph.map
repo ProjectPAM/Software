@@ -1,0 +1,31 @@
+<map id="B9LayoutProjectData::StreamInSupportInfo" name="B9LayoutProjectData::StreamInSupportInfo">
+<area shape="rect" id="node2" href="$_o_s___wrapper___functions_8cpp.html#a7b86fa2037739a5a811af5be497a951e" title="StreamInTextQuotes" alt="" coords="235,5,378,32"/>
+<area shape="rect" id="node3" href="$class_b9_model_instance.html#ad693fbec02a529a00ac92073ccb5cb49" title="B9ModelInstance::EnableBase\lPlate" alt="" coords="206,870,407,911"/>
+<area shape="rect" id="node4" href="$class_b9_support_structure.html#af44fc6bb66eb2c9ed7db69aa143c1ff1" title="B9SupportStructure\l::SetIsGrounded" alt="" coords="472,797,608,838"/>
+<area shape="rect" id="node10" href="$class_b9_support_structure.html#a752306cf62638b84f0334bc23297f246" title="B9SupportStructure\l::SetTopAttachShape" alt="" coords="467,927,613,969"/>
+<area shape="rect" id="node13" href="$class_b9_support_structure.html#a9916d3908234599853d5356447303de2" title="B9SupportStructure\l::SetMidAttachShape" alt="" coords="467,993,613,1034"/>
+<area shape="rect" id="node14" href="$class_b9_support_structure.html#abca4f92682035240277380d4c80c2915" title="B9SupportStructure\l::SetBottomAttachShape" alt="" coords="457,1058,623,1099"/>
+<area shape="rect" id="node15" href="$class_b9_support_structure.html#ad5ed59eca0431d02fcd9a0053af1e36d" title="B9SupportStructure\l::SetBottomPenetration" alt="" coords="461,862,619,903"/>
+<area shape="rect" id="node16" href="$class_b9_model_instance.html#ab19eee4b4ab764b1a2d72e6323d02471" title="B9ModelInstance::GetBase\lPlate" alt="" coords="215,1038,398,1079"/>
+<area shape="rect" id="node17" href="$class_b9_model_instance.html#a7f7826c58dfcaaf87736c73661e43a11" title="B9ModelInstance::AddSupport" alt="" coords="207,565,406,592"/>
+<area shape="rect" id="node21" href="$class_b9_support_structure.html#ac1af9fa20432fdd912686db82dde9468" title="B9SupportStructure\l::SetTopNormal" alt="" coords="472,666,608,707"/>
+<area shape="rect" id="node22" href="$class_b9_support_structure.html#a8d2a56d4e425faa73f3575661c3471ca" title="B9SupportStructure\l::SetBottomNormal" alt="" coords="472,731,608,773"/>
+<area shape="rect" id="node23" href="$class_b9_support_structure.html#a9cd9f3ea81cc433ec2f7d9fe980656a0" title="B9SupportStructure\l::SetTopAngleFactor" alt="" coords="469,49,611,90"/>
+<area shape="rect" id="node24" href="$class_b9_support_structure.html#a28892da853dbf49b2ad137a8808b0343" title="B9SupportStructure\l::SetBottomAngleFactor" alt="" coords="225,107,388,149"/>
+<area shape="rect" id="node25" href="$class_b9_support_structure.html#aefe3744a70af5612c214f128876762c6" title="B9SupportStructure\l::SetTopLength" alt="" coords="239,173,375,214"/>
+<area shape="rect" id="node26" href="$class_b9_support_structure.html#ab55927e95001eedf6258dad3610ec576" title="B9SupportStructure\l::SetBottomLength" alt="" coords="239,238,375,279"/>
+<area shape="rect" id="node27" href="$class_b9_support_structure.html#a31b4ca6265ede052139c70d61de20e51" title="B9SupportStructure\l::SetTopPenetration" alt="" coords="237,303,376,345"/>
+<area shape="rect" id="node28" href="$class_b9_support_structure.html#a6ff92e53b7b7bbf1d25e444959875628" title="B9SupportStructure\l::SetTopRadius" alt="" coords="239,369,375,410"/>
+<area shape="rect" id="node29" href="$class_b9_support_structure.html#a8eb050a055c6691f4a7b7bd723513a37" title="B9SupportStructure\l::SetMidRadius" alt="" coords="239,434,375,475"/>
+<area shape="rect" id="node30" href="$class_b9_support_structure.html#a6babcc127237e3687c99b32842098e25" title="B9SupportStructure\l::SetBottomRadius" alt="" coords="239,499,375,541"/>
+<area shape="rect" id="node5" href="$class_b9_support_structure.html#a25bafc666c59b4f78d0fac782784728c" title="B9SupportStructure\l::ForceUpdate" alt="" coords="693,386,829,427"/>
+<area shape="rect" id="node6" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="899,313,1074,340"/>
+<area shape="rect" id="node7" href="$geometricfunctions_8cpp.html#a08bb76383bc5dc89f94334abb3750fe1" title="Distance3D" alt="" coords="941,364,1032,391"/>
+<area shape="rect" id="node8" href="$class_b9_support_structure.html#a03f3e73173d93f911370b0a76d25d6ba" title="B9SupportStructure\l::GetTopPoint" alt="" coords="919,415,1055,457"/>
+<area shape="rect" id="node9" href="$class_b9_support_structure.html#a8a0fe2a31a4f14a7dd902eae48aa57b0" title="B9SupportStructure\l::GetBottomPoint" alt="" coords="919,481,1055,522"/>
+<area shape="rect" id="node11" href="$class_b9_support_attachment_data.html#a1ad6dd082e1c38c0f33228b9fa03bbcf" title="B9SupportAttachmentData\l::HasDisplayList" alt="" coords="672,1026,851,1067"/>
+<area shape="rect" id="node12" href="$class_b9_support_attachment_data.html#a15e018fa605f9c9e5b108039b3c897fe" title="B9SupportAttachmentData\l::FormDisplayList" alt="" coords="672,961,851,1002"/>
+<area shape="rect" id="node18" href="$class_b9_support_structure.html#aabade2fb031c63b2b6c39508e7c1a0ec" title="B9SupportStructure\l::AssignPickId" alt="" coords="472,470,608,511"/>
+<area shape="rect" id="node19" href="$class_b9_support_structure.html#a7930d3cc426dfd01f38c504ccd500e74" title="B9SupportStructure\l::SetBottomPoint" alt="" coords="472,535,608,577"/>
+<area shape="rect" id="node20" href="$class_b9_support_structure.html#ae7e10ab408628c776b398af4303ff3d7" title="B9SupportStructure\l::SetTopPoint" alt="" coords="472,601,608,642"/>
+</map>

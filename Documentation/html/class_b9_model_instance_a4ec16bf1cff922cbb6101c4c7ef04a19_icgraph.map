@@ -1,0 +1,10 @@
+<map id="B9ModelInstance::UpdateBounds" name="B9ModelInstance::UpdateBounds">
+<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#ae277f0fdb3f035b479e40bcc7481b3f8" title="B9LayoutProjectData\l::Open" alt="" coords="272,23,419,65"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="507,5,623,32"/>
+<area shape="rect" id="node5" href="$class_main_window.html#ae5ecffbef4642726ed324598bf348fc7" title="MainWindow::OpenLayoutFile" alt="" coords="467,56,663,83"/>
+<area shape="rect" id="node4" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="754,5,897,32"/>
+<area shape="rect" id="node6" href="$class_b9_native_app.html#adb029574676787591e1141e27bc88a7f" title="B9NativeApp::ProccessArguments" alt="" coords="713,56,938,83"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="987,56,1037,83"/>
+<area shape="rect" id="node8" href="$class_model_data.html#a6cd93bbdbd9782e7417c1cb9f2ec14e7" title="ModelData::ModelData" alt="" coords="1086,31,1242,57"/>
+<area shape="rect" id="node9" href="$class_world_view.html#ae29d4c9e2c42f4a2eada29d5eda28866" title="WorldView::WorldView" alt="" coords="1086,81,1242,108"/>
+</map>

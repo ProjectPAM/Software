@@ -1,0 +1,7 @@
+<map id="B9UpdateManager::PromptDoUpdates" name="B9UpdateManager::PromptDoUpdates">
+<area shape="rect" id="node2" href="$class_b9_update_manager.html#ac05ad264636294e9240fb707f00c8bed" title="B9UpdateManager::OnRecieved\lReply" alt="" coords="525,5,736,46"/>
+<area shape="rect" id="node4" href="$class_b9_update_manager.html#a4f253c5b1aaea11b1fa1fc361d04ef0a" title="B9UpdateManager::CopyInRemote\lEntries" alt="" coords="251,34,477,75"/>
+<area shape="rect" id="node5" href="$class_b9_update_manager.html#a6e344e3ef68812265860e13e1a19106e" title="B9UpdateManager::AutoCheck\lForUpdates" alt="" coords="263,99,465,141"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a5bcf43ee1be08ded774c85daeedb0f10" title="MainWindow::CheckForUpdates" alt="" coords="259,165,469,192"/>
+<area shape="rect" id="node3" href="$class_b9_update_manager.html#a08839a41be141b521eceaca7780af8c0" title="B9UpdateManager::B9Update\lManager" alt="" coords="785,5,981,46"/>
+</map>

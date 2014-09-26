@@ -1,0 +1,5 @@
+<map id="SliceEditView::on_actionFlood_Void_activated" name="SliceEditView::on_actionFlood_Void_activated">
+<area shape="rect" id="node2" href="$class_slice_edit_view.html#acb49046238d67388eb9e6c6f96c87656" title="SliceEditView::SetDrawTool" alt="" coords="221,31,408,57"/>
+<area shape="rect" id="node3" href="$class_slice_edit_view.html#a1c9f40aa2edbc8edace5841f825586b0" title="SliceEditView::PopDrawButtons" alt="" coords="456,5,667,32"/>
+<area shape="rect" id="node4" href="$class_drawing_context.html#ac09e543f7021d83b6c9174253eb67be3" title="DrawingContext::SetPenColor" alt="" coords="462,56,661,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="B9LayoutProjectData::StreamOutSupportInfo" name="B9LayoutProjectData::StreamOutSupportInfo">
+<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#a27e88c67818a1532da56de065f81b213" title="B9LayoutProjectData\l::Save" alt="" coords="213,23,360,65"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#ad1038b42c7b240908f856dcf045f605e" title="B9Layout::Save" alt="" coords="605,5,720,32"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#ac595aad2c6bc507ef230cb68df5b9258" title="B9Layout::SaveAs" alt="" coords="408,56,539,83"/>
+<area shape="rect" id="node5" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="605,56,721,83"/>
+<area shape="rect" id="node7" href="$class_b9_layout.html#a72037f93b87b05d332a57e658e4667d0" title="B9Layout::closeEvent" alt="" coords="587,107,738,133"/>
+<area shape="rect" id="node6" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="787,56,930,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="B9Layout::RemoveAllInstances" name="B9Layout::RemoveAllInstances">
+<area shape="rect" id="node2" href="$class_b9_layout.html#aa19c04394ea75eb108e7aed867468b80" title="B9Layout::New" alt="" coords="264,120,376,147"/>
+<area shape="rect" id="node8" href="$class_b9_layout.html#aff5851f57b2cdc377bafbc7fe9cadbeb" title="B9Layout::Open" alt="" coords="262,183,378,209"/>
+<area shape="rect" id="node3" href="$class_b9_layout.html#aa9b1a4aa78c9c25a8a35701bd476d832" title="B9Layout::B9Layout" alt="" coords="433,5,573,32"/>
+<area shape="rect" id="node4" href="$class_b9_layout.html#a72037f93b87b05d332a57e658e4667d0" title="B9Layout::closeEvent" alt="" coords="427,56,578,83"/>
+<area shape="rect" id="node5" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="431,208,574,235"/>
+<area shape="rect" id="node6" href="$class_b9_slice.html#a7d711c4e07e0a89852405c028a7aa7cb" title="B9Slice::hideEvent" alt="" coords="436,107,569,133"/>
+<area shape="rect" id="node7" href="$class_b9_slice.html#acd2e23ba7d54188b3999c9787e60bee4" title="B9Slice::showEvent" alt="" coords="433,157,573,184"/>
+</map>

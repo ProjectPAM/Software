@@ -1,0 +1,6 @@
+<map id="B9UpdateManager::OnCancelUpdate" name="B9UpdateManager::OnCancelUpdate">
+<area shape="rect" id="node2" href="$class_b9_update_manager.html#ab5afa436e319efdbd0af8af10a3b3c35" title="B9UpdateManager::ResetEverything" alt="" coords="251,56,485,83"/>
+<area shape="rect" id="node3" href="$class_loading_bar.html#a61ca7b136a2702deaad393b477910af1" title="LoadingBar::setMax" alt="" coords="553,5,692,32"/>
+<area shape="rect" id="node4" href="$class_loading_bar.html#a53205e34bacf6c1e23891f95aed99c76" title="LoadingBar::setMin" alt="" coords="555,56,690,83"/>
+<area shape="rect" id="node5" href="$class_loading_bar.html#ae9dacbb4496b1fe34dcfa6e67464dde6" title="LoadingBar::setDescription" alt="" coords="533,107,712,133"/>
+</map>

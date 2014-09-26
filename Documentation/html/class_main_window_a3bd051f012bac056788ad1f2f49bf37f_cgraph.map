@@ -1,0 +1,5 @@
+<map id="MainWindow::showCalibrateProjector" name="MainWindow::showCalibrateProjector">
+<area shape="rect" id="node2" href="$class_b9_terminal.html#ab04f4f887e01621861cdae263e10bf3f" title="B9Terminal::isConnected" alt="" coords="243,12,413,39"/>
+<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a149593b2de378ef6f3dc54ced6657928" title="B9PrinterComm::isConnected" alt="" coords="462,12,658,39"/>
+<area shape="rect" id="node4" href="$class_b9_printer_status.html#a8231ccafa88948caa5080fae12663d37" title="B9PrinterStatus::isValid\lVersion" alt="" coords="707,5,869,46"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="B9Edit::saveJobAs" name="B9Edit::saveJobAs">
+<area shape="rect" id="node2" href="$class_b9_edit.html#ac8f7b86feec70c746f02e5fb759e34f7" title="B9Edit::saveJob" alt="" coords="190,56,309,83"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808" title="B9Edit::newJob" alt="" coords="360,31,475,57"/>
+<area shape="rect" id="node6" href="$class_b9_edit.html#afb05e7b06728a265059e52ef5ee58cc6" title="B9Edit::openJob" alt="" coords="358,81,477,108"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="539,56,647,83"/>
+<area shape="rect" id="node5" href="$class_b9_edit.html#a56a3b1732d0f09facfb82b7c87d34e18" title="B9Edit::closeEvent" alt="" coords="526,5,661,32"/>
+<area shape="rect" id="node7" href="$class_b9_edit.html#a28d3b014af316b7e9a16aaaf9085cea2" title="B9Edit::dropEvent" alt="" coords="529,107,657,133"/>
+</map>

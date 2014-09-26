@@ -1,0 +1,12 @@
+<map id="CrushedPrintJob::setXYPixel" name="CrushedPrintJob::setXYPixel">
+<area shape="rect" id="node2" href="$class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808" title="B9Edit::newJob" alt="" coords="285,43,400,69"/>
+<area shape="rect" id="node5" href="$class_b9_edit.html#a73b990ccdf293a349129a50827896c5c" title="B9Edit::importSlicesFromSvg" alt="" coords="245,93,440,120"/>
+<area shape="rect" id="node7" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="247,144,438,171"/>
+<area shape="rect" id="node8" href="$class_b9_edit.html#a7fe49178aa65924dd90d92fab3f8f1b1" title="B9Edit::updateXY" alt="" coords="279,195,406,221"/>
+<area shape="rect" id="node9" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="251,245,435,272"/>
+<area shape="rect" id="node3" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="509,5,617,32"/>
+<area shape="rect" id="node4" href="$class_b9_edit.html#a56a3b1732d0f09facfb82b7c87d34e18" title="B9Edit::closeEvent" alt="" coords="495,56,630,83"/>
+<area shape="rect" id="node6" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="492,132,633,159"/>
+<area shape="rect" id="node10" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="489,245,637,272"/>
+<area shape="rect" id="node11" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="685,245,789,272"/>
+</map>

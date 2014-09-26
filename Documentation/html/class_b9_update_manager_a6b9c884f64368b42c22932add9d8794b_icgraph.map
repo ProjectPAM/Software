@@ -1,0 +1,5 @@
+<map id="B9UpdateManager::CopyFromTemp" name="B9UpdateManager::CopyFromTemp">
+<area shape="rect" id="node2" href="$class_b9_update_manager.html#ac05ad264636294e9240fb707f00c8bed" title="B9UpdateManager::OnRecieved\lReply" alt="" coords="560,5,771,46"/>
+<area shape="rect" id="node4" href="$class_b9_update_manager.html#a4f253c5b1aaea11b1fa1fc361d04ef0a" title="B9UpdateManager::CopyInRemote\lEntries" alt="" coords="285,34,512,75"/>
+<area shape="rect" id="node3" href="$class_b9_update_manager.html#a08839a41be141b521eceaca7780af8c0" title="B9UpdateManager::B9Update\lManager" alt="" coords="819,5,1015,46"/>
+</map>
