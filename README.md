@@ -1,18 +1,9 @@
 Project PAM Software
 ========
 
-PAM stands for Photoresin Additive Manufacturing. This type of 3D printing gets away from the extruded plastic spaghetti machines that we're all familiar with and instead uses light-curing resins to build your models. 
+The control software for Project PAM will be forked from the B9Creator control software. It will be written using C++ and Qt to ensure the application is cross-platform. The software will be licensed under the GNU GPLv3.
 
-Project PAM is seeking to take DLP 3D printing in a new direction of higher build volumes and lower costs without sacrificing resolution. The goal for this project is to produce a high resolution DLP printer that is fully open sourced using off-the-shelf hardware and that is well documented. All design material can be found in either the [Hardware Repo][hw] or the [Software Repo][sw].
-
-If you would like to donate to Project PAM visit our Indiegogo campaign. Any and all donations would be greatly appreciated.
-
-There have been many attempts at an open source DLP 3D printer, yet many of those attempts have patents associated to the design, non-commercial licensing, or do not properly host and share their designs. Our first priority when starting out was to keep everything open-source; this includes both hardware and software. To ensure this, we have followed the [Open Source Hardware (OSHW) Definition][OSHWD] set by the Open Source Hardware Association ([OSHA][OSHA]).
-
-[hw]: https://github.com/ProjectPAM/Hardware
-[sw]: https://github.com/ProjectPAM/Software
-[OSHWD]: http://www.oshwa.org/definition/
-[OSHA]: http://www.oshwa.org/
+Project PAM will be using an Arduino running Grbl to implement motion control.
 
 Releases
 ========
