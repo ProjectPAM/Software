@@ -3,7 +3,7 @@ Project PAM Software
 
 PAM stands for Photoresin Additive Manufacturing. This type of 3D printing gets away from the extruded plastic spaghetti machines that we're all familiar with and instead uses light-curing resins to build your models. 
 
-Project PAM is seeking to take DLP 3D printing in a new direction of higher build volumes and lower costs without sacrificing resolution. The goal for this project is to produce a high resolution DLP printer that is fully open sourced using off-the-shelf hardware and that is well documented. All design material can be found in either the [Hardware Repo][hw] or the Software Repo[sw].
+Project PAM is seeking to take DLP 3D printing in a new direction of higher build volumes and lower costs without sacrificing resolution. The goal for this project is to produce a high resolution DLP printer that is fully open sourced using off-the-shelf hardware and that is well documented. All design material can be found in either the [Hardware Repo][hw] or the [Software Repo][sw].
 
 If you would like to donate to Project PAM visit our Indiegogo campaign. Any and all donations would be greatly appreciated.
 
