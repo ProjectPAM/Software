@@ -50,7 +50,7 @@ QT       += network
 TEMPLATE = app
 
 INCLUDEPATH += b9slice
-INCLUDEPATH += b9edit
+INCLUDEPATH += Edit
 INCLUDEPATH += b9create
 
 SOURCES += main.cpp\
@@ -61,11 +61,11 @@ SOURCES += main.cpp\
     b9terminal.cpp \
     b9printercomm.cpp \
     b9projector.cpp \
-    b9edit/SliceEditView.cpp \
-    b9edit/FloodFill.cpp \
-    b9edit/DrawingContext.cpp \
-    b9edit/Edit.cpp \
-    b9edit/AboutBox.cpp \
+    Edit/SliceEditView.cpp \
+    Edit/FloodFill.cpp \
+    Edit/DrawingContext.cpp \
+    Edit/Edit.cpp \
+    Edit/AboutBox.cpp \
     helpsystem.cpp \
     b9nativeapp.cpp \
     dlgcyclesettings.cpp \
@@ -108,11 +108,11 @@ HEADERS  += mainwindow.h \
     b9terminal.h \
     b9printercomm.h \
     b9projector.h \
-    b9edit/SliceEditView.h \
-    b9edit/FloodFill.h \
-    b9edit/DrawingContext.h \
-    b9edit/Edit.h \
-    b9edit/AboutBox.h \
+    Edit/SliceEditView.h \
+    Edit/FloodFill.h \
+    Edit/DrawingContext.h \
+    Edit/Edit.h \
+    Edit/AboutBox.h \
     helpsystem.h \
     b9nativeapp.h \
     dlgcyclesettings.h \
@@ -152,9 +152,9 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui \
     b9terminal.ui \
-    b9edit/SliceEditView.ui \
-    b9edit/Edit.ui \
-    b9edit/AboutBox.ui \
+    Edit/SliceEditView.ui \
+    Edit/Edit.ui \
+    Edit/AboutBox.ui \
     b9slice/b9slice.ui \
     dlgcyclesettings.ui \
     dlgmaterialsmanager.ui \
@@ -166,8 +166,8 @@ FORMS    += mainwindow.ui \
     dlgcalprojector.ui
 
 RESOURCES += \
-    b9edit/Edit.qrc \
-    b9edit/SliceEditView.qrc
+    Edit/Edit.qrc \
+    Edit/SliceEditView.qrc
 
 include(qextserialport-1.2beta2/src/qextserialport.pri)
 
