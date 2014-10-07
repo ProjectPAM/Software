@@ -72,16 +72,16 @@ SOURCES += main.cpp\
     dlgmaterialsmanager.cpp \
     b9matcat.cpp \
     b9print.cpp \
-    b9layout/WorldView.cpp \
-    b9layout/Triangle3d.cpp \
-    b9layout/SliceSet.cpp \
-    b9layout/SliceContext.cpp \
-    b9layout/Slice.cpp \
-    b9layout/SliceExporter.cpp \
-    b9layout/Segment.cpp \
-    b9layout/ModelData.cpp \
-    b9layout/Loop.cpp \
-    b9layout/Layout.cpp \
+    Layout/WorldView.cpp \
+    Layout/Triangle3d.cpp \
+    Layout/SliceSet.cpp \
+    Layout/SliceContext.cpp \
+    Layout/Slice.cpp \
+    Layout/SliceExporter.cpp \
+    Layout/Segment.cpp \
+    Layout/ModelData.cpp \
+    Layout/Loop.cpp \
+    Layout/Layout.cpp \
     b9slice/b9slice.cpp \
     dlgprintprep.cpp \
     OS_Wrapper_Functions.cpp \
@@ -91,15 +91,15 @@ SOURCES += main.cpp\
     b9printermodelmanager.cpp \
     b9updatemanager.cpp \
     b9modelloader.cpp \
-    b9layout/LayoutProjectData.cpp \
-    b9layout/ModelInstance.cpp \
+    Layout/LayoutProjectData.cpp \
+    Layout/ModelInstance.cpp \
     b9supportstructure.cpp \
-    b9layout/GeometricFunctions.cpp \
-    b9layout/VerticalTricontainer.cpp \
+    Layout/GeometricFunctions.cpp \
+    Layout/VerticalTricontainer.cpp \
     b9modelwriter.cpp \
     dlgcalbuildtable.cpp \
     dlgcalprojector.cpp \
-    b9layout/Tesselator.cpp
+    Layout/Tesselator.cpp
 
 HEADERS  += mainwindow.h \
     logfilemanager.h \
@@ -119,17 +119,17 @@ HEADERS  += mainwindow.h \
     dlgmaterialsmanager.h \
     b9matcat.h \
     b9print.h \
-    b9layout/WorldView.h \
-    b9layout/Triangle3d.h \
-    b9layout/SliceSet.h \
-    b9layout/SliceContext.h \
-    b9layout/Slice.h \
-    b9layout/SliceExporter.h \
-    b9layout/Segment.h \
-    b9layout/ModelData.h \
-    b9layout/Loop.h \
+    Layout/WorldView.h \
+    Layout/Triangle3d.h \
+    Layout/SliceSet.h \
+    Layout/SliceContext.h \
+    Layout/Slice.h \
+    Layout/SliceExporter.h \
+    Layout/Segment.h \
+    Layout/ModelData.h \
+    Layout/Loop.h \
     OS_GL_Wrapper.h \
-    b9layout/Layout.h \
+    Layout/Layout.h \
     b9slice/b9slice.h \
     dlgprintprep.h \
     OS_Wrapper_Functions.h \
@@ -140,15 +140,15 @@ HEADERS  += mainwindow.h \
     b9updatemanager.h \
     b9updateentry.h \
     b9modelloader.h \
-    b9layout/LayoutProjectData.h \
-    b9layout/ModelInstance.h \
+    Layout/LayoutProjectData.h \
+    Layout/ModelInstance.h \
     b9supportstructure.h \
-    b9layout/GeometricFunctions.h \
-    b9layout/VerticalTricontainer.h \
+    Layout/GeometricFunctions.h \
+    Layout/VerticalTricontainer.h \
     b9modelwriter.h \
     dlgcalbuildtable.h \
     dlgcalprojector.h \
-    b9layout/Tesselator.h
+    Layout/Tesselator.h
 
 FORMS    += mainwindow.ui \
     b9terminal.ui \
@@ -159,8 +159,8 @@ FORMS    += mainwindow.ui \
     dlgcyclesettings.ui \
     dlgmaterialsmanager.ui \
     b9print.ui \
-    b9layout/SliceDebugWindow.ui \
-    b9layout/3dMain.ui \
+    Layout/SliceDebugWindow.ui \
+    Layout/3dMain.ui \
     dlgprintprep.ui \
     dlgcalbuildtable.ui \
     dlgcalprojector.ui

@@ -44,7 +44,7 @@
 #include <QDesktopWidget>
 #include <QSplashScreen>
 #include "logfilemanager.h"
-#include "b9layout/Layout.h"
+#include "Layout/Layout.h"
 #include "b9slice.h"
 #include "Edit/Edit.h"
 #include "b9print.h"

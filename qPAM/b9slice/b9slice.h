@@ -41,7 +41,7 @@
 
 #include <QMainWindow>
 #include <QHideEvent>
-#include "b9layout/Layout.h"
+#include "Layout/Layout.h"
 
 namespace Ui {
 class B9Slice;
