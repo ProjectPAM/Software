@@ -37,7 +37,7 @@
 *************************************************************************************/
 
 #include "b9modelwriter.h"
-#include "b9layout/triangle3d.h"
+#include "b9layout/Triangle3d.h"
 #include <QDebug>
 
 B9ModelWriter::B9ModelWriter(QString filename, bool &readyWrite, QObject *parent) :

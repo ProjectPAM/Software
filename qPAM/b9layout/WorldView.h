@@ -40,7 +40,7 @@
 #define WORLDVIEW_H
 
 #include <QGLWidget>
-#include "b9layout.h"
+#include "Layout.h"
 #include "b9supportstructure.h"
 #include <QPoint>
 class Slice;

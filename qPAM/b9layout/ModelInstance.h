@@ -41,10 +41,10 @@
 #include <QVector3D>
 #include <QColor>
 #include <QListWidget>
-#include "triangle3d.h"
-#include "modeldata.h"
-#include "sliceset.h"
-#include "b9verticaltricontainer.h"
+#include "Triangle3d.h"
+#include "ModelData.h"
+#include "SliceSet.h"
+#include "VerticalTricontainer.h"
 
 
 #define INSTANCE_MIN_SCALE 0.01

@@ -42,7 +42,7 @@
 #include "b9printermodelmanager.h"
 #include "b9updatemanager.h"
 #include "b9supportstructure.h"
-#include "b9layout/b9layoutprojectdata.h"
+#include "b9layout/LayoutProjectData.h"
 #include <QDebug>
 
 #define B9CVERSION "Version 1.6.0     Copyright 2013 B9Creations, LLC     www.b9creator.com\n "

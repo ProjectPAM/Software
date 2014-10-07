@@ -39,10 +39,10 @@
 #ifndef SLICE_H
 #define SLICE_H
 
-#include "b9modelinstance.h"
-#include "segment.h"
-#include "loop.h"
-#include "SlcExporter.h"
+#include "ModelInstance.h"
+#include "Segment.h"
+#include "Loop.h"
+#include "SliceExporter.h"
 #include <vector>
 
 class Triangle3D;

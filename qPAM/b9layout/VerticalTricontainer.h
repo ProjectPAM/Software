@@ -2,7 +2,7 @@
 #define B9VERTICALTRICONTAINER_H
 
 #include <vector>
-#include "triangle3d.h"
+#include "Triangle3d.h"
 
 #define TRICONTAINER_PLAY 0.001
 

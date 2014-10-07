@@ -40,8 +40,8 @@
 #define SLICECONTEXT_H
 
 #include <QGLWidget>
-#include "b9layout.h"
-#include "slice.h"
+#include "Layout.h"
+#include "Slice.h"
 class SliceData;
 class SliceContext : public QGLWidget
 {

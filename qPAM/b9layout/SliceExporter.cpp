@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "SlcExporter.h"
+#include "SliceExporter.h"
 
 
 SlcExporter::SlcExporter(std::string filename)

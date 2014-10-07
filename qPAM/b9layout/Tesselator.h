@@ -6,7 +6,7 @@
 #endif
 
 #include <QVector2D>
-#include "loop.h"
+#include "Loop.h"
 #include <vector>
 #include <QtOpenGL>
 #include <OS_GL_Wrapper.h>

@@ -1,4 +1,4 @@
-#include "b9tesselator.h"
+#include "Tesselator.h"
 #include <QtOpenGL>
 #include <OS_GL_Wrapper.h>
 

@@ -36,8 +36,8 @@
 //
 *************************************************************************************/
 
-#include "triangle3d.h"
-#include "geometricfunctions.h"
+#include "Triangle3d.h"
+#include "GeometricFunctions.h"
 #include <QDebug>
 
 Triangle3D::Triangle3D()

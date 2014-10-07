@@ -36,9 +36,9 @@
 //
 *************************************************************************************/
 
-#include "slicecontext.h"
+#include "SliceContext.h"
 #include "OS_GL_Wrapper.h"
-#include "b9layoutprojectdata.h"
+#include "LayoutProjectData.h"
 #include <QPoint>
 #include <QVector2D>
 #include <QtOpenGL>

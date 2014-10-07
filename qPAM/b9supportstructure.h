@@ -5,7 +5,7 @@
 #include <vector>
 #include <QVector3D>
 #include <QListWidgetItem>
-#include "b9layout/triangle3d.h"
+#include "b9layout/Triangle3d.h"
 
 
 #define SUPPORT_MID_PRINTABLE_ANGLE_RATIO 0.4 //(vertical_difference/mid_length)

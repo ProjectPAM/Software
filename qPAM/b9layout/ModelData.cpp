@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "modeldata.h"
+#include "ModelData.h"
 #include "b9modelloader.h"
 #include "loadingbar.h"
 

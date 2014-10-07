@@ -39,10 +39,10 @@
 #include "b9supportstructure.h"
 
 
-#include "b9layout/b9modelinstance.h"
+#include "b9layout/ModelInstance.h"
 #include "b9modelloader.h"
 #include "OS_Wrapper_Functions.h"
-#include "b9layout/geometricfunctions.h"
+#include "b9layout/GeometricFunctions.h"
 #include <QtOpenGL>
 
 

@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "b9verticaltricontainer.h"
+#include "VerticalTricontainer.h"
 
 B9VerticalTriContainer::B9VerticalTriContainer()
 {

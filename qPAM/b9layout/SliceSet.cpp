@@ -36,11 +36,11 @@
 //
 *************************************************************************************/
 
-#include "sliceset.h"
-#include "slice.h"
+#include "SliceSet.h"
+#include "Slice.h"
 #include "math.h"
-#include "slicecontext.h"
-#include "b9layoutprojectdata.h"
+#include "SliceContext.h"
+#include "LayoutProjectData.h"
 #include "crushbitmap.h"
 #include <QColor>
 

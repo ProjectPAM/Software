@@ -36,21 +36,21 @@
 //
 *************************************************************************************/
 
-#include "b9layout.h"
-#include "b9layoutprojectdata.h"
+#include "Layout.h"
+#include "LayoutProjectData.h"
 #include "crushbitmap.h"
-#include "slicecontext.h"
-#include "sliceset.h"
-#include "slice.h"
+#include "SliceContext.h"
+#include "SliceSet.h"
+#include "Slice.h"
 #include "loadingbar.h"
 #include <QFileDialog>
 #include <QMessageBox>
 #include <QVector3D>
 #include <QGLWidget>
 #include <QDebug>
-#include "SlcExporter.h"
-#include "modeldata.h"
-#include "b9modelinstance.h"
+#include "SliceExporter.h"
+#include "ModelData.h"
+#include "ModelInstance.h"
 #include "b9supportstructure.h"
 #include "OS_Wrapper_Functions.h"
 #include "b9modelwriter.h"

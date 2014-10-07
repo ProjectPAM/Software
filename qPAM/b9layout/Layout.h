@@ -41,7 +41,7 @@
 
 #include <QtGui>
 #include "ui_b93dmain.h"
-#include "worldview.h"
+#include "WorldView.h"
 
 
 class B9LayoutProjectData;

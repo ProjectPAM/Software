@@ -36,9 +36,9 @@
 //
 *************************************************************************************/
 
-#include "b9layoutprojectdata.h"
-#include "modeldata.h"
-#include "b9modelinstance.h"
+#include "LayoutProjectData.h"
+#include "ModelData.h"
+#include "ModelInstance.h"
 #include "b9supportstructure.h"
 #include "OS_Wrapper_Functions.h"
 #include <QDebug>

@@ -43,13 +43,13 @@
 
 #include "OS_GL_Wrapper.h"
 #include "math.h"
-#include "worldview.h"
-#include "b9layoutprojectdata.h"
-#include "b9modelinstance.h"
+#include "WorldView.h"
+#include "LayoutProjectData.h"
+#include "ModelInstance.h"
 #include "b9supportstructure.h"
-#include "geometricfunctions.h"
-#include "sliceset.h"
-#include "slice.h"
+#include "GeometricFunctions.h"
+#include "SliceSet.h"
+#include "Slice.h"
 
 #ifndef GL_MULTISAMPLE
 #define GL_MULTISAMPLE  0x809D

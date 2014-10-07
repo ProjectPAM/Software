@@ -36,9 +36,9 @@
 //
 *************************************************************************************/
 
-#include "slice.h"
+#include "Slice.h"
 #include "math.h"
-#include "geometricfunctions.h"
+#include "GeometricFunctions.h"
 #include <QtDebug>
 
 #include <QtOpenGL>//for the open gl commands in render()...

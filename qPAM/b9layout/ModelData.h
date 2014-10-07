@@ -39,10 +39,10 @@
 #define MODELDATA_H
 
 #include <QString>
-#include "b9layout.h"
-#include "triangle3d.h"
+#include "Layout.h"
+#include "Triangle3d.h"
 
-#include "b9modelinstance.h"
+#include "ModelInstance.h"
 
 
 #include <vector>

@@ -36,18 +36,18 @@
 //
 *************************************************************************************/
 
-#include "loop.h"
-#include "segment.h"
-#include "slice.h"
-#include "geometricfunctions.h"
+#include "Loop.h"
+#include "Segment.h"
+#include "Slice.h"
+#include "GeometricFunctions.h"
 #include "math.h"
 
 
 #include <QtDebug>
 #include <QtOpenGL>
 #include "OS_GL_Wrapper.h"
-#include "b9tesselator.h"
-#include "segment.h"
+#include "Tesselator.h"
+#include "Segment.h"
 
 
 //Public:

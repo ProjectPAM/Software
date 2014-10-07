@@ -36,10 +36,10 @@
 //
 *************************************************************************************/
 
-#include "segment.h"
+#include "Segment.h"
 #include "math.h"
 #include "qmath.h"
-#include "geometricfunctions.h"
+#include "GeometricFunctions.h"
 
 #include <QVector2D>
 
