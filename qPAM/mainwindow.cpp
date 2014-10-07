@@ -322,7 +322,7 @@ void MainWindow::AttemptPrintDialogWithFile(QString openFile)
     if( pTerminal->isConnected()&& iXYPixelMicrons != (int)pTerminal->getXYPixelSize()){
         QMessageBox msgBox;
         msgBox.setText("WARNING");
-        msgBox.setInformativeText("The XY pixel size of the selected job file ("+QString::number(iXYPixelMicrons)+" µm) does not agree with the Printer's calibrated XY pixel size ("+QString::number(pTerminal->getXYPixelSize())+" µm)!\n\n"
+        msgBox.setInformativeText("The XY pixel size of the selected job file ("+QString::number(iXYPixelMicrons)+" Âµm) does not agree with the Printer's calibrated XY pixel size ("+QString::number(pTerminal->getXYPixelSize())+" Âµm)!\n\n"
                                   "Printing will likely result in an object with incorrect scale and/or apsect ratio.\n\n"
                                   "Do you wish to continue?");
         msgBox.setStandardButtons(QMessageBox::Yes | QMessageBox::No);
