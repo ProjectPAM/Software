@@ -62,10 +62,10 @@ SOURCES += main.cpp\
     b9printercomm.cpp \
     b9projector.cpp \
     b9edit/SliceEditView.cpp \
-    b9edit/floodfill.cpp \
+    b9edit/FloodFill.cpp \
     b9edit/DrawingContext.cpp \
-    b9edit/b9edit.cpp \
-    b9edit/aboutbox.cpp \
+    b9edit/Edit.cpp \
+    b9edit/AboutBox.cpp \
     helpsystem.cpp \
     b9nativeapp.cpp \
     dlgcyclesettings.cpp \
@@ -109,10 +109,10 @@ HEADERS  += mainwindow.h \
     b9printercomm.h \
     b9projector.h \
     b9edit/SliceEditView.h \
-    b9edit/floodfill.h \
+    b9edit/FloodFill.h \
     b9edit/DrawingContext.h \
-    b9edit/b9edit.h \
-    b9edit/aboutbox.h \
+    b9edit/Edit.h \
+    b9edit/AboutBox.h \
     helpsystem.h \
     b9nativeapp.h \
     dlgcyclesettings.h \
@@ -152,9 +152,9 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui \
     b9terminal.ui \
-    b9edit/sliceeditview.ui \
-    b9edit/b9edit.ui \
-    b9edit/aboutbox.ui \
+    b9edit/SliceEditView.ui \
+    b9edit/Edit.ui \
+    b9edit/AboutBox.ui \
     b9slice/b9slice.ui \
     dlgcyclesettings.ui \
     dlgmaterialsmanager.ui \
@@ -166,9 +166,8 @@ FORMS    += mainwindow.ui \
     dlgcalprojector.ui
 
 RESOURCES += \
-    b9edit/sliceeditview.qrc \
-    b9edit/b9edit.qrc \
-    b9edit/sliceeditview.qrc
+    b9edit/Edit.qrc \
+    b9edit/SliceEditView.qrc
 
 include(qextserialport-1.2beta2/src/qextserialport.pri)
 

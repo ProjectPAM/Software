@@ -38,7 +38,7 @@
 
 #include "DrawingContext.h"
 #include "SliceEditView.h"
-#include "floodfill.h"
+#include "FloodFill.h"
 
 //////////////////////////////////////////
 //Public

@@ -36,8 +36,8 @@
 //
 *************************************************************************************/
 
-#include "aboutbox.h"
-#include "ui_aboutbox.h"
+#include "AboutBox.h"
+#include "ui_AboutBox.h"
 
 aboutbox::aboutbox(QWidget *parent, Qt::WFlags flags) :
     QWidget(parent, flags),

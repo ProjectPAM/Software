@@ -35,7 +35,7 @@
    <string>B9Creator - Edit</string>
   </property>
   <property name="windowIcon">
-   <iconset resource="b9edit.qrc">
+   <iconset>
     <normaloff>:/B9Edit/icons/editoriconbright.png</normaloff>:/B9Edit/icons/editoriconbright.png</iconset>
   </property>
   <property name="styleSheet">
@@ -144,7 +144,7 @@
      <x>0</x>
      <y>0</y>
      <width>317</width>
-     <height>21</height>
+     <height>25</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuFile">
@@ -184,7 +184,7 @@
   </widget>
   <action name="actionOpen_Image_Folder">
    <property name="icon">
-    <iconset resource="b9edit.qrc">
+    <iconset resource="Edit.qrc">
      <normaloff>:/B9Edit/icons/importslices.png</normaloff>:/B9Edit/icons/importslices.png</iconset>
    </property>
    <property name="text">
@@ -196,7 +196,7 @@
   </action>
   <action name="actionOpen_Exsisting_Job_File">
    <property name="icon">
-    <iconset resource="b9edit.qrc">
+    <iconset resource="Edit.qrc">
      <normaloff>:/B9Edit/icons/open.png</normaloff>:/B9Edit/icons/open.png</iconset>
    </property>
    <property name="text">
@@ -211,7 +211,7 @@
   </action>
   <action name="actionSave_To_Job">
    <property name="icon">
-    <iconset resource="b9edit.qrc">
+    <iconset resource="Edit.qrc">
      <normaloff>:/B9Edit/icons/save.png</normaloff>:/B9Edit/icons/save.png</iconset>
    </property>
    <property name="text">
@@ -241,7 +241,7 @@
   </action>
   <action name="actionShow_Slice_Window">
    <property name="icon">
-    <iconset resource="b9edit.qrc">
+    <iconset resource="Edit.qrc">
      <normaloff>:/B9Edit/icons/edit.png</normaloff>:/B9Edit/icons/edit.png</iconset>
    </property>
    <property name="text">
@@ -250,7 +250,7 @@
   </action>
   <action name="actionNew_Job">
    <property name="icon">
-    <iconset resource="b9edit.qrc">
+    <iconset resource="Edit.qrc">
      <normaloff>:/B9Edit/icons/new.png</normaloff>:/B9Edit/icons/new.png</iconset>
    </property>
    <property name="text">
@@ -287,7 +287,7 @@
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
-  <include location="b9edit.qrc"/>
+  <include location="Edit.qrc"/>
  </resources>
  <connections>
   <connection>

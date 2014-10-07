@@ -39,9 +39,9 @@
 #ifndef SLICEEDITVIEW_H
 #define SLICEEDITVIEW_H
 #include <QtGui/QMainWindow>
-#include "ui_sliceeditview.h"
+#include "ui_SliceEditView.h"
 #include "DrawingContext.h"
-#include "b9edit.h"
+#include "Edit.h"
 #include "crushbitmap.h"
 #include <QImage>
 #include <QColor>

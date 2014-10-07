@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "b9edit.h"
+#include "Edit.h"
 #include "loadingbar.h"
 #include <QFileInfo>
 #include <QFile>

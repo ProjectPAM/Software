@@ -43,10 +43,10 @@
 #include <QDebug>
 #include <QMessageBox>
 #include <QFileDialog>
-#include "ui_b9edit.h"
+#include "ui_Edit.h"
 #include "crushbitmap.h"
 #include "SliceEditView.h"
-#include "aboutbox.h"
+#include "AboutBox.h"
 #include <QCloseEvent>
 
 

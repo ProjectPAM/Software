@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "floodfill.h"
+#include "FloodFill.h"
 
 
 void floodFill(QImage* pImage, int x, int y, QColor fillColor)

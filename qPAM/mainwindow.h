@@ -46,7 +46,7 @@
 #include "logfilemanager.h"
 #include "b9layout/b9layout.h"
 #include "b9slice.h"
-#include "b9edit/b9edit.h"
+#include "b9edit/Edit.h"
 #include "b9print.h"
 #include "b9terminal.h"
 #include "helpsystem.h"

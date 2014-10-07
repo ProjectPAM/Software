@@ -76,7 +76,7 @@
          <x>0</x>
          <y>0</y>
          <width>212</width>
-         <height>218</height>
+         <height>211</height>
         </rect>
        </property>
       </widget>
@@ -90,7 +90,7 @@
      <x>0</x>
      <y>0</y>
      <width>275</width>
-     <height>21</height>
+     <height>25</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuPoo">
@@ -194,7 +194,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/bucketwhiteicon.png</normaloff>:/Icons/icons/bucketwhiteicon.png</iconset>
    </property>
    <property name="text">
@@ -206,7 +206,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/bucketblackicon.png</normaloff>:/Icons/icons/bucketblackicon.png</iconset>
    </property>
    <property name="text">
@@ -226,7 +226,7 @@
     <bool>false</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/penwhiteicon.png</normaloff>:/Icons/icons/penwhiteicon.png</iconset>
    </property>
    <property name="text">
@@ -238,7 +238,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/penblackicon.png</normaloff>:/Icons/icons/penblackicon.png</iconset>
    </property>
    <property name="text">
@@ -349,7 +349,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/cylindersupporticon.png</normaloff>:/Icons/icons/cylindersupporticon.png</iconset>
    </property>
    <property name="text">
@@ -361,7 +361,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/boxsupporticon.png</normaloff>:/Icons/icons/boxsupporticon.png</iconset>
    </property>
    <property name="text">
@@ -373,7 +373,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/trianglesupporticon.png</normaloff>:/Icons/icons/trianglesupporticon.png</iconset>
    </property>
    <property name="text">
@@ -398,7 +398,7 @@
     <bool>true</bool>
    </property>
    <property name="icon">
-    <iconset resource="sliceeditview.qrc">
+    <iconset resource="SliceEditView.qrc">
      <normaloff>:/Icons/icons/diamondsupporticon.png</normaloff>:/Icons/icons/diamondsupporticon.png</iconset>
    </property>
    <property name="text">
@@ -437,7 +437,7 @@
   </action>
  </widget>
  <resources>
-  <include location="sliceeditview.qrc"/>
+  <include location="SliceEditView.qrc"/>
  </resources>
  <connections>
   <connection>
