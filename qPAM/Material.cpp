@@ -5,7 +5,7 @@
 //  BCreator(tm)
 //  Software for the control of the 3D Printer, "B9Creator"(tm)
 //
-//  Copyright 2011-2012 B9Creations, LLC
+//  Copyright 2011-2013 B9Creations, LLC
 //  B9Creations(tm) and B9Creator(tm) are trademarks of B9Creations, LLC
 //
 //  This file is part of B9Creator
@@ -36,42 +36,72 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include "Material.h"
+#include "qstring.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
-
-namespace Ui {
-class B9Slice;
+B9Material::B9Material()
+{
+    m_sMaterialLabel = "Default Material Name";
+    m_sMaterialDescription = "Defualt Material Description";
+    AddXYSize(100);
 }
 
-class B9Slice : public QMainWindow
+B9Material::~B9Material()
 {
-    Q_OBJECT
+}
 
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+bool B9Material::isFactoryEntry()
+{
+    return m_sMaterialLabel.left(2)=="!@";
+}
+
+QString B9Material::getLabel()
+{
+    if(isFactoryEntry())return m_sMaterialLabel.right(m_sMaterialLabel.count()-2);
+    return m_sMaterialLabel;
+}
+
+XYData* B9Material::FindXYData(double xySize)
+{
+    int i;
+    for(i = 0; i < XYSizes.size(); i++)
+    {
+        if(XYSizes.at(i).size == xySize)
+        {
+            return &XYSizes[i];
+        }
+    }
+    return NULL;
+}
 
 
-signals:
-    void eventHiding();
+void B9Material::AddXYSize(double xySize)
+{
+    XYData newData;
+    newData.size = xySize;
+    newData.attachmentLayers = 0;
+    newData.attachmentLayersCureTime = 0;
 
+    XYSizes.append(newData);
+}
+void B9Material::SetXYAttachmentCureTime(double xySize, double time_s)
+{
+    XYData* d = FindXYData(xySize);
+    if(d==NULL) return;
+    d->attachmentLayersCureTime = time_s;
+}
 
-public slots:
-    void LoadLayout();
-    void Slice();
+void B9Material::SetXYAttachmentLayers(double xySize,  int numberOfLayers)
+{
+    XYData* d = FindXYData(xySize);
+    if(d==NULL) return;
+    d->attachmentLayers = numberOfLayers;
+}
 
-
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H
+double B9Material::GetXYAttachmentCureTime(double xySize)
+{
+    XYData* d = FindXYData(xySize);
+    if(d==NULL) return -1;
+    else
+        return d->attachmentLayersCureTime;
+}

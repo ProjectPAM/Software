@@ -36,42 +36,91 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#ifndef B9NATIVEAPP_H
+#define B9NATIVEAPP_H
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+#include <QApplication>
+#include "MainWindow.h"
+#include "OS_Wrapper_Functions.h"
 
-namespace Ui {
-class B9Slice;
-}
-
-class B9Slice : public QMainWindow
+class B9NativeApp : public QApplication
 {
-    Q_OBJECT
-
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+    B9NativeApp(int &argc, char **argv) : QApplication(argc, argv)
+    {
+
+        mainWindow = new MainWindow;
+        this->argc = argc;
+
+        for(int i = 0; i < argc; i++)
+            this->argv.push_back(QString::fromAscii(argv[i]));
+
+    }
+    ~B9NativeApp()
+    {
+        delete mainWindow;
+    }
+
+    void ProccessArguments()
+    {
+    #ifdef Q_OS_WIN
+        if(argc > 1)
+        {
+            QString openFile;
+            //sometimes a file might not be incased in qoutes ""
+            for(int i = 1; i < argc; i++)
+            {
+                openFile += argv[i];
+                openFile += " ";
+            }
+            openFile = openFile.trimmed();
 
 
-signals:
-    void eventHiding();
+            if(QFileInfo(openFile).completeSuffix().toLower() == "b9l")
+            {
+                mainWindow->OpenLayoutFile(openFile);
+            }
+            else if(QFileInfo(openFile).completeSuffix().toLower() == "b9j")
+            {
+                mainWindow->OpenJobFile(openFile);
+            }
+        }
+    #endif
+
+    }
 
 
-public slots:
-    void LoadLayout();
-    void Slice();
 
 
+    MainWindow* mainWindow;
+
+
+
+    virtual bool notify(QObject *receiver, QEvent *event)
+    {
+        if (event->type() == QEvent::Polish &&
+            receiver &&
+            receiver->isWidgetType())
+        {
+            set_smaller_text_osx(reinterpret_cast<QWidget *>(receiver));
+        }
+
+        return QApplication::notify(receiver, event);
+    }
 private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
 
-    QString currentLayout;
+    int argc;
+    QStringList argv;
+
+
+    void set_smaller_text_osx(QWidget *w);
+
+
+
+protected:
+   bool event(QEvent * event);//For Mac Os X file associations.
+
+
 };
 
-#endif // B9SLICE_H
+#endif // B9NATIVEAPP_H

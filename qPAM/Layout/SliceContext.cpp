@@ -36,42 +36,65 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include "SliceContext.h"
+#include "OS_GL_Wrapper.h"
+#include "LayoutProjectData.h"
+#include <QPoint>
+#include <QVector2D>
+#include <QtOpenGL>
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
 
-namespace Ui {
-class B9Slice;
+SliceContext::SliceContext(QWidget *parent, B9LayoutProjectData *pmain) : QGLWidget(parent)
+{
+    projectData = pmain;
+    pSlice = NULL;
+    this->setAutoBufferSwap(false);//should speed up rendering by avoid buffer flipping.
+                                   //Render to pixmap should not be effected.
+
+}
+SliceContext::~SliceContext()
+{
 }
 
-class B9Slice : public QMainWindow
+
+
+
+void SliceContext::SetSlice(Slice* slice)
 {
-    Q_OBJECT
-
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+	pSlice = slice;
+}
 
 
-signals:
-    void eventHiding();
+
+void SliceContext::initializeGL()
+{
+	qglClearColor(QColor(0,0,0));
+	glEnable(GL_BLEND);
+
+    glDisable(GL_CULL_FACE);
+    glDisable(GL_DEPTH_TEST);
+
+    glViewport(0, 0, projectData->GetResolution().x(), projectData->GetResolution().y());
+    glMatrixMode(GL_PROJECTION);
+    gluOrtho2D(-projectData->GetBuildSpace().x()/2.0,
+               projectData->GetBuildSpace().x()/2.0,
+               -projectData->GetBuildSpace().y()/2.0,
+               projectData->GetBuildSpace().y()/2.0);
+	glMatrixMode(GL_MODELVIEW);
+}
+
+void SliceContext::paintGL()
+{
+	glClear(GL_COLOR_BUFFER_BIT);
+	glLoadIdentity();//reset matrix operations
+	
+	if(pSlice)
+	{
+        pSlice->Render();
+	}
+
+}
 
 
-public slots:
-    void LoadLayout();
-    void Slice();
 
 
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H

@@ -36,42 +36,30 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include "AboutBox.h"
+#include "ui_AboutBox.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+aboutbox::aboutbox(QWidget *parent, Qt::WFlags flags) :
+    QWidget(parent, flags),
+    ui(new Ui::aboutbox)
+{
+    ui->setupUi(this);
+    this->setWindowFlags(Qt::Dialog| Qt::WindowTitleHint);
 
-namespace Ui {
-class B9Slice;
+
 }
 
-class B9Slice : public QMainWindow
+aboutbox::~aboutbox()
 {
-    Q_OBJECT
-
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+    delete ui;
+}
 
 
-signals:
-    void eventHiding();
 
 
-public slots:
-    void LoadLayout();
-    void Slice();
+void aboutbox::setText(QString content)
+{
 
+    ui->textBrowser->setText(content);
 
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H
+}

@@ -38,7 +38,7 @@
 
 #include "b9slice.h"
 #include "ui_b9slice.h"
-#include "b9layout/b9layoutprojectdata.h"
+#include "Layout/LayoutProjectData.h"
 #include <QSettings>
 
 B9Slice::B9Slice(QWidget *parent, B9Layout* Main) :

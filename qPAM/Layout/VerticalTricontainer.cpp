@@ -36,42 +36,10 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include "VerticalTricontainer.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
-
-namespace Ui {
-class B9Slice;
-}
-
-class B9Slice : public QMainWindow
+B9VerticalTriContainer::B9VerticalTriContainer()
 {
-    Q_OBJECT
-
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
-
-
-signals:
-    void eventHiding();
-
-
-public slots:
-    void LoadLayout();
-    void Slice();
-
-
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H
+    upContainer = NULL;
+    downContainer = NULL;
+}

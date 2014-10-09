@@ -36,42 +36,64 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#ifndef DLGPRINTPREP_H
+#define DLGPRINTPREP_H
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+#include <QDialog>
+#include "Terminal.h"
+
 
 namespace Ui {
-class B9Slice;
+class DlgPrintPrep;
 }
 
-class B9Slice : public QMainWindow
+class DlgPrintPrep : public QDialog
 {
     Q_OBJECT
 
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+    explicit DlgPrintPrep(CrushedPrintJob* pCPJ, B9Terminal* pTerminal, QWidget *parent = 0);
+    ~DlgPrintPrep();
 
+private slots:
+    void on_comboBoxMaterial_currentIndexChanged(const QString &arg1);
 
-signals:
-    void eventHiding();
+    void on_pushButtonMatCat_clicked();
 
+    void on_checkBoxMirrored_clicked(bool checked);
 
-public slots:
-    void LoadLayout();
-    void Slice();
+    void on_spinBoxLayersToPrint_valueChanged(int arg1);
 
+    void on_pushButtonResetPrintAll_clicked();
+
+    void updateTimes();
+
+    void on_pushButtonStep3_clicked();
+
+    void on_checkBoxStep2_clicked(bool checked);
+
+    void on_checkBoxStep1_clicked(bool checked);
+
+    void on_checkBoxStep4_clicked(bool checked);
+
+    void on_checkBoxStep5_clicked(bool checked);
+
+    void on_pushButtonReleaseCycle_clicked();
+
+public:
+    int m_iTattachMS;
+    int m_iNumAttach;
+    int m_iTbaseMS;
+    int m_iToverMS;
+    bool m_bMirrored;
+    bool m_bDryRun;
+    int m_iLastLayer;
 
 private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
+    Ui::DlgPrintPrep *ui;
+    CrushedPrintJob *m_pCPJ;
+    B9Terminal *m_pTerminal;
+    bool m_bInitializing;
 };
 
-#endif // B9SLICE_H
+#endif // DLGPRINTPREP_H

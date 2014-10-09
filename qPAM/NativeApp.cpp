@@ -36,42 +36,55 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include <QWidget>
+#include "NativeApp.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
 
-namespace Ui {
-class B9Slice;
+// It's safe to call this function on any platform.
+// It will only have an effect on the Mac.
+void B9NativeApp::set_smaller_text_osx(QWidget *w)
+{
+    return; //not using the small fonts right now...
+    if(w==0)return;
+
+    // By default, none of these size attributes are set.
+    // If any has been set explicitly, we'll leave the widget alone.
+    if (!w->testAttribute(Qt::WA_MacMiniSize) &&
+        !w->testAttribute(Qt::WA_MacSmallSize) &&
+        !w->testAttribute(Qt::WA_MacNormalSize) &&
+        !w->testAttribute(Qt::WA_MacVariableSize))
+    {
+        // Is the widget is one of a number of types whose default
+        // text size is too large?
+        if (w->inherits("QLabel") ||
+            w->inherits("QLineEdit") ||
+            w->inherits("QTextEdit") ||
+            w->inherits("QComboBox") ||
+            w->inherits("QCheckBox") ||
+            w->inherits("QRadioButton") ||
+            w->inherits("QAbstractItemView"))
+            // Others could be added here...
+        {
+            // make the text the 'normal' size
+            w->setAttribute(Qt::WA_MacMiniSize);
+        }
+        else if( w->inherits("QPushButton") )
+            // Others could be added here...
+        {
+            // make the text the 'normal' size
+            w->setAttribute(Qt::WA_MacMiniSize);
+        }
+    }
 }
 
-class B9Slice : public QMainWindow
+bool B9NativeApp::event(QEvent* event)
 {
-    Q_OBJECT
+    if( event->type() == QEvent::FileOpen)
+    {
+        //TODO Use this for Mac-Os File associations.
+        //pMain->openJob(static_cast<QFileOpenEvent*>(event)->file());
+        return true;
+    }
+    return QApplication::event(event);
+}
 
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
-
-
-signals:
-    void eventHiding();
-
-
-public slots:
-    void LoadLayout();
-    void Slice();
-
-
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H

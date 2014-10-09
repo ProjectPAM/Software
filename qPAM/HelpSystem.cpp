@@ -36,42 +36,60 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include <QtCore/QByteArray>
+#include <QtCore/QDir>
+#include <QtCore/QLibraryInfo>
+#include <QtCore/QProcess>
+#include <QtGui/QMessageBox>
+#include <QtDebug>
+#include "HelpSystem.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
-
-namespace Ui {
-class B9Slice;
+HelpSystem::HelpSystem()
+    : pHelpProcess(0)
+{
 }
 
-class B9Slice : public QMainWindow
+HelpSystem::~HelpSystem()
 {
-    Q_OBJECT
+    if (pHelpProcess && pHelpProcess->state() == QProcess::Running) {
+        pHelpProcess->terminate();
+        pHelpProcess->waitForFinished();
+    }
+    pHelpProcess->deleteLater();
+}
 
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+void HelpSystem::showHelpFile(const QString &file)
+{
+    if (!startHelp())return;
+    QByteArray ba("SetSource ");
+    ba.append("qthelp://com.b9creations.b9creator/doc/");
+    pHelpProcess->write(ba + file.toLocal8Bit() + '\n');
+}
 
+bool HelpSystem::startHelp()
+{
+    if (!pHelpProcess) pHelpProcess = new QProcess();
+    if (pHelpProcess->state() != QProcess::Running) {
+        QString app = QDir::currentPath();
+#if !defined(Q_OS_MAC)
+        app += QLatin1String("/documentation/assistant");
+#else
+        app += QLatin1String("/Assistant.app/Contents/MacOS/Assistant");
+#endif
 
-signals:
-    void eventHiding();
+        QStringList args;
+        args << QLatin1String("-collectionFile")
+            << QDir::currentPath() + QLatin1String("/documentation/b9creator.qhc")
+            << QLatin1String("-enableRemoteControl");
+qDebug() << "path to ghc: "<<app << " " << args;
 
+        pHelpProcess->start(app, args);
 
-public slots:
-    void LoadLayout();
-    void Slice();
-
-
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H
+        if (!pHelpProcess->waitForStarted()) {
+            QMessageBox::critical(0, QObject::tr("B9Creator - 3D Printer"),
+                QObject::tr("Unable to launch help system (%1)").arg(app));
+            return false;
+        }
+    }
+    return true;
+}

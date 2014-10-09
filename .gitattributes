@@ -1,4 +1,4 @@
-* text=auto
+* text eol=lf
 
 # Documents
 *.doc	 diff=astextplain

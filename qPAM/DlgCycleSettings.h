@@ -36,42 +36,34 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#ifndef DLGCYCLESETTINGS_H
+#define DLGCYCLESETTINGS_H
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+#include <QDialog>
+#include "Terminal.h"
 
 namespace Ui {
-class B9Slice;
+class DlgCycleSettings;
 }
 
-class B9Slice : public QMainWindow
+class DlgCycleSettings : public QDialog
 {
     Q_OBJECT
-
+    
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
-
-
-signals:
-    void eventHiding();
-
-
-public slots:
-    void LoadLayout();
-    void Slice();
-
+    explicit DlgCycleSettings(PCycleSettings *pSettings, QWidget *parent = 0);
+    ~DlgCycleSettings();
+    
+private slots:
+    void on_buttonBox_accepted();
+    void on_buttonBox_rejected();
+    void on_pushButtonRestoreDefaults_clicked();
 
 private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
+    Ui::DlgCycleSettings *ui;
+    PCycleSettings* m_pSettings;
+    void updateDialog();
+    void stuffSettings();
 };
 
-#endif // B9SLICE_H
+#endif // DLGCYCLESETTINGS_H

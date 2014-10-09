@@ -36,42 +36,61 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#ifndef SLICE_H
+#define SLICE_H
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+#include "ModelInstance.h"
+#include "Segment.h"
+#include "Loop.h"
+#include "SliceExporter.h"
+#include <vector>
 
-namespace Ui {
-class B9Slice;
-}
+class Triangle3D;
+class Loop;
 
-class B9Slice : public QMainWindow
+class Slice
 {
-    Q_OBJECT
 
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+	
+
+    Slice(double alt, int layerIndx);
+	~Slice();
+
+	void AddSegment(Segment* pSeg);
+	
+	int GenerateSegments(B9ModelInstance* inputInstance);//returns number of initial segments
+
+    void SortSegmentsByX();
+
+	void ConnectSegmentNeighbors(); //returns the number of nudges
+	
+	int GenerateLoops();
+
+    void Render();//OpenGL rendering code - renders the whole slice.
+    void RenderOutlines();
+	void DebugRender(bool normals = true, bool connections = true, bool fills = true, bool outlines = true);//renders with visible debug information
 
 
-signals:
-    void eventHiding();
+	//export helpers
+	void WriteToSlc(SlcExporter* pslc);
 
 
-public slots:
-    void LoadLayout();
-    void Slice();
+	std::vector<Segment*> segmentList;//list of segments
+	
+	std::vector<Loop> loopList;
+	int numLoops;
 
-
+	double realAltitude;//in mm;
+    int layerIndx;//index in the progression of layers in a job (or similar construct)
+    bool inProccessing;//for multithreading help...
+    QImage* pImg;//for rasturing help..
 private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
+	bool TestIntersection(QVector2D &vec,Segment* seg1, Segment* seg2);
+    void GetTrianglesAroundZ(std::vector<Triangle3D*> &outList, double z);
+    void GetSegmentsAroundX(std::vector<Segment*> &outList, double x);
 
-    QString currentLayout;
 };
 
-#endif // B9SLICE_H
+
+#endif

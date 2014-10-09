@@ -38,7 +38,7 @@
 
 #include "OS_Wrapper_Functions.h"
 #include <QFileDialog>
-#include <screensaverwaker.h>
+#include <ScreenSaverWaker.h>
 #include <QDebug>
 #include <stdio.h>
 #include <QCoreApplication>

@@ -50,154 +50,128 @@ QT       += network
 TEMPLATE = app
 
 INCLUDEPATH += b9slice
-INCLUDEPATH += b9edit
+INCLUDEPATH += Edit
 INCLUDEPATH += b9create
 
 SOURCES += main.cpp\
-        mainwindow.cpp \
-    logfilemanager.cpp \
-    loadingbar.cpp \
-    crushbitmap.cpp \
-    b9terminal.cpp \
-    b9printercomm.cpp \
-    b9projector.cpp \
-    b9edit/SliceEditView.cpp \
-    b9edit/floodfill.cpp \
-    b9edit/DrawingContext.cpp \
-    b9edit/b9edit.cpp \
-    b9edit/aboutbox.cpp \
-    helpsystem.cpp \
-    b9nativeapp.cpp \
-    dlgcyclesettings.cpp \
-    dlgmaterialsmanager.cpp \
-    b9matcat.cpp \
-    b9print.cpp \
-    b9layout/worldview.cpp \
-    b9layout/triangle3d.cpp \
-    b9layout/sliceset.cpp \
-    b9layout/slicecontext.cpp \
-    b9layout/slice.cpp \
-    b9layout/SlcExporter.cpp \
-    b9layout/segment.cpp \
-    b9layout/modeldata.cpp \
-    b9layout/loop.cpp \
-    b9layout/b9layout.cpp \
+    MainWindow.cpp \
+    LogFileManager.cpp \
+    LoadingBar.cpp \
+    CrushBitmap.cpp \
+    Terminal.cpp \
+    PrinterComm.cpp \
+    Projector.cpp \
+    Edit/SliceEditView.cpp \
+    Edit/FloodFill.cpp \
+    Edit/DrawingContext.cpp \
+    Edit/Edit.cpp \
+    Edit/AboutBox.cpp \
+    HelpSystem.cpp \
+    NativeApp.cpp \
+    DlgCycleSettings.cpp \
+    DlgMaterialsManager.cpp \
+    MatCat.cpp \
+    Print.cpp \
+    Layout/WorldView.cpp \
+    Layout/Triangle3d.cpp \
+    Layout/SliceSet.cpp \
+    Layout/SliceContext.cpp \
+    Layout/Slice.cpp \
+    Layout/SliceExporter.cpp \
+    Layout/Segment.cpp \
+    Layout/ModelData.cpp \
+    Layout/Loop.cpp \
+    Layout/Layout.cpp \
     b9slice/b9slice.cpp \
-    dlgprintprep.cpp \
+    DlgPrintPrep.cpp \
     OS_Wrapper_Functions.cpp \
-    screensaverwaker.cpp \
-    b9material.cpp \
-    b9printermodeldata.cpp \
-    b9printermodelmanager.cpp \
-    b9updatemanager.cpp \
-    b9modelloader.cpp \
-    b9layout/b9layoutprojectdata.cpp \
-    b9layout/b9modelinstance.cpp \
-    b9supportstructure.cpp \
-    b9layout/geometricfunctions.cpp \
-    b9layout/b9verticaltricontainer.cpp \
-    b9modelwriter.cpp \
-    dlgcalbuildtable.cpp \
-    dlgcalprojector.cpp \
-    b9layout/b9tesselator.cpp
+    ScreenSaverWaker.cpp \
+    Material.cpp \
+    PrinterModelData.cpp \
+    PrinterModelManager.cpp \
+    UpdateManager.cpp \
+    ModelLoader.cpp \
+    Layout/LayoutProjectData.cpp \
+    Layout/ModelInstance.cpp \
+    SupportStructure.cpp \
+    Layout/GeometricFunctions.cpp \
+    Layout/VerticalTricontainer.cpp \
+    ModelWriter.cpp \
+    DlgCalBuildTable.cpp \
+    DlgCalProjector.cpp \
+    Layout/Tesselator.cpp
 
-HEADERS  += mainwindow.h \
-    logfilemanager.h \
-    loadingbar.h \
-    crushbitmap.h \
-    b9terminal.h \
-    b9printercomm.h \
-    b9projector.h \
-    b9edit/SliceEditView.h \
-    b9edit/floodfill.h \
-    b9edit/DrawingContext.h \
-    b9edit/b9edit.h \
-    b9edit/aboutbox.h \
-    helpsystem.h \
-    b9nativeapp.h \
-    dlgcyclesettings.h \
-    dlgmaterialsmanager.h \
-    b9matcat.h \
-    b9print.h \
-    b9layout/worldview.h \
-    b9layout/triangle3d.h \
-    b9layout/sliceset.h \
-    b9layout/slicecontext.h \
-    b9layout/slice.h \
-    b9layout/SlcExporter.h \
-    b9layout/segment.h \
-    b9layout/modeldata.h \
-    b9layout/loop.h \
+HEADERS += mainwindow.h \
+    LogFileManager.h \
+    LoadingBar.h \
+    CrushBitmap.h \
+    Terminal.h \
+    PrinterComm.h \
+    Projector.h \
+    Edit/SliceEditView.h \
+    Edit/FloodFill.h \
+    Edit/DrawingContext.h \
+    Edit/Edit.h \
+    Edit/AboutBox.h \
+    HelpSystem.h \
+    NativeApp.h \
+    DlgCycleSettings.h \
+    DlgMaterialsManager.h \
+    MatCat.h \
+    Print.h \
+    Layout/WorldView.h \
+    Layout/Triangle3d.h \
+    Layout/SliceSet.h \
+    Layout/SliceContext.h \
+    Layout/Slice.h \
+    Layout/SliceExporter.h \
+    Layout/Segment.h \
+    Layout/ModelData.h \
+    Layout/Loop.h \
     OS_GL_Wrapper.h \
-    b9layout/b9layout.h \
+    Layout/Layout.h \
     b9slice/b9slice.h \
-    dlgprintprep.h \
+    DlgPrintPrep.h \
     OS_Wrapper_Functions.h \
-    screensaverwaker.h \
-    b9material.h \
-    b9printermodeldata.h \
-    b9printermodelmanager.h \
-    b9updatemanager.h \
-    b9updateentry.h \
-    b9modelloader.h \
-    b9layout/b9layoutprojectdata.h \
-    b9layout/b9modelinstance.h \
-    b9supportstructure.h \
-    b9layout/geometricfunctions.h \
-    b9layout/b9verticaltricontainer.h \
-    b9modelwriter.h \
-    dlgcalbuildtable.h \
-    dlgcalprojector.h \
-    b9layout/b9tesselator.h
+    ScreenSaverWaker.h \
+    Material.h \
+    PrinterModelData.h \
+    PrinterModelManager.h \
+    UpdateManager.h \
+    UpdateEntry.h \
+    ModelLoader.h \
+    Layout/LayoutProjectData.h \
+    Layout/ModelInstance.h \
+    SupportStructure.h \
+    Layout/GeometricFunctions.h \
+    Layout/VerticalTricontainer.h \
+    ModelWriter.h \
+    DlgCalBuildTable.h \
+    DlgCalProjector.h \
+    Layout/Tesselator.h
 
-FORMS    += mainwindow.ui \
-    b9terminal.ui \
-    b9edit/sliceeditview.ui \
-    b9edit/b9edit.ui \
-    b9edit/aboutbox.ui \
+FORMS += MainWindow.ui \
+    Terminal.ui \
+    Edit/SliceEditView.ui \
+    Edit/Edit.ui \
+    Edit/AboutBox.ui \
     b9slice/b9slice.ui \
-    dlgcyclesettings.ui \
-    dlgmaterialsmanager.ui \
-    b9print.ui \
-    b9layout/slicedebugwindow.ui \
-    b9layout/b93dmain.ui \
-    dlgprintprep.ui \
-    dlgcalbuildtable.ui \
-    dlgcalprojector.ui
+    DlgCycleSettings.ui \
+    DlgMaterialsManager.ui \
+    Print.ui \
+    Layout/SliceDebugWindow.ui \
+    Layout/3dMain.ui \
+    DlgPrintPrep.ui \
+    DlgCalBuildTable.ui \
+    DlgCalProjector.ui
 
 RESOURCES += \
-    b9edit/sliceeditview.qrc \
-    b9edit/b9edit.qrc \
-    b9edit/sliceeditview.qrc
+    Edit/Edit.qrc \
+    Edit/SliceEditView.qrc
 
 include(qextserialport-1.2beta2/src/qextserialport.pri)
 
-OTHER_FILES += \
-    documentation/wildcardmatching.html \
-    documentation/b9creator.qhp \
-    documentation/b9creator.qhcp \
-    documentation/b9creator.qhc \
-    documentation/b9creator.qch \
-    documentation/openfile.html \
-    documentation/intro.html \
-    documentation/index.html \
-    documentation/findfile.html \
-    documentation/filedialog.html \
-    documentation/browse.html \
-    documentation/about.txt \
-    documentation/images/wildcard.png \
-    documentation/images/open.png \
-    documentation/images/mainwindow.png \
-    documentation/images/icon.png \
-    documentation/images/handbook.png \
-    documentation/images/filedialog.png \
-    documentation/images/fadedfilemenu.png \
-    documentation/images/browse.png
-
-
-
 #Windows Specifics-------------------------------------------------------------
-
 
 win32{
 
@@ -210,9 +184,7 @@ QMAKE_LFLAGS += /MANIFESTUAC:\"level=\'requireAdministrator\' uiAccess=\'false\'
 
 TARGET = B9Creator
 
-
 }
-
 
 #Mac Specifics-------------------------------------------------------------
 
@@ -229,14 +201,10 @@ CONFIG -= x86_64
 #Mac CoreLibrary Functions
 macx: LIBS += -framework CoreServices
 
-
 }
-
 
 #Linux Specifics-------------------------------------------------------------
 unix:!macx: TARGET = B9Creator
 
 unix:!macx: LIBS += -lGLU
 unix:!macx: LIBS += -lz
-
-

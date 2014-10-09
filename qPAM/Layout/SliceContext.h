@@ -36,42 +36,34 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#ifndef SLICECONTEXT_H
+#define SLICECONTEXT_H
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
-
-namespace Ui {
-class B9Slice;
-}
-
-class B9Slice : public QMainWindow
+#include <QGLWidget>
+#include "Layout.h"
+#include "Slice.h"
+class SliceData;
+class SliceContext : public QGLWidget
 {
-    Q_OBJECT
+	Q_OBJECT
 
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+    SliceContext(QWidget *parent, B9LayoutProjectData* pmain);
+     ~SliceContext();
 
-
-signals:
-    void eventHiding();
-
-
-public slots:
-    void LoadLayout();
-    void Slice();
-
+	void SetSlice(Slice* slice);
+void paintGL();
 
 private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
+	void initializeGL();
 
-    QString currentLayout;
+	
+	
+	
+    B9LayoutProjectData* projectData;
+	Slice* pSlice;
+
+
 };
 
-#endif // B9SLICE_H
+#endif

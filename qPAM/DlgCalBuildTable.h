@@ -5,7 +5,7 @@
 //  BCreator(tm)
 //  Software for the control of the 3D Printer, "B9Creator"(tm)
 //
-//  Copyright 2011-2012 B9Creations, LLC
+//  Copyright 2011-2013 B9Creations, LLC
 //  B9Creations(tm) and B9Creator(tm) are trademarks of B9Creations, LLC
 //
 //  This file is part of B9Creator
@@ -36,42 +36,48 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#ifndef DLGCALBUILDTABLE_H
+#define DLGCALBUILDTABLE_H
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+#include <QDialog>
+#include "Terminal.h"
 
 namespace Ui {
-class B9Slice;
+class dlgCalBuildTable;
 }
 
-class B9Slice : public QMainWindow
+class dlgCalBuildTable : public QDialog
 {
     Q_OBJECT
-
+    
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
-
-
-signals:
-    void eventHiding();
-
-
+    explicit dlgCalBuildTable(B9Terminal* pTerminal, QWidget *parent = 0);
+    ~dlgCalBuildTable();
+    
 public slots:
-    void LoadLayout();
-    void Slice();
+    void findHome();
+    void goZero();
+    void raiseUp();
+    void done();
+    void onResetComplete();
+    void onMotionComplete();
 
+    void on_Step1(bool checked);
+    void on_Step2(bool checked);
+    void on_Step3();
+    void on_Step4();
+    void on_Step5(bool checked);
+    void on_Step6(bool checked);
+    void on_Step7();
+    void on_Step8(bool checked);
 
 private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
+    Ui::dlgCalBuildTable *ui;
+    B9Terminal* m_pTerminal;
+    bool bFindingHome;
 
-    QString currentLayout;
+protected:
+    void closeEvent ( QCloseEvent * e );
 };
 
-#endif // B9SLICE_H
+#endif // DLGCALBUILDTABLE_H

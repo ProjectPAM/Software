@@ -35,43 +35,76 @@
 //    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
 *************************************************************************************/
+#ifndef MODELDATA_H
+#define MODELDATA_H
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include <QString>
+#include "Layout.h"
+#include "Triangle3d.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
+#include "ModelInstance.h"
 
-namespace Ui {
-class B9Slice;
-}
 
-class B9Slice : public QMainWindow
-{
-    Q_OBJECT
+#include <vector>
+class B9Layout;
+class aiScene;
+class ModelData {
+
+    friend class B9ModelInstance;
 
 public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+    ModelData(B9Layout* main, bool bypassDisplayLists = false);
+	~ModelData();
+	
+	QString GetFilePath();
+	QString GetFileName();
+	
+	//data loading
+	bool LoadIn(QString filepath); //returns success
+	
+	//instance
+	B9ModelInstance* AddInstance();
+	int loadedcount;
 
 
-signals:
-    void eventHiding();
+	//render
+    // the model can potentially own
+    // multiply display lists, allowing
+    // the graphics driver to better allocate
+    // the memory needed for very large models.
+    // these flipped  lists are generated when needed.
+    // -Form functions are recursive
+    std::vector<unsigned int> normDispLists;
+    std::vector<unsigned int> flippedDispLists;
 
+    bool FormFlippedDisplayLists();
+    bool FormNormalDisplayLists();
 
-public slots:
-    void LoadLayout();
-    void Slice();
+    //geometry
+    std::vector<Triangle3D> triList;
+	QVector3D maxbound;
+	QVector3D minbound;
 
-
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
+	std::vector<B9ModelInstance*> instList;
     B9Layout* pMain;
+private:
+	
+	
+	
+	QString filepath;//physical filepath
+	QString filename;//filename (larry.stl)
 
-    QString currentLayout;
+	//utility
+	void CenterModel();//called by loadin to adjust the model to have a center at 0,0,0
+	
+	const aiScene* pScene;
+
+	//render
+
+    int displaySkipping; //how many triangles to skip when rendering huge objects.
+    bool bypassDispLists;
+	
+    int GetGLError();
+
 };
-
-#endif // B9SLICE_H
+#endif

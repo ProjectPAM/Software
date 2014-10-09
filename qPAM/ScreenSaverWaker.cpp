@@ -36,42 +36,41 @@
 //
 *************************************************************************************/
 
-#ifndef B9SLICE_H
-#define B9SLICE_H
+#include "ScreenSaverWaker.h"
 
-#include <QMainWindow>
-#include <QHideEvent>
-#include "Layout/Layout.h"
 
-namespace Ui {
-class B9Slice;
+#ifdef Q_OS_MAC
+#include <CoreServices/CoreServices.h>
+#endif
+
+
+ScreenSaverWaker::ScreenSaverWaker(QObject* parent) : QObject(parent)
+{
+    QObject::connect(&timer,SIGNAL(timeout()),this,SLOT(Wake()));
+}
+ScreenSaverWaker::~ScreenSaverWaker()
+{
+
 }
 
-class B9Slice : public QMainWindow
+void ScreenSaverWaker::Wake()
 {
-    Q_OBJECT
+    #ifdef Q_OS_MAC
+        UpdateSystemActivity(OverallAct);//Mac Specific Call
+    #endif
+    #ifdef Q_OS_LINUX
 
-public:
-    explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
-    ~B9Slice();
+    #endif
+}
 
+void ScreenSaverWaker::StartWaking()
+{
+    timer.setSingleShot(false);
+    timer.start(3000);
+}
 
-signals:
-    void eventHiding();
+void ScreenSaverWaker::StopWaking()
+{
+    timer.stop();
+}
 
-
-public slots:
-    void LoadLayout();
-    void Slice();
-
-
-private:
-    void hideEvent(QHideEvent *event);
-    void showEvent(QHideEvent *event);
-    Ui::B9Slice *ui;
-    B9Layout* pMain;
-
-    QString currentLayout;
-};
-
-#endif // B9SLICE_H
