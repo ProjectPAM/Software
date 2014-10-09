@@ -40,7 +40,7 @@
 #define DLGCYCLESETTINGS_H
 
 #include <QDialog>
-#include "b9terminal.h"
+#include "Terminal.h"
 
 namespace Ui {
 class DlgCycleSettings;

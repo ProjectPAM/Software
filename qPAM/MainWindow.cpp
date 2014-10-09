@@ -36,12 +36,12 @@
 //
 *************************************************************************************/
 
-#include "mainwindow.h"
+#include "MainWindow.h"
 #include "ui_mainwindow.h"
 #include "OS_Wrapper_Functions.h"
-#include "b9printermodelmanager.h"
-#include "b9updatemanager.h"
-#include "b9supportstructure.h"
+#include "PrinterModelManager.h"
+#include "UpdateManager.h"
+#include "SupportStructure.h"
 #include "Layout/LayoutProjectData.h"
 #include <QDebug>
 

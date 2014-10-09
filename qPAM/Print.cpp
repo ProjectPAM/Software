@@ -38,7 +38,7 @@
 
 #include <QMessageBox>
 #include <QTimer>
-#include "b9print.h"
+#include "Print.h"
 #include "ui_b9print.h"
 
 B9Print::B9Print(B9Terminal *pTerm, QWidget *parent) :

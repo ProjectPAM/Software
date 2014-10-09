@@ -42,7 +42,7 @@
 #include "ui_SliceEditView.h"
 #include "DrawingContext.h"
 #include "Edit.h"
-#include "crushbitmap.h"
+#include "CrushBitmap.h"
 #include <QImage>
 #include <QColor>
 #include <QTimer>

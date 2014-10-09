@@ -3,7 +3,7 @@
 
 #include <QObject>
 #include <QVector>
-#include "b9printermodeldata.h"
+#include "PrinterModelData.h"
 
 class QString;
 

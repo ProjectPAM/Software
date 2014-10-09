@@ -44,10 +44,10 @@
 #include <QHideEvent>
 #include <QTimer>
 #include <QTime>
-#include "b9printercomm.h"
-#include "logfilemanager.h"
-#include "b9projector.h"
-#include "b9matcat.h"
+#include "PrinterComm.h"
+#include "LogFileManager.h"
+#include "Projector.h"
+#include "MatCat.h"
 
 
 class PCycleSettings {

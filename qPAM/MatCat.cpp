@@ -38,7 +38,7 @@
 
 #include <QApplication>
 #include <QFile>
-#include "b9matcat.h"
+#include "MatCat.h"
 #include "OS_Wrapper_Functions.h"
 #include <QSettings>
 
@@ -234,13 +234,13 @@ QString B9MatCat::getXYLabel(int iXY)
     QString sLabel = "??";
     switch (iXY){
     case 0:
-        sLabel = "50 (µm)";
+        sLabel = "50 (Âµm)";
         break;
     case 1:
-        sLabel = "75 (µm)";
+        sLabel = "75 (Âµm)";
         break;
     case 2:
-        sLabel = "100 (µm)";
+        sLabel = "100 (Âµm)";
         break;
     default:
         break;
@@ -272,7 +272,7 @@ QString B9MatCat::getZLabel(int iZ)
     QString sLabel = "??";
     double dZ = getZinMM(iZ)*1000;
     if(dZ<0)return sLabel;
-    return QString::number(dZ,'f',2)+" (µm)";
+    return QString::number(dZ,'f',2)+" (Âµm)";
 }
 
 double B9MatCat::getZinMM(int iZ)

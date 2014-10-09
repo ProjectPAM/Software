@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "logfilemanager.h"
+#include "LogFileManager.h"
 #include <QTime>
 #include <QFile>
 #include <QTextStream>

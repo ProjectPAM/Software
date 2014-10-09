@@ -44,7 +44,7 @@
 #include <QMessageBox>
 #include <QFileDialog>
 #include "ui_Edit.h"
-#include "crushbitmap.h"
+#include "CrushBitmap.h"
 #include "SliceEditView.h"
 #include "AboutBox.h"
 #include <QCloseEvent>

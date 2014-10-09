@@ -40,7 +40,7 @@
 #define B9NATIVEAPP_H
 
 #include <QApplication>
-#include "mainwindow.h"
+#include "MainWindow.h"
 #include "OS_Wrapper_Functions.h"
 
 class B9NativeApp : public QApplication

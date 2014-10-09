@@ -43,16 +43,16 @@
 #include <QCloseEvent>
 #include <QDesktopWidget>
 #include <QSplashScreen>
-#include "logfilemanager.h"
+#include "LogFileManager.h"
 #include "Layout/Layout.h"
 #include "b9slice.h"
 #include "Edit/Edit.h"
-#include "b9print.h"
-#include "b9terminal.h"
-#include "helpsystem.h"
-#include "dlgprintprep.h"
-#include "dlgcalbuildtable.h"
-#include "dlgcalprojector.h"
+#include "Print.h"
+#include "Terminal.h"
+#include "HelpSystem.h"
+#include "DlgPrintPrep.h"
+#include "DlgCalBuildTable.h"
+#include "DlgCalProjector.h"
 
 class b9PrinterModelManager;
 class B9UpdateManager;

@@ -42,7 +42,7 @@
 #include <QtCore/QProcess>
 #include <QtGui/QMessageBox>
 #include <QtDebug>
-#include "helpsystem.h"
+#include "HelpSystem.h"
 
 HelpSystem::HelpSystem()
     : pHelpProcess(0)

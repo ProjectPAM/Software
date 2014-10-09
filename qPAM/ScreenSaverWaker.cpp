@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "screensaverwaker.h"
+#include "ScreenSaverWaker.h"
 
 
 #ifdef Q_OS_MAC

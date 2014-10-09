@@ -39,10 +39,10 @@
 #include <QtDebug>
 #include <QMessageBox>
 #include <QSettings>
-#include "b9terminal.h"
-#include "ui_b9terminal.h"
-#include "dlgcyclesettings.h"
-#include "dlgmaterialsmanager.h"
+#include "Terminal.h"
+#include "ui_Terminal.h"
+#include "DlgCycleSettings.h"
+#include "DlgMaterialsManager.h"
 
 #define RAISE1 80
 #define LOWER1 80
@@ -245,8 +245,8 @@ void B9Terminal::dlgEditMatCat()
     m_pCatalog->setCurMatIndex(indexMat);
 
     int indexXY = 0;
-    if(settings.value("CurrentXYLabel","100").toString()=="75 (µm)")indexXY=1;
-    else if(settings.value("CurrentXYLabel","100").toString()=="100 (µm)")indexXY = 2;
+    if(settings.value("CurrentXYLabel","100").toString()=="75 (Âµm)")indexXY=1;
+    else if(settings.value("CurrentXYLabel","100").toString()=="100 (Âµm)")indexXY = 2;
     dlgMatMan.setXY(indexXY);
     m_pCatalog->setCurXYIndex(indexXY);
     dlgMatMan.exec();

@@ -1,5 +1,5 @@
-#include "dlgcalprojector.h"
-#include "ui_dlgcalprojector.h"
+#include "DlgCalProjector.h"
+#include "ui_DlgCalProjector.h"
 #include <QMessageBox>
 
 dlgCalProjector::dlgCalProjector(B9Terminal *pTerminal, QWidget *parent) :

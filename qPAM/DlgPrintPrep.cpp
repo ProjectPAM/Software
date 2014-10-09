@@ -39,8 +39,8 @@
 #include <QPushButton>
 #include <QSettings>
 #include <QMessageBox>
-#include "dlgprintprep.h"
-#include "ui_dlgprintprep.h"
+#include "DlgPrintPrep.h"
+#include "ui_DlgPrintPrep.h"
 
 
 DlgPrintPrep::DlgPrintPrep(CrushedPrintJob* pCPJ, B9Terminal* pTerminal, QWidget *parent) :
@@ -85,7 +85,7 @@ DlgPrintPrep::DlgPrintPrep(CrushedPrintJob* pCPJ, B9Terminal* pTerminal, QWidget
     if(index<0)index=0;
     ui->comboBoxMaterial->setCurrentIndex(index);
     m_pTerminal->getMatCat()->setCurMatIndex(index);
-    settings.setValue("CurrentXYLabel",ui->lineEditXYPixelSizeMicrons->text()+" (µm)");
+    settings.setValue("CurrentXYLabel",ui->lineEditXYPixelSizeMicrons->text()+" (Âµm)");
 
     updateTimes();
 
@@ -143,7 +143,7 @@ void DlgPrintPrep::on_pushButtonMatCat_clicked()
 {
     QSettings settings;
     settings.setValue("CurrentMaterialLabel",ui->comboBoxMaterial->currentText());
-    settings.setValue("CurrentXYLabel",ui->lineEditXYPixelSizeMicrons->text()+" (µm)");
+    settings.setValue("CurrentXYLabel",ui->lineEditXYPixelSizeMicrons->text()+" (Âµm)");
     m_pTerminal->dlgEditMatCat();
 
     m_bInitializing = true;

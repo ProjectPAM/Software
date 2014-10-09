@@ -1,5 +1,5 @@
-#include "b9printermodeldata.h"
-#include "b9material.h"
+#include "PrinterModelData.h"
+#include "Material.h"
 #include <QString>
 
 

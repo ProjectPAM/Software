@@ -39,7 +39,7 @@
 #include "ModelInstance.h"
 #include "GeometricFunctions.h"
 #include "LayoutProjectData.h"
-#include "b9supportstructure.h"
+#include "SupportStructure.h"
 #include "Triangle3d.h"
 #include "OS_Wrapper_Functions.h"
 #include <QtOpenGL>

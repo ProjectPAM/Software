@@ -38,7 +38,7 @@
 
 #include <QtGui/QApplication>
 #include <QSplashScreen>
-#include "b9nativeapp.h"
+#include "NativeApp.h"
 #include <QDir>
 
 int main(int argc, char *argv[])

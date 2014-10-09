@@ -1,5 +1,5 @@
-#include "b9printermodelmanager.h"
-#include "b9printermodeldata.h"
+#include "PrinterModelManager.h"
+#include "PrinterModelData.h"
 
 #include <QDebug>
 #include <QSettings>

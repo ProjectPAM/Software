@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "b9material.h"
+#include "Material.h"
 #include "qstring.h"
 
 B9Material::B9Material()

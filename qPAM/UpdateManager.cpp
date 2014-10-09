@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "b9updatemanager.h"
+#include "UpdateManager.h"
 #include <QMessageBox>
 #include <QNetworkConfiguration>
 #include <QNetworkRequest>
@@ -46,7 +46,7 @@
 #include "OS_Wrapper_Functions.h"
 #include <QFileInfo>
 #include <stdio.h>
-#include "loadingbar.h"
+#include "LoadingBar.h"
 
 //B9Update Manger should be maintained such that an instance
 //can be created without disrupting anything.

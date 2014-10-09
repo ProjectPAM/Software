@@ -36,8 +36,8 @@
 //
 *************************************************************************************/
 
-#include "dlgmaterialsmanager.h"
-#include "ui_dlgmaterialsmanager.h"
+#include "DlgMaterialsManager.h"
+#include "ui_DlgMaterialsManager.h"
 #include <QSpinBox>
 #include <QSettings>
 #include <QMessageBox>

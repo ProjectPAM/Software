@@ -37,7 +37,7 @@
 *************************************************************************************/
 
 #include <QtGui>
-#include "b9projector.h"
+#include "Projector.h"
 
 B9Projector::B9Projector(bool bPrintWindow, QWidget *parent, Qt::WFlags flags)
 	: QWidget(parent, flags)

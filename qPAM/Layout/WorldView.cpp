@@ -46,7 +46,7 @@
 #include "WorldView.h"
 #include "LayoutProjectData.h"
 #include "ModelInstance.h"
-#include "b9supportstructure.h"
+#include "SupportStructure.h"
 #include "GeometricFunctions.h"
 #include "SliceSet.h"
 #include "Slice.h"

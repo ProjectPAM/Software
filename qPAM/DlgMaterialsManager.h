@@ -41,7 +41,7 @@
 
 #include <QDialog>
 #include <QStyledItemDelegate>
-#include "b9matcat.h"
+#include "MatCat.h"
 
 
 class MaterialsTableItemDelegate : public QStyledItemDelegate

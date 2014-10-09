@@ -43,8 +43,8 @@
 #include <QDateTime>
 #include <QHideEvent>
 #include <QSettings>
-#include "helpsystem.h"
-#include "b9terminal.h"
+#include "HelpSystem.h"
+#include "Terminal.h"
 
 namespace Ui {
 class B9Print;

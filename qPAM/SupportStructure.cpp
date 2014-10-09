@@ -36,11 +36,11 @@
 //
 *************************************************************************************/
 
-#include "b9supportstructure.h"
+#include "SupportStructure.h"
 
 
 #include "Layout/ModelInstance.h"
-#include "b9modelloader.h"
+#include "ModelLoader.h"
 #include "OS_Wrapper_Functions.h"
 #include "Layout/GeometricFunctions.h"
 #include <QtOpenGL>

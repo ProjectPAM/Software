@@ -4,7 +4,7 @@
 #include <QObject>
 #include <QVector>
 #include <QList>
-#include "b9material.h"
+#include "Material.h"
 
 class QString;
 

@@ -41,7 +41,7 @@
 
 #include <QGLWidget>
 #include "Layout.h"
-#include "b9supportstructure.h"
+#include "SupportStructure.h"
 #include <QPoint>
 class Slice;
 class B9ModelInstance;

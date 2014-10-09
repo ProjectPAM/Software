@@ -36,8 +36,8 @@
 //
 *************************************************************************************/
 
-#include "dlgcalbuildtable.h"
-#include "ui_dlgcalbuildtable.h"
+#include "DlgCalBuildTable.h"
+#include "ui_DlgCalBuildTable.h"
 #include <QMessageBox>
 
 dlgCalBuildTable::dlgCalBuildTable(B9Terminal* pTerminal,QWidget *parent) :

@@ -39,7 +39,7 @@
 #include "LayoutProjectData.h"
 #include "ModelData.h"
 #include "ModelInstance.h"
-#include "b9supportstructure.h"
+#include "SupportStructure.h"
 #include "OS_Wrapper_Functions.h"
 #include <QDebug>
 #include <QFile>

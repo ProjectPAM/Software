@@ -44,7 +44,7 @@
 #include <QImage>
 #include <QColor>
 #include <QByteArray>
-#include "crushbitmap.h"
+#include "CrushBitmap.h"
 
 class B9Projector : public QWidget
 {

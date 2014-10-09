@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "b9modelloader.h"
+#include "ModelLoader.h"
 #include <QFile>
 #include <QFileInfo>
 #include <QTextStream>

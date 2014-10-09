@@ -41,8 +41,8 @@
 #include <QProcess>
 #include <QTimer>
 #include <QMessageBox>
-#include "b9printercomm.h"
-#include "b9updatemanager.h"
+#include "PrinterComm.h"
+#include "UpdateManager.h"
 #include "qextserialport.h"
 #include "qextserialenumerator.h"
 #include "OS_Wrapper_Functions.h"

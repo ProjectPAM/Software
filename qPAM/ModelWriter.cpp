@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "b9modelwriter.h"
+#include "ModelWriter.h"
 #include "Layout/Triangle3d.h"
 #include <QDebug>
 

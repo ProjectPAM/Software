@@ -37,8 +37,8 @@
 *************************************************************************************/
 
 #include "ModelData.h"
-#include "b9modelloader.h"
-#include "loadingbar.h"
+#include "ModelLoader.h"
+#include "LoadingBar.h"
 
 #include <QtOpenGL>
 #include <QFileInfo>

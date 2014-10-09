@@ -38,11 +38,11 @@
 
 #include "Layout.h"
 #include "LayoutProjectData.h"
-#include "crushbitmap.h"
+#include "CrushBitmap.h"
 #include "SliceContext.h"
 #include "SliceSet.h"
 #include "Slice.h"
-#include "loadingbar.h"
+#include "LoadingBar.h"
 #include <QFileDialog>
 #include <QMessageBox>
 #include <QVector3D>
@@ -51,9 +51,9 @@
 #include "SliceExporter.h"
 #include "ModelData.h"
 #include "ModelInstance.h"
-#include "b9supportstructure.h"
+#include "SupportStructure.h"
 #include "OS_Wrapper_Functions.h"
-#include "b9modelwriter.h"
+#include "ModelWriter.h"
 
 //////////////////////////////////////////////////////
 //Public

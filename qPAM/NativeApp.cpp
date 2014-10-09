@@ -37,7 +37,7 @@
 *************************************************************************************/
 
 #include <QWidget>
-#include "b9nativeapp.h"
+#include "NativeApp.h"
 
 
 // It's safe to call this function on any platform.

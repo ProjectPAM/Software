@@ -36,7 +36,7 @@
 //
 *************************************************************************************/
 
-#include "crushbitmap.h"
+#include "CrushBitmap.h"
 
 #include <QDataStream>
 #include <QtDebug>

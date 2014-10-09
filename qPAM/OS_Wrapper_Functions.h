@@ -8,7 +8,7 @@
 #include <QStringList>
 #include <QTextStream>
 #include <QWidget>
-#include "b9updateentry.h"
+#include "UpdateEntry.h"
 
 
 

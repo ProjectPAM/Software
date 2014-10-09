@@ -38,8 +38,8 @@
 
 #include <QMessageBox>
 #include <QValidator>
-#include "dlgcyclesettings.h"
-#include "ui_dlgcyclesettings.h"
+#include "DlgCycleSettings.h"
+#include "ui_DlgCycleSettings.h"
 
 DlgCycleSettings::DlgCycleSettings(PCycleSettings* pSettings, QWidget *parent) :
     QDialog(parent),

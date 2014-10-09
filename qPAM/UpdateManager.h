@@ -14,8 +14,8 @@
 #include <QString>
 #include "QtNetwork"
 #include "QtNetwork/qnetworkaccessmanager.h"
-#include "loadingbar.h"
-#include "b9updateentry.h"
+#include "LoadingBar.h"
+#include "UpdateEntry.h"
 
 
 class B9UpdateManager : public QObject

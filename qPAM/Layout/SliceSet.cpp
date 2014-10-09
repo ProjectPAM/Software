@@ -41,7 +41,7 @@
 #include "math.h"
 #include "SliceContext.h"
 #include "LayoutProjectData.h"
-#include "crushbitmap.h"
+#include "CrushBitmap.h"
 #include <QColor>
 
 #include <QtDebug>

@@ -37,7 +37,7 @@
 *************************************************************************************/
 
 #include "Edit.h"
-#include "loadingbar.h"
+#include "LoadingBar.h"
 #include <QFileInfo>
 #include <QFile>
 #include <QSvgRenderer> // see copyright distribution notice on qt's website!
