@@ -40,7 +40,7 @@
 #define B93D_H
 
 #include <QtGui>
-#include "ui_b93dmain.h"
+#include "ui_3dMain.h"
 #include "WorldView.h"
 
 
