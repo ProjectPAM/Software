@@ -4,43 +4,29 @@
 #
 #-------------------------------------------------
 
-#************************************************************************************
+#-------------------------------------------------
 #
-#  LICENSE INFORMATION
+#  qPAM.pro
 #
-#  BCreator(tm)
-#  Software for the control of the 3D Printer, "B9Creator"(tm)
-#
+#  Copyright 2014 Daniel Olsen
 #  Copyright 2011-2012 B9Creations, LLC
-#  B9Creations(tm) and B9Creator(tm) are trademarks of B9Creations, LLC
 #
-#  This file is part of B9Creator
+#  This file is part of qPAM
 #
-#    B9Creator is free software: you can redistribute it and/or modify
+#    qPAM is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
 #    (at your option) any later version.
 #
-#    B9Creator is distributed in the hope that it will be useful,
+#    qPAM is distributed in the hope that it will be useful,
 #    but WITHOUT ANY WARRANTY; without even the implied warranty of
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU General Public License for more details.
 #
 #    You should have received a copy of the GNU General Public License
-#    along with B9Creator .  If not, see <http://www.gnu.org/licenses/>.
+#    along with qPAM.  If not, see <http://www.gnu.org/licenses/>.
 #
-#  The above copyright notice and this permission notice shall be
-#    included in all copies or substantial portions of the Software.
-#
-#    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-#    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-#    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-#    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-#    LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-#    OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-#    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-#
-#*************************************************************************************
+#-------------------------------------------------
 
 QT       += core gui
 QT       += svg
@@ -182,7 +168,7 @@ RC_FILE = WindowsResources/b9c_win_resources.rc
 #In windows this application needs elevated privileges to do self updates.
 QMAKE_LFLAGS += /MANIFESTUAC:\"level=\'requireAdministrator\' uiAccess=\'false\'\"
 
-TARGET = B9Creator
+TARGET = qPAM
 
 }
 
@@ -194,7 +180,7 @@ macx{
 ICON = MacResources/b9c_icon.icns
 
 #Slightly Different Executable name
-TARGET = B9Creator
+TARGET = qPAM
 
 CONFIG -= x86_64
 
@@ -204,7 +190,7 @@ macx: LIBS += -framework CoreServices
 }
 
 #Linux Specifics-------------------------------------------------------------
-unix:!macx: TARGET = B9Creator
+unix:!macx: TARGET = qPAM
 
 unix:!macx: LIBS += -lGLU
 unix:!macx: LIBS += -lz

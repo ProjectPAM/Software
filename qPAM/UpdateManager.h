@@ -1,3 +1,26 @@
+/*
+ *  UpdateManager.h
+ *
+ *  Copyright 2014 Daniel Olsen
+ *  Copyright 2011-2012 B9Creations, LLC
+ *
+ *  This file is part of qPAM
+ *
+ *    qPAM is free software: you can redistribute it and/or modify
+ *    it under the terms of the GNU General Public License as published by
+ *    the Free Software Foundation, either version 3 of the License, or
+ *    (at your option) any later version.
+ *
+ *    qPAM is distributed in the hope that it will be useful,
+ *    but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *    GNU General Public License for more details.
+ *
+ *    You should have received a copy of the GNU General Public License
+ *    along with qPAM.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
 #ifndef B9UPDATEMANAGER_H
 #define B9UPDATEMANAGER_H
 
@@ -17,11 +40,9 @@
 #include "LoadingBar.h"
 #include "UpdateEntry.h"
 
-
 class B9UpdateManager : public QObject
 {
     Q_OBJECT
-
 public:
     explicit B9UpdateManager(QObject *parent = 0);
     ~B9UpdateManager();
@@ -29,13 +50,11 @@ public:
     void TransitionFromPreviousVersions();
     static int GetLocalFileVersion(QString filename);
 
-
 signals:
     void NotifyUpdateFinished();
     
 public slots:
     void AutoCheckForUpdates(){PromptDoUpdates(false);}
-
 
 private:
     QList<B9UpdateEntry> remoteEntries;
@@ -66,14 +85,12 @@ private slots:
     void OnDownloadTimeout();
     void ResetEverything();
 
-
     void CopyInRemoteEntries();
     void CopyInLocalEntries();
     void CalculateUpdateEntries();
 
     bool CopyFromTemp();//copies all downloaded file from temp into actuall locations.
     bool UpdateLocalFileVersionList();
-
 
     bool NeedsUpdated(B9UpdateEntry &candidate, B9UpdateEntry &remote);
 };
