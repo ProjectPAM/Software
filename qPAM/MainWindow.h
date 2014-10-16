@@ -43,6 +43,7 @@
 #include <QCloseEvent>
 #include <QDesktopWidget>
 #include <QSplashScreen>
+
 #include "LogFileManager.h"
 #include "Layout/Layout.h"
 #include "b9slice.h"
@@ -57,13 +58,11 @@
 class b9PrinterModelManager;
 class B9UpdateManager;
 
-
 namespace Ui {
-class MainWindow;
+    class MainWindow;
 }
 
-class MainWindow : public QMainWindow
-{
+class MainWindow : public QMainWindow {
     Q_OBJECT
     
 public:
@@ -76,8 +75,6 @@ public slots:
     void handleW3Hide();
     void handleW4Hide();
 
-
-    void CheckForUpdates();
     void OpenLayoutFile(QString file);
     void OpenJobFile(QString file);
 
@@ -108,7 +105,6 @@ private slots:
     void doPrint();
 
 private:
-
     void closeEvent ( QCloseEvent * event );
     Ui::MainWindow *ui;
     LogFileManager *pLogManager;
@@ -124,6 +120,7 @@ private:
     B9Terminal *pTerminal;
     DlgPrintPrep* m_pPrintPrep;
     b9PrinterModelManager* pPrinterModelManager;
+
 };
 
 #endif // MAINWINDOW_H

@@ -25,13 +25,12 @@
 #include "ui_MainWindow.h"
 #include "OS_Wrapper_Functions.h"
 #include "PrinterModelManager.h"
-#include "UpdateManager.h"
+//#include "UpdateManager.h"
 #include "SupportStructure.h"
 #include "Layout/LayoutProjectData.h"
 #include <QDebug>
 
 #define B9CVERSION "Version 1.6.0     Copyright 2013 B9Creations, LLC     www.b9creator.com\n "
-
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -54,18 +53,6 @@ MainWindow::MainWindow(QWidget *parent) :
         qDebug() << "   APPLICATION_DIR: " << CROSS_OS_GetDirectoryFromLocationTag("APPLICATION_DIR");
         qDebug() << "   TEMP_DIR: " << CROSS_OS_GetDirectoryFromLocationTag("TEMP_DIR");
         qDebug() << "   DOCUMENTS_DIR: " << CROSS_OS_GetDirectoryFromLocationTag("DOCUMENTS_DIR");
-
-
-    //create update manager.
-    m_pUpdateManager = new B9UpdateManager(this);
-
-        //do things like move, delete old files from previous
-        //installations
-        m_pUpdateManager->TransitionFromPreviousVersions();
-
-        //Schedule an auto update check
-        QTimer::singleShot(1000,m_pUpdateManager,SLOT(AutoCheckForUpdates()));
-
 
     //create Printer Model Manager, withough importing definitions - it will start with a default printer
     pPrinterModelManager = new b9PrinterModelManager(this);
@@ -165,7 +152,6 @@ void MainWindow::showTerminal()
     pTerminal->showIt();
 }
 
-
 void MainWindow::showCalibrateBuildTable()
 {
     if(!pTerminal->isConnected()){
@@ -218,16 +204,19 @@ void MainWindow::handleW1Hide()
     this->show();
     ui->commandLayout->setChecked(false);
 }
+
 void MainWindow::handleW2Hide()
 {
     this->show();
     ui->commandSlice->setChecked(false);
 }
+
 void MainWindow::handleW3Hide()
 {
     this->show();
     //ui->commandEdit->setChecked(false);
 }
+
 void MainWindow::handleW4Hide()
 {
     this->show();  // Comment this out if not hiding mainwindow while showing this window
@@ -237,20 +226,17 @@ void MainWindow::handleW4Hide()
     CROSS_OS_DisableSleeps(false);// return system screensavers back to normal.
 
 }
-void MainWindow::CheckForUpdates()
-{
-    m_pUpdateManager->PromptDoUpdates();
-}
+
 void MainWindow::OpenLayoutFile(QString file)
 {
     showLayout();
     pMW1->ProjectData()->Open(file);
 }
+
 void MainWindow::OpenJobFile(QString file)
 {
     AttemptPrintDialogWithFile(file);
 }
-
 
 void MainWindow::on_commandLayout_clicked(bool checked)
 {
@@ -260,6 +246,7 @@ void MainWindow::on_commandLayout_clicked(bool checked)
     }
     else pMW1->hide();
 }
+
 void MainWindow::on_commandSlice_clicked(bool checked)
 {
     if(checked) {
@@ -268,6 +255,7 @@ void MainWindow::on_commandSlice_clicked(bool checked)
     }
     else pMW2->hide();
 }
+
 void MainWindow::on_commandEdit_clicked(bool checked)
 {
     if(checked) {
@@ -291,7 +279,6 @@ void MainWindow::on_commandPrint_clicked()
 
 void MainWindow::AttemptPrintDialogWithFile(QString openFile)
 {
-    /////////////////////////////////////////////////
     // Open the .b9j file
     m_pCPJ->clearAll();
 
@@ -322,9 +309,6 @@ void MainWindow::AttemptPrintDialogWithFile(QString openFile)
     m_pPrintPrep->exec();
 }
 
-
-
-
 void MainWindow::doPrint()
 {
 
@@ -338,16 +322,3 @@ void MainWindow::doPrint()
 
     return;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

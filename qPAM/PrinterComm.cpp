@@ -27,7 +27,7 @@
 #include <QTimer>
 #include <QMessageBox>
 #include "PrinterComm.h"
-#include "UpdateManager.h"
+//#include "UpdateManager.h"
 #include "qextserialport.h"
 #include "qextserialenumerator.h"
 #include "OS_Wrapper_Functions.h"
@@ -83,13 +83,6 @@ void B9PrinterStatus::setVersion(QString s)
     }
 }
 
-bool B9PrinterStatus::isCurrentVersion(){
-    int iFileVersion = B9UpdateManager::GetLocalFileVersion(FIRMWAREHEXFILE);
-    qDebug()<< "Local Firmware version: " << iFileVersion;
-    qDebug()<< "Printer Firmware version" << getIntVersion();
-    return getIntVersion() >= iFileVersion;
-}
-
 bool B9PrinterStatus::isValidVersion(){
     if(iV1<0||iV2<0||iV3<0)
         return false;
@@ -106,56 +99,6 @@ int B9PrinterStatus::getIntVersion(){
     if(iV1<0||iV2<0||iV3<0)
         return -1;
     return iV1*100 + iV2*10 +iV3;
-}
-
-//upload the firware hex file to the current port - this will freeze the program.
-bool B9FirmwareUpdate::UploadHex(QString sCurPort)
-{
-
-    QDir avrdir = QDir(CROSS_OS_GetDirectoryFromLocationTag("APPLICATION_DIR"));
-
-
-
-    QString launchcommand = "avrdude ";
-    #ifndef Q_OS_WIN
-        launchcommand = "./avrdude ";
-    #endif
-
-
-    QString args = "-Cavrdude.conf -v -v -v -v -patmega328p -carduino -P" + sCurPort + " -b" + QString::number(FIRMWAREUPDATESPEED) + " -D -Uflash:w:\"" + sHexFilePath + "\":i";
-
-
-    qDebug() << "B9FirwareUpdate: Calling AVRDude...";
-
-    QCoreApplication::processEvents(); //Process all pending events prior to proceeding.
-    QProcess* myProcess = new QProcess(this);
-    qDebug() << "Looking for avrdude, avrdude.conf, and .hex file in working dir:" <<avrdir.path();
-    QDir::setCurrent(avrdir.path());
-    myProcess->setProcessChannelMode(QProcess::MergedChannels);
-    myProcess->start(launchcommand + args);
-
-
-
-    if (!myProcess->waitForFinished(120000)) //Allow 120 seconds for avrdude to program firmware before timing out
-    {
-        qDebug() << "B9FirmwareUpdate: AVRDude Firmware Update Timed Out.";
-        return false;
-    }
-    else
-    {
-        qDebug() << "B9FirmwareUpdate: Begin Firmware Update on Port: " + sCurPort;
-        qDebug() << myProcess->readAll();
-    }
-
-
-    if(myProcess->exitCode() != 0)
-    {
-        qDebug() << "B9FirmwareUpdate: Firmware Update FAILED, exit code:" << QString::number(myProcess->exitCode());
-        return false;
-    }
-    qDebug() << "B9FirmwareUpdate: Firmware Update Complete";
-
-    return true;
 }
 
 B9PrinterComm::B9PrinterComm()
@@ -302,11 +245,13 @@ void B9PrinterComm::RefreshCommPortItems()
                 sCommPortStatus = MSG_CONNECTED;
                 sCommPortDetailedStatus = "Connected on Port: "+m_serialDevice->portName();
                 eTime = 5000;  // Re-check connection again in 5 seconds
-                if(m_serialDevice && m_Status.isCurrentVersion())startWatchDogTimer();  // Start B9Creator "crash" watchDog
+                if(m_serialDevice)startWatchDogTimer();  // Start B9Creator "crash" watchDog
                 break;
             }
         }
+
         bool bUpdateFirmware = false;
+
         if( m_serialDevice==NULL && sNoFirmwareAurdinoPort!=""){
             // We did not find a B9Creator with valid firmware, but we did find an Arduino
             // We assume this is a new B9Creator and needs firmware!
@@ -332,7 +277,7 @@ void B9PrinterComm::RefreshCommPortItems()
                 bUpdateFirmware = false;
             }
         }
-        else if (m_serialDevice!=NULL && !m_Status.isCurrentVersion()){
+        else if (m_serialDevice!=NULL){
             // We found a B9Creator with the wrong firmware version, update it!
             qDebug() << "Incorrect Firmware version found on connected B9Creator"<< sPortName << "  Attempting B9Creator Firmware Update";
             bUpdateFirmware = true;
@@ -343,6 +288,7 @@ void B9PrinterComm::RefreshCommPortItems()
                 delete m_serialDevice;
 
             }
+
             m_bCloneBlanks = false;
             m_serialDevice = NULL;
             m_Status.reset();
@@ -351,9 +297,7 @@ void B9PrinterComm::RefreshCommPortItems()
             // Update the firmware on device on sPortName
             emit updateConnectionStatus(MSG_FIRMUPDATE);
             emit BC_ConnectionStatusDetailed("Updating Firmware on port: "+sPortName);
-            B9FirmwareUpdate Firmware;
             QApplication::setOverrideCursor(QCursor(Qt::WaitCursor));
-            Firmware.UploadHex(sPortName);
             QApplication::restoreOverrideCursor();
             emit updateConnectionStatus(MSG_SEARCHING);
             emit BC_ConnectionStatusDetailed("Firmware Update Complete.  Searching...");

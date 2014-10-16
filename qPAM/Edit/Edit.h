@@ -63,7 +63,6 @@ public slots:
 	void SetDir(QString dir);
 	QString GetDir();
 	
-	void updateVersion(QString s){sVersion=s; cPJ.setVersion(s); dirtied = true; updateWindowTitle();}
 	void updateName(QString s){sName=s; cPJ.setName(s); dirtied = true; updateWindowTitle();}
 	void updateDescription(QString s){sDescription=s; cPJ.setDescription(s); dirtied = true; updateWindowTitle();}
 	void updateXY(QString s){XYPixel=s; cPJ.setXYPixel(s); dirtied = true; updateWindowTitle();}
