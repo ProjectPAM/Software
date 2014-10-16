@@ -26,29 +26,26 @@
 
 #include <QMainWindow>
 #include <QHideEvent>
+
 #include "Layout/Layout.h"
 
 namespace Ui {
-class B9Slice;
+    class B9Slice;
 }
 
-class B9Slice : public QMainWindow
-{
+class B9Slice : public QMainWindow {
     Q_OBJECT
 
 public:
     explicit B9Slice(QWidget *parent = 0, B9Layout* Main = 0);
     ~B9Slice();
 
-
 signals:
     void eventHiding();
-
 
 public slots:
     void LoadLayout();
     void Slice();
-
 
 private:
     void hideEvent(QHideEvent *event);
@@ -57,6 +54,7 @@ private:
     B9Layout* pMain;
 
     QString currentLayout;
+
 };
 
 #endif // B9SLICE_H

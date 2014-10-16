@@ -84,8 +84,7 @@ SOURCES += main.cpp\
     ModelWriter.cpp \
     DlgCalBuildTable.cpp \
     DlgCalProjector.cpp \
-    Layout/Tesselator.cpp \
-    Layout/ProjectData.cpp
+    Layout/Tesselator.cpp
 
 HEADERS += MainWindow.h \
     LogFileManager.h \
@@ -132,8 +131,7 @@ HEADERS += MainWindow.h \
     ModelWriter.h \
     DlgCalBuildTable.h \
     DlgCalProjector.h \
-    Layout/Tesselator.h \
-    Layout/ProjectData.h
+    Layout/Tesselator.h
 
 FORMS += MainWindow.ui \
     Terminal.ui \

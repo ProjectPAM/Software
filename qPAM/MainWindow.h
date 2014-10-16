@@ -43,6 +43,7 @@
 #include <QCloseEvent>
 #include <QDesktopWidget>
 #include <QSplashScreen>
+
 #include "LogFileManager.h"
 #include "Layout/Layout.h"
 #include "b9slice.h"
@@ -74,8 +75,6 @@ public slots:
     void handleW3Hide();
     void handleW4Hide();
 
-
-    void CheckForUpdates();
     void OpenLayoutFile(QString file);
     void OpenJobFile(QString file);
 

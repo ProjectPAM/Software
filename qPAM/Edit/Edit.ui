@@ -592,7 +592,6 @@
   <signal>setXYPixel(QString)</signal>
   <signal>setZLayer(QString)</signal>
   <signal>setSliceIndicator(QString)</signal>
-  <slot>updateVersion(QString)</slot>
   <slot>updateName(QString)</slot>
   <slot>updateDescription(QString)</slot>
   <slot>updateXY(QString)</slot>
