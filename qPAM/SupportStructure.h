@@ -1,21 +1,39 @@
+/*
+ *  SupportStructure.h
+ *
+ *  Copyright 2014 Daniel Olsen
+ *  Copyright 2011-2012 B9Creations, LLC
+ *
+ *  This file is part of qPAM
+ *
+ *    qPAM is free software: you can redistribute it and/or modify
+ *    it under the terms of the GNU General Public License as published by
+ *    the Free Software Foundation, either version 3 of the License, or
+ *    (at your option) any later version.
+ *
+ *    qPAM is distributed in the hope that it will be useful,
+ *    but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *    GNU General Public License for more details.
+ *
+ *    You should have received a copy of the GNU General Public License
+ *    along with qPAM.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
 #ifndef B9SUPPORTSTRUCTURE_H
 #define B9SUPPORTSTRUCTURE_H
 
-
 #include <vector>
+
 #include <QVector3D>
 #include <QListWidgetItem>
-#include "Layout/Triangle3d.h"
 
+#include "Layout/Triangle3d.h"
 
 #define SUPPORT_MID_PRINTABLE_ANGLE_RATIO 0.4 //(vertical_difference/mid_length)
 
-
-
-
-
 class B9ModelInstance;
-
 
 ///The B9SupportAttachmentData holds the information pretaining
 // To the geometry, name, etc of a support attachment.
@@ -25,8 +43,6 @@ class B9ModelInstance;
 //////////////////////////////////////////////////////////////////////////////////////
 class B9SupportAttachmentData
 {
-
-
 private:
     std::vector<Triangle3D> triList;
     QString name;//the name of the attachment "Simple Cone" for example
@@ -36,7 +52,6 @@ public:
     B9SupportAttachmentData();
 
     ~B9SupportAttachmentData();
-
 
     void CenterGeometry();
     void FormDisplayList();
@@ -51,10 +66,6 @@ public:
     QString GetName(){return name;}
 
 };
-
-
-
-
 
 //B9SupportStructure//
 ///////////////////////////////////////////////////////////////////////////
@@ -113,8 +124,6 @@ public:
     QString GetBottomAttachShape();
     bool GetIsGrounded();
 
-
-
     bool IsUpsideDown();
     bool IsVertical();
     bool IsUnderground(double &depth);
@@ -129,8 +138,6 @@ public:
             bool IsBottomAngleDown();
 
     bool IsVisible();
-
-
 
     //Set Characteristics
     void SetInstanceParent(B9ModelInstance* parentInst);
@@ -157,10 +164,8 @@ public:
     //rotation
     void Rotate(QVector3D deltaRot);
 
-
     //selection
     void SetSelected(bool sel);//enables things like colored rendering
-
 
     //rendering
     void RenderUpper(bool disableColor = false, float alpha = 1.0);//must be called with instance transform
@@ -176,9 +181,6 @@ public:
     void DebugRender();
     void SetVisible(bool vis);
 
-
-
-
     //Baking
     unsigned int BakeToInstanceGeometry();
     std::vector<Triangle3D>* GetTriList();
@@ -186,14 +188,12 @@ public:
     int SupportNumber;
     unsigned char pickcolor[3];//pick color is based off static incremented variable.
 
-
 private:
 
     B9ModelInstance* instanceParent;
 
     //all vectors and values are defined to be in millimeters.
     //they are also defined as being local to the Model Data!.
-
 
     //Saved and Source Vars
     QVector3D topPoint;//ie the "top" of the support
@@ -213,7 +213,6 @@ private:
     B9SupportAttachmentData* topAttachShape;
     bool isGrounded;
 
-
     //Computation Helper Vars (can be derived from source vars in ForceUpdate)
     double midLength;
     double topMidExtension;
@@ -228,13 +227,11 @@ private:
     double midThetaX, midThetaZ;
     double bottomThetaX, bottomThetaZ;
 
-
     //selection
     bool isSelected;
 
     //rendering
     bool isErrorGlowing;
-
 
 private: //functions
     void ReBuildGeometry();
