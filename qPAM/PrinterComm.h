@@ -23,6 +23,7 @@
 
 #ifndef B9PRINTERCOMM_H
 #define B9PRINTERCOMM_H
+
 #include <QObject>
 #include <QTime>
 #include <QtDebug>
@@ -33,18 +34,14 @@
 #define MSG_CONNECTED "Connected"
 #define MSG_FIRMUPDATE "Updating Firmware..."
 
-
 class  QextSerialPort;
 class  QextSerialEnumerator;
 struct QextPortInfo;
 
-/////////////////////////////////////////////////////////////////////////////
-class B9PrinterStatus
-{
+class B9PrinterStatus {
 public:
     enum ProjectorStatus{PS_OFF, PS_TURNINGON, PS_WARMING, PS_ON, PS_COOLING, PS_UNKNOWN, PS_TIMEOUT, PS_FAIL};
     enum HomeStatus{HS_SEEKING, HS_FOUND, HS_UNKNOWN};
-
 
     B9PrinterStatus(){reset();}
     void reset();
@@ -134,32 +131,12 @@ private:
     int m_iNativeY;
     int m_iXYPizelSize;
     int m_iHalfLife;
+
 };
 
-/////////////////////////////////////////////////////////////////////////////
-class B9FirmwareUpdate : public QObject
-{
-    Q_OBJECT
-
-    // Uses avrdude to update B9Creator's Arduino Firmware
-    // averdude and averdue.config must be present
-    // B9Firmware.hex file must be present
-public:
-    B9FirmwareUpdate()
-    {
-        sHexFilePath = FIRMWAREHEXFILE;
-    }
-    ~B9FirmwareUpdate(){}
-    bool UploadHex(QString sCurPort);
-private:
-    QString sHexFilePath;
-};
-
-/////////////////////////////////////////////////////////////////////////////
 //  The B9PrinterComm should be created once by the main window
 //  and shared by and class that needs signal/slot access
-class B9PrinterComm : public QObject
-{
+class B9PrinterComm : public QObject {
     Q_OBJECT
 
 public:
@@ -241,5 +218,7 @@ private:
     QTime startWarmingTime;
     int m_iWarmUpDelayMS;
     bool m_bIsMirrored;
+
 };
+
 #endif // B9PRINTERCOMM_H

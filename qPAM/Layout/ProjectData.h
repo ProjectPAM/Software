@@ -38,11 +38,13 @@
 
 #ifndef PROJECTDATA_H
 #define PROJECTDATA_H
+
 #include <QStringList>
 #include <QVector3D>
 #include <QVector2D>
 #include <vector>
-#include "b9layout.h"
+
+#include "Layout.h"
 
 #define LAYOUT_FILE_VERSION 14
 

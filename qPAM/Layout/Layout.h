@@ -210,7 +210,6 @@ private:
     QSlider* pXRaySlider;
     B9LayoutProjectData* project;
 
-
     std::vector<ModelData*> ModelDataList;
 
     bool cancelslicing;

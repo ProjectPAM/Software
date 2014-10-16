@@ -75,7 +75,6 @@ SOURCES += main.cpp\
     Material.cpp \
     PrinterModelData.cpp \
     PrinterModelManager.cpp \
-    UpdateManager.cpp \
     ModelLoader.cpp \
     Layout/LayoutProjectData.cpp \
     Layout/ModelInstance.cpp \
@@ -85,9 +84,10 @@ SOURCES += main.cpp\
     ModelWriter.cpp \
     DlgCalBuildTable.cpp \
     DlgCalProjector.cpp \
-    Layout/Tesselator.cpp
+    Layout/Tesselator.cpp \
+    Layout/ProjectData.cpp
 
-HEADERS += mainwindow.h \
+HEADERS += MainWindow.h \
     LogFileManager.h \
     LoadingBar.h \
     CrushBitmap.h \
@@ -123,8 +123,6 @@ HEADERS += mainwindow.h \
     Material.h \
     PrinterModelData.h \
     PrinterModelManager.h \
-    UpdateManager.h \
-    UpdateEntry.h \
     ModelLoader.h \
     Layout/LayoutProjectData.h \
     Layout/ModelInstance.h \
@@ -134,7 +132,8 @@ HEADERS += mainwindow.h \
     ModelWriter.h \
     DlgCalBuildTable.h \
     DlgCalProjector.h \
-    Layout/Tesselator.h
+    Layout/Tesselator.h \
+    Layout/ProjectData.h
 
 FORMS += MainWindow.ui \
     Terminal.ui \

@@ -28,20 +28,19 @@
 #include "Terminal.h"
 
 namespace Ui {
-class dlgCalProjector;
+    class dlgCalProjector;
 }
 
-class dlgCalProjector : public QDialog
-{
+class dlgCalProjector : public QDialog {
     Q_OBJECT
-    
-public:
-    explicit dlgCalProjector(B9Terminal* pTerminal, QWidget *parent = 0);
-    ~dlgCalProjector();
     
 private:
     Ui::dlgCalProjector *ui;
     B9Terminal* m_pTerminal;
+
+public:
+    explicit dlgCalProjector(B9Terminal* pTerminal, QWidget *parent = 0);
+    ~dlgCalProjector();
 
 public slots:
     void findHome();
@@ -61,6 +60,7 @@ private slots:
 
 protected:
     void closeEvent ( QCloseEvent * event );
+
 };
 
 #endif // DLGCALPROJECTOR_H

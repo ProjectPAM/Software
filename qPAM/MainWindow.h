@@ -57,13 +57,11 @@
 class b9PrinterModelManager;
 class B9UpdateManager;
 
-
 namespace Ui {
-class MainWindow;
+    class MainWindow;
 }
 
-class MainWindow : public QMainWindow
-{
+class MainWindow : public QMainWindow {
     Q_OBJECT
     
 public:
@@ -108,7 +106,6 @@ private slots:
     void doPrint();
 
 private:
-
     void closeEvent ( QCloseEvent * event );
     Ui::MainWindow *ui;
     LogFileManager *pLogManager;
@@ -124,6 +121,7 @@ private:
     B9Terminal *pTerminal;
     DlgPrintPrep* m_pPrintPrep;
     b9PrinterModelManager* pPrinterModelManager;
+
 };
 
 #endif // MAINWINDOW_H
