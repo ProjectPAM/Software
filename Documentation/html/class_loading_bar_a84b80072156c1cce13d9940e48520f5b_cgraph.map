@@ -1,6 +1,0 @@
-<map id="LoadingBar::LoadingBar" name="LoadingBar::LoadingBar">
-<area shape="rect" id="node2" href="$class_loading_bar.html#a303d331e29b170a6203003d1e4618696" title="LoadingBar::SetupUI" alt="" coords="243,5,386,32"/>
-<area shape="rect" id="node3" href="$class_loading_bar.html#a61ca7b136a2702deaad393b477910af1" title="LoadingBar::setMax" alt="" coords="245,56,384,83"/>
-<area shape="rect" id="node4" href="$class_loading_bar.html#a53205e34bacf6c1e23891f95aed99c76" title="LoadingBar::setMin" alt="" coords="247,107,382,133"/>
-<area shape="rect" id="node5" href="$class_loading_bar.html#a53b5275fd53c62f8952f1ad0d5360f5f" title="LoadingBar::SetupConnections" alt="" coords="213,157,416,184"/>
-</map>

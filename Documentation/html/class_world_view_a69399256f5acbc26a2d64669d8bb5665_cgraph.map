@@ -1,4 +1,0 @@
-<map id="WorldView::OnToolHoverMove" name="WorldView::OnToolHoverMove">
-<area shape="rect" id="node2" href="$class_b9_layout.html#ab16790a18dc20d8277d728f974bb22de" title="B9Layout::SupportModeInst" alt="" coords="260,5,444,32"/>
-<area shape="rect" id="node3" href="$class_world_view.html#aee7a8b83e3b485e13fbeb61ecb238f65" title="WorldView::Update3DCursor" alt="" coords="257,56,447,83"/>
-</map>

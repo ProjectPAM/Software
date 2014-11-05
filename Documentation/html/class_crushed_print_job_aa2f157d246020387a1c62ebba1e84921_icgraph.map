@@ -1,5 +1,0 @@
-<map id="CrushedPrintJob::getBase" name="CrushedPrintJob::getBase">
-<area shape="rect" id="node2" href="$class_drawing_context.html#a72db62dac35c8795ff1ff7ac73ea4fa4" title="DrawingContext::mousePress\lEvent" alt="" coords="229,5,427,46"/>
-<area shape="rect" id="node3" href="$class_slice_edit_view.html#a9eccd0797ef83bf4600673176e5bfb7f" title="SliceEditView::PromptBase\lOptions" alt="" coords="475,89,658,130"/>
-<area shape="rect" id="node4" href="$class_slice_edit_view.html#aa7f2318a5aad3bd4bdfcdcb3da1ddce1" title="SliceEditView::PrepareBase" alt="" coords="235,121,421,148"/>
-</map>

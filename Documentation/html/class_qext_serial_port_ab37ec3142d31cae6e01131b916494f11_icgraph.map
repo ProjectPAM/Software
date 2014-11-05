@@ -1,6 +1,0 @@
-<map id="QextSerialPort::portName" name="QextSerialPort::portName">
-<area shape="rect" id="node2" href="$class_qext_serial_port.html#aaafe63e85bf7e47ed8442be686e3d262" title="QextSerialPort::errorString" alt="" coords="227,12,402,39"/>
-<area shape="rect" id="node3" href="$class_b9_printer_comm.html#aa3b0ddb4174014fe722ce3d5b5d36bf9" title="B9PrinterComm::errorString" alt="" coords="451,12,634,39"/>
-<area shape="rect" id="node4" href="$class_b9_terminal.html#aa561ab24503d62264e106a64338a7e1f" title="B9Terminal::onReleaseCycle\lTimeout" alt="" coords="683,5,875,46"/>
-<area shape="rect" id="node5" href="$class_b9_terminal.html#a25b95d1b75a8c1b6d3e4b9b8fb2901d2" title="B9Terminal::B9Terminal" alt="" coords="923,12,1085,39"/>
-</map>

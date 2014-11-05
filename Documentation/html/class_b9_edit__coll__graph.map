@@ -1,7 +1,0 @@
-<map id="B9Edit" name="B9Edit">
-<area shape="rect" id="node5" href="$class_slice_edit_view.html" title="SliceEditView" alt="" coords="126,277,228,304"/>
-<area shape="rect" id="node3" href="$classaboutbox.html" title="aboutbox" alt="" coords="187,96,260,123"/>
-<area shape="rect" id="node6" href="$class_drawing_context.html" title="DrawingContext" alt="" coords="5,368,120,395"/>
-<area shape="rect" id="node7" href="$class_crushed_print_job.html" title="CrushedPrintJob" alt="" coords="285,96,403,123"/>
-<area shape="rect" id="node8" href="$class_crushed_bit_map.html" title="CrushedBitMap" alt="" coords="288,5,399,32"/>
-</map>

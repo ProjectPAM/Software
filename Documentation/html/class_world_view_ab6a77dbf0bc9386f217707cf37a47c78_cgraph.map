@@ -1,7 +1,0 @@
-<map id="WorldView::ResetCamera" name="WorldView::ResetCamera">
-<area shape="rect" id="node2" href="$class_b9_layout.html#a3e229814a5bfeb161d8fcb70543e0aa1" title="B9Layout::XRayEnabled" alt="" coords="255,5,420,32"/>
-<area shape="rect" id="node3" href="$class_b9_layout.html#ab16790a18dc20d8277d728f974bb22de" title="B9Layout::SupportModeInst" alt="" coords="245,56,429,83"/>
-<area shape="rect" id="node4" href="$class_b9_model_instance.html#afcb4374362d29162275a07d2f899afe5" title="B9ModelInstance::GetMaxBound" alt="" coords="230,107,445,133"/>
-<area shape="rect" id="node5" href="$class_b9_model_instance.html#aaf48cbe1d62da4d66da86ff9f7ef0c02" title="B9ModelInstance::GetMinBound" alt="" coords="232,157,443,184"/>
-<area shape="rect" id="node6" href="$class_b9_layout.html#aaca3bafd8f61afb9c54e637cf81f38e1" title="B9Layout::XRayPercentage" alt="" coords="245,208,429,235"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SliceSet::AddSliceToJob" name="SliceSet::AddSliceToJob">
-<area shape="rect" id="node2" href="$class_slice_set.html#a739e6ecdc5d38b33adba78b3eab4ffbd" title="SliceSet::ParallelCreate\lSlices" alt="" coords="222,23,383,65"/>
-<area shape="rect" id="node3" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="432,5,616,32"/>
-<area shape="rect" id="node6" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="433,56,615,83"/>
-<area shape="rect" id="node4" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="665,31,813,57"/>
-<area shape="rect" id="node5" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="861,31,965,57"/>
-</map>

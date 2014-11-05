@@ -1,7 +1,0 @@
-<map id="B9PrinterComm::BC_LostCOMM" name="B9PrinterComm::BC_LostCOMM">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#a7d24d642e61ce91e290227877b56b419" title="B9PrinterComm::handleLostComm" alt="" coords="270,81,495,108"/>
-<area shape="rect" id="node3" href="$class_b9_printer_comm.html#abe537ba42ff6ec10c54dba28ee3fbbb1" title="B9PrinterComm::watchDog" alt="" coords="545,41,727,68"/>
-<area shape="rect" id="node5" href="$class_b9_printer_comm.html#a7a47edf564160c731695b09e4b75912f" title="B9PrinterComm::RefreshComm\lPortItems" alt="" coords="1011,63,1219,105"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#a50311eebbc0330f9dd6a974637f7f0ce" title="B9PrinterComm::startWatch\lDogTimer" alt="" coords="776,5,963,46"/>
-<area shape="rect" id="node6" href="$class_b9_printer_comm.html#adda3b4b10775ab87594e08dbae6ade98" title="B9PrinterComm::B9PrinterComm" alt="" coords="1267,71,1483,97"/>
-</map>

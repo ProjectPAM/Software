@@ -1,6 +1,0 @@
-<map id="B9Terminal::onMotionVatTimeout" name="B9Terminal::onMotionVatTimeout">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#a76d1a7ae482b0705a104287c4289a636" title="B9Terminal::on_pushButton\lStop_clicked" alt="" coords="270,34,453,75"/>
-<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="501,12,683,39"/>
-<area shape="rect" id="node5" href="$class_b9_terminal.html#abecce7693ed35112dbebb3ee05430df8" title="B9Terminal::resetLastSent\lCycleSettings" alt="" coords="503,63,681,105"/>
-<area shape="rect" id="node4" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="731,5,906,46"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="B9Layout::SetZLayerThickness" name="B9Layout::SetZLayerThickness">
-<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#a8db648f1c8c16e68d32d164890e18952" title="B9LayoutProjectData\l::SetPixelThickness" alt="" coords="497,5,644,46"/>
-<area shape="rect" id="node4" href="$class_b9_layout_project_data.html#a32d869b02351afa8722cca6db6622f36" title="B9LayoutProjectData\l::CalculateBuildArea" alt="" coords="279,70,425,111"/>
-<area shape="rect" id="node6" href="$class_b9_layout.html#a83e93de38428c5b303b6a3fd6ead5acd" title="B9Layout::UpdateExtentsUI" alt="" coords="259,136,445,163"/>
-<area shape="rect" id="node3" href="$class_b9_layout_project_data.html#a26c8d2be451cba8442801576e3aa2186" title="B9LayoutProjectData\l::SetDirtied" alt="" coords="696,38,843,79"/>
-<area shape="rect" id="node5" href="$class_b9_layout_project_data.html#a737f04b5302ed381df1a5417f15970f0" title="B9LayoutProjectData\l::SetBuildSpaceSize" alt="" coords="497,70,644,111"/>
-<area shape="rect" id="node7" href="$class_b9_layout.html#a7b0c75e90a7bfceb27f044eb723f14af" title="B9Layout::ProjectData" alt="" coords="493,136,648,163"/>
-</map>

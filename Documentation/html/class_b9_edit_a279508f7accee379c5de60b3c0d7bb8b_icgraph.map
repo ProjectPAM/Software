@@ -1,7 +1,0 @@
-<map id="B9Edit::CancelLoading" name="B9Edit::CancelLoading">
-<area shape="rect" id="node2" href="$class_b9_edit.html#a01ea58c46dac46349813cf0ccc71c5a1" title="B9Edit::importSlicesFrom\lFirstFile" alt="" coords="220,5,391,46"/>
-<area shape="rect" id="node4" href="$class_b9_edit.html#a73b990ccdf293a349129a50827896c5c" title="B9Edit::importSlicesFromSvg" alt="" coords="208,71,403,97"/>
-<area shape="rect" id="node5" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="210,121,401,148"/>
-<area shape="rect" id="node6" href="$class_b9_edit.html#a482e84272759580a6439735655f39879" title="B9Edit::ExportToFolder" alt="" coords="226,172,385,199"/>
-<area shape="rect" id="node3" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="451,71,592,97"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="B9Terminal::dlgEditMatCat" name="B9Terminal::dlgEditMatCat">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#a495d29908e63ed80524038aa7ff3fd18" title="B9Terminal::on_pushButton\lModMatCat_clicked" alt="" coords="237,5,419,46"/>
-<area shape="rect" id="node3" href="$class_dlg_print_prep.html#a0644bf4cea0825f8cfde786211c4ed50" title="DlgPrintPrep::on_pushButton\lMatCat_clicked" alt="" coords="233,70,423,111"/>
-<area shape="rect" id="node4" href="$class_main_window.html#ac6e910fc847900448f166314f517b1ab" title="MainWindow::showCatalog" alt="" coords="237,136,419,163"/>
-</map>

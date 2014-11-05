@@ -1,8 +1,0 @@
-<map id="B9PrinterComm::BC_PU" name="B9PrinterComm::BC_PU">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#aad5e3913e83145826f54d98968c6aeac" title="B9PrinterComm::ReadAvailable" alt="" coords="222,56,429,83"/>
-<area shape="rect" id="node3" href="$class_b9_printer_comm.html#ab829fd26f34e966e58d7fdfbdd421bbd" title="B9PrinterComm::OpenB9Creator\lCommPort" alt="" coords="477,49,691,90"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#a7a47edf564160c731695b09e4b75912f" title="B9PrinterComm::RefreshComm\lPortItems" alt="" coords="739,49,947,90"/>
-<area shape="rect" id="node5" href="$class_b9_printer_comm.html#adda3b4b10775ab87594e08dbae6ade98" title="B9PrinterComm::B9PrinterComm" alt="" coords="995,5,1211,32"/>
-<area shape="rect" id="node6" href="$class_b9_printer_comm.html#abe537ba42ff6ec10c54dba28ee3fbbb1" title="B9PrinterComm::watchDog" alt="" coords="1011,56,1194,83"/>
-<area shape="rect" id="node7" href="$class_b9_printer_comm.html#a50311eebbc0330f9dd6a974637f7f0ce" title="B9PrinterComm::startWatch\lDogTimer" alt="" coords="1259,49,1445,90"/>
-</map>

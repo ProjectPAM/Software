@@ -1,7 +1,0 @@
-<map id="B9Projector::clearTimedPixels" name="B9Projector::clearTimedPixels">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#aad88fa8b64589020ac4cbf83e355f754" title="B9Terminal::rcClearTimed\lPixels" alt="" coords="254,5,429,46"/>
-<area shape="rect" id="node3" href="$class_b9_print.html#a178d0c7616afa5649d2f1e139f1129f2" title="B9Print::exposureOfCurTint\lLayerFinished" alt="" coords="478,5,661,46"/>
-<area shape="rect" id="node4" href="$class_b9_print.html#a7455c84aea9bd129f77d7c7a54323ed8" title="B9Print::startExposeTOver\lLayers" alt="" coords="709,5,888,46"/>
-<area shape="rect" id="node5" href="$class_b9_print.html#a654b39ce33ebdf1858baa6de44519b7f" title="B9Print::exposeTBaseLayer" alt="" coords="937,12,1122,39"/>
-<area shape="rect" id="node6" href="$class_b9_print.html#a4069cba1eae53e0ffc7179faff6e7475" title="B9Print::B9Print" alt="" coords="1171,12,1287,39"/>
-</map>

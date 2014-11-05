@@ -1,6 +1,0 @@
-<map id="B9Terminal::onBC_ConnectionStatusDetailed" name="B9Terminal::onBC_ConnectionStatusDetailed">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#ae940079db6abd3b2eb2c4ec39fd3d116" title="B9Terminal::setEnabledWarned" alt="" coords="257,31,463,57"/>
-<area shape="rect" id="node3" href="$class_b9_terminal.html#aa7b6502d9f44e4bcdfd51d524b709262" title="B9Terminal::warnSingleMonitor" alt="" coords="512,5,715,32"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#a149593b2de378ef6f3dc54ced6657928" title="B9PrinterComm::isConnected" alt="" coords="515,56,711,83"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a8231ccafa88948caa5080fae12663d37" title="B9PrinterStatus::isValid\lVersion" alt="" coords="763,49,925,90"/>
-</map>

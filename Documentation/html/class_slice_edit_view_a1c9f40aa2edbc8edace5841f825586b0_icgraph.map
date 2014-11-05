@@ -1,9 +1,0 @@
-<map id="SliceEditView::PopDrawButtons" name="SliceEditView::PopDrawButtons">
-<area shape="rect" id="node2" href="$class_slice_edit_view.html#acb49046238d67388eb9e6c6f96c87656" title="SliceEditView::SetDrawTool" alt="" coords="264,148,451,175"/>
-<area shape="rect" id="node3" href="$class_slice_edit_view.html#a6fec815c904dc7064c6a46afacd510f2" title="SliceEditView::SliceEditView" alt="" coords="508,5,700,32"/>
-<area shape="rect" id="node4" href="$class_slice_edit_view.html#a5f53f50641ef19db48d877390723ca15" title="SliceEditView::TogSupportMode" alt="" coords="499,56,709,83"/>
-<area shape="rect" id="node5" href="$class_slice_edit_view.html#a4c9c1f06e312c327de36963f0d1fd39d" title="SliceEditView::on_action\lFlood_Fill_activated" alt="" coords="521,107,687,149"/>
-<area shape="rect" id="node6" href="$class_slice_edit_view.html#a02bebb3325928b2245f2a3aba3f7f8f8" title="SliceEditView::on_action\lFlood_Void_activated" alt="" coords="521,173,687,214"/>
-<area shape="rect" id="node7" href="$class_slice_edit_view.html#a18abccff2ef05fec20e2aab035a45c84" title="SliceEditView::on_action\lWhite_Pen_activated" alt="" coords="521,238,687,279"/>
-<area shape="rect" id="node8" href="$class_slice_edit_view.html#a50fff578f34150f24521b6b94f2ea573" title="SliceEditView::on_action\lBlack_Pen_activated" alt="" coords="521,303,687,345"/>
-</map>

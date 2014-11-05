@@ -1,8 +1,0 @@
-<map id="DlgPrintPrep::on_pushButtonStep3_clicked" name="DlgPrintPrep::on_pushButtonStep3_clicked">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#aa46717017606677a75b5841a7185da09" title="B9Terminal::rcResetHomePos" alt="" coords="245,41,445,68"/>
-<area shape="rect" id="node7" href="$class_b9_terminal.html#af089af420cd647cc43cffc6653e7dcbe" title="B9Terminal::rcGotoFillAfter\lReset" alt="" coords="255,93,435,134"/>
-<area shape="rect" id="node3" href="$class_b9_terminal.html#a1350069aa0db96be6708888dc0fcb5e5" title="B9Terminal::on_pushButton\lCmdReset_clicked" alt="" coords="494,34,677,75"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="725,12,907,39"/>
-<area shape="rect" id="node6" href="$class_b9_terminal.html#abecce7693ed35112dbebb3ee05430df8" title="B9Terminal::resetLastSent\lCycleSettings" alt="" coords="727,63,905,105"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="955,5,1130,46"/>
-</map>

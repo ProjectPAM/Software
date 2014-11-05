@@ -1,6 +1,0 @@
-<map id="B9Terminal::on_lineEditCurZPosInInches_returnPressed" name="B9Terminal::on_lineEditCurZPosInInches_returnPressed">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="256,8,416,35"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="245,60,427,87"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="483,5,642,32"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="475,57,650,98"/>
-</map>

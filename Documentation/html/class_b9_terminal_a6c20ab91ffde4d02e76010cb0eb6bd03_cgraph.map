@@ -1,6 +1,0 @@
-<map id="B9Terminal::getEstBaseCycleTime" name="B9Terminal::getEstBaseCycleTime">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="297,5,457,32"/>
-<area shape="rect" id="node4" href="$class_b9_terminal.html#ae12e25c5e8861dd34b4b31c428a109df" title="B9Terminal::getZMoveTime" alt="" coords="286,56,469,83"/>
-<area shape="rect" id="node5" href="$class_b9_terminal.html#aade364e46897a3024a6cd9409514b7be" title="B9Terminal::getVatMoveTime" alt="" coords="280,107,475,133"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="523,5,682,32"/>
-</map>

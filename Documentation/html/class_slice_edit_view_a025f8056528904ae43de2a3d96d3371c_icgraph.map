@@ -1,7 +1,0 @@
-<map id="SliceEditView::RefreshWithGreen" name="SliceEditView::RefreshWithGreen">
-<area shape="rect" id="node2" href="$class_drawing_context.html#a72db62dac35c8795ff1ff7ac73ea4fa4" title="DrawingContext::mousePress\lEvent" alt="" coords="496,50,693,92"/>
-<area shape="rect" id="node3" href="$class_slice_edit_view.html#a6fec815c904dc7064c6a46afacd510f2" title="SliceEditView::SliceEditView" alt="" coords="247,32,439,59"/>
-<area shape="rect" id="node4" href="$class_slice_edit_view.html#a5f53f50641ef19db48d877390723ca15" title="SliceEditView::TogSupportMode" alt="" coords="237,83,448,110"/>
-<area shape="rect" id="node5" href="$class_slice_edit_view.html#a935699270e315fb4a48d1e195c3045fd" title="SliceEditView::AddSupport" alt="" coords="253,134,432,160"/>
-<area shape="rect" id="node6" href="$class_slice_edit_view.html#a2fc17f86c95b2649b5c59a331da6bb81" title="SliceEditView::DeleteAll\lSupports" alt="" coords="261,185,425,226"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="B9Layout::New" name="B9Layout::New">
-<area shape="rect" id="node2" href="$class_b9_layout.html#aa9b1a4aa78c9c25a8a35701bd476d832" title="B9Layout::B9Layout" alt="" coords="171,5,311,32"/>
-<area shape="rect" id="node3" href="$class_b9_layout.html#a72037f93b87b05d332a57e658e4667d0" title="B9Layout::closeEvent" alt="" coords="166,56,317,83"/>
-<area shape="rect" id="node4" href="$class_b9_slice.html#a0040cadda811ff39a719765ee744d58d" title="B9Slice::LoadLayout" alt="" coords="170,107,313,133"/>
-<area shape="rect" id="node5" href="$class_b9_slice.html#a7d711c4e07e0a89852405c028a7aa7cb" title="B9Slice::hideEvent" alt="" coords="175,157,308,184"/>
-<area shape="rect" id="node6" href="$class_b9_slice.html#acd2e23ba7d54188b3999c9787e60bee4" title="B9Slice::showEvent" alt="" coords="171,208,311,235"/>
-</map>

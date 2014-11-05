@@ -1,8 +1,0 @@
-<map id="dlgCalProjector::onStep3" name="dlgCalProjector::onStep3">
-<area shape="rect" id="node2" href="$classdlg_cal_projector.html#aaafb96f7609282a976ee01afcc38bd48" title="dlgCalProjector::findHome" alt="" coords="222,41,397,68"/>
-<area shape="rect" id="node3" href="$class_b9_terminal.html#aa46717017606677a75b5841a7185da09" title="B9Terminal::rcResetHomePos" alt="" coords="445,41,645,68"/>
-<area shape="rect" id="node4" href="$class_b9_terminal.html#a1350069aa0db96be6708888dc0fcb5e5" title="B9Terminal::on_pushButton\lCmdReset_clicked" alt="" coords="694,34,877,75"/>
-<area shape="rect" id="node5" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="925,12,1107,39"/>
-<area shape="rect" id="node7" href="$class_b9_terminal.html#abecce7693ed35112dbebb3ee05430df8" title="B9Terminal::resetLastSent\lCycleSettings" alt="" coords="927,63,1105,105"/>
-<area shape="rect" id="node6" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="1155,5,1330,46"/>
-</map>

@@ -1,1 +1,0 @@
-This Folder Contains all Files that should reside in the executable directory on any platform.  not to be confused with deployment projects and such.

@@ -1,6 +1,0 @@
-<map id="B9ModelLoader::B9ModelLoader" name="B9ModelLoader::B9ModelLoader">
-<area shape="rect" id="node2" href="$class_b9_model_loader.html#a975463d8b0d264d53d7666bf906d448c" title="B9ModelLoader::Determine\lFileType" alt="" coords="278,5,458,46"/>
-<area shape="rect" id="node3" href="$class_b9_model_loader.html#ac450553e920003c007be706ac93b992d" title="B9ModelLoader::PrepareSTLFor\lReading" alt="" coords="264,70,472,111"/>
-<area shape="rect" id="node4" href="$class_b9_model_loader.html#ab2e3c53a0e7f0886e130c08c9947b945" title="B9ModelLoader::ReadBinHeader" alt="" coords="521,48,733,75"/>
-<area shape="rect" id="node5" href="$class_b9_model_loader.html#a74a5875638e45e8221bf526d43fec63d" title="B9ModelLoader::CheckBinFile\lValidity" alt="" coords="527,99,726,141"/>
-</map>

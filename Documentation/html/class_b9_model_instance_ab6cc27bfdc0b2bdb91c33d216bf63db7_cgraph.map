@@ -1,5 +1,0 @@
-<map id="B9ModelInstance::OnRotationChangeRequest" name="B9ModelInstance::OnRotationChangeRequest">
-<area shape="rect" id="node2" href="$class_b9_layout.html#ae34bed62d4b342217aaf227fb5640dd6" title="B9Layout::ExitToolAction" alt="" coords="263,5,433,32"/>
-<area shape="rect" id="node4" href="$class_b9_model_instance.html#a528c99a93a7330dd960da4ff9d8fee2c" title="B9ModelInstance::RemoveAll\lSupports" alt="" coords="251,57,445,98"/>
-<area shape="rect" id="node3" href="$class_world_view.html#a4cc04c4430f1f3eaa95805624a4c3a9f" title="WorldView::ExitToolAction" alt="" coords="493,5,672,32"/>
-</map>

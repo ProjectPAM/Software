@@ -1,7 +1,0 @@
-<map id="B9SupportStructure::CopyFrom" name="B9SupportStructure::CopyFrom">
-<area shape="rect" id="node2" href="$class_b9_layout.html#a5fbec0c2f27f101aca84ae24de5cf25e" title="B9Layout::DuplicateSelection" alt="" coords="189,5,384,32"/>
-<area shape="rect" id="node3" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="203,57,370,98"/>
-<area shape="rect" id="node5" href="$class_world_view.html#ab120ac8eb7705eb070c112040240e827" title="WorldView::OnToolRelease\lAction" alt="" coords="195,122,378,163"/>
-<area shape="rect" id="node4" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="440,64,640,91"/>
-<area shape="rect" id="node6" href="$class_world_view.html#a177e8eaa0cf4c0d2c3b236af2c84a67a" title="WorldView::mouseReleaseEvent" alt="" coords="433,129,647,156"/>
-</map>

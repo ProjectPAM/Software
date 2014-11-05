@@ -1,5 +1,0 @@
-<map id="DlgMaterialsManager::on_spinBoxNumberOfAttachLayers_valueChanged" name="DlgMaterialsManager::on_spinBoxNumberOfAttachLayers_valueChanged">
-<area shape="rect" id="node2" href="$class_b9_mat_cat.html#aba19387e3629bca4ae9e8e7d743e409c" title="B9MatCat::setNumberAttach" alt="" coords="251,5,442,32"/>
-<area shape="rect" id="node3" href="$class_b9_mat_cat.html#a53055034989df3025248f296db90fe8d" title="B9MatCat::getCurMatIndex" alt="" coords="255,56,438,83"/>
-<area shape="rect" id="node4" href="$class_b9_mat_cat.html#aa5f6bce5e574f7d05db5eeca363f38b1" title="B9MatCat::getCurXYIndex" alt="" coords="257,107,436,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="QextSerialPortPrivate" name="QextSerialPortPrivate">
-<area shape="rect" id="node2" href="$class_qext_read_buffer.html" title="QextReadBuffer" alt="" coords="5,83,120,109"/>
-<area shape="rect" id="node3" href="$struct_port_settings.html" title="The PortSettings class contain port settings. " alt="" coords="145,83,239,109"/>
-<area shape="rect" id="node4" href="$class_qext_serial_port.html" title="The QextSerialPort class encapsulates a serial port on both POSIX and Windows systems. " alt="" coords="264,83,371,109"/>
-</map>

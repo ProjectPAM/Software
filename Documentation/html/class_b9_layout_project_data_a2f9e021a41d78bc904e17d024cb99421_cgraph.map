@@ -1,6 +1,0 @@
-<map id="B9LayoutProjectData::UpdateZSpace" name="B9LayoutProjectData::UpdateZSpace">
-<area shape="rect" id="node2" href="$class_b9_layout.html#a1a5f5d2c3412fb41f8edc2d9601074e5" title="B9Layout::GetAllInstances" alt="" coords="219,5,397,32"/>
-<area shape="rect" id="node3" href="$class_b9_model_instance.html#afcb4374362d29162275a07d2f899afe5" title="B9ModelInstance::GetMaxBound" alt="" coords="201,56,415,83"/>
-<area shape="rect" id="node4" href="$class_b9_layout_project_data.html#a737f04b5302ed381df1a5417f15970f0" title="B9LayoutProjectData\l::SetBuildSpaceSize" alt="" coords="235,107,381,149"/>
-<area shape="rect" id="node5" href="$class_b9_layout_project_data.html#a26c8d2be451cba8442801576e3aa2186" title="B9LayoutProjectData\l::SetDirtied" alt="" coords="464,107,611,149"/>
-</map>

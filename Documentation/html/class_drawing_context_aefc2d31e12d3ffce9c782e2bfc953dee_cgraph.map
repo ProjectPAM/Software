@@ -1,7 +1,0 @@
-<map id="DrawingContext::mouseReleaseEvent" name="DrawingContext::mouseReleaseEvent">
-<area shape="rect" id="node2" href="$class_drawing_context.html#ab4ef4f76a778404fc5e9425fecc82f41" title="DrawingContext::drawLineTo" alt="" coords="270,5,461,32"/>
-<area shape="rect" id="node3" href="$class_slice_edit_view.html#a72b1f718ec7f821cbcc9c8896eb7d65d" title="SliceEditView::RefreshContext" alt="" coords="264,56,467,83"/>
-<area shape="rect" id="node5" href="$class_slice_edit_view.html#a009f33e1e8c75b16a460ef135708f597" title="SliceEditView::SaveToUndo\lBuffer" alt="" coords="272,107,459,149"/>
-<area shape="rect" id="node6" href="$class_slice_edit_view.html#adc2c4c7556cec98710171b8b94770f44" title="SliceEditView::ReCompress" alt="" coords="271,173,459,200"/>
-<area shape="rect" id="node4" href="$class_drawing_context.html#a400ea20c52d1ff9afde64e45c6f74841" title="DrawingContext::Generate\lLogicImage" alt="" coords="515,49,693,90"/>
-</map>
