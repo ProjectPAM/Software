@@ -24,10 +24,17 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-
-namespace Ui {
-class MainWindow;
-}
+#include <QtCore/QVariant>
+#include <QtWidgets/QAction>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QButtonGroup>
+#include <QtWidgets/QHeaderView>
+#include <QtWidgets/QMainWindow>
+#include <QtWidgets/QMenu>
+#include <QtWidgets/QMenuBar>
+#include <QtWidgets/QStatusBar>
+#include <QtWidgets/QToolBar>
+#include <QtWidgets/QWidget>
 
 class MainWindow : public QMainWindow
 {
@@ -37,8 +44,40 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
 
+private slots:
+    void openActionSlot();
+    void newActionSlot();
+    void runActionSlot();
+    void pauseActionSlot();
+    void stopActionSlot();
+
 private:
-    Ui::MainWindow *ui;
+    QAction *openAction;
+    QAction *saveAction;
+    QAction *newAction;
+    QAction *runAction;
+    QAction *pauseAction;
+    QAction *stopAction;
+
+    QMenu *fileMenu;
+    QMenu *editMenu;
+    QMenu *runMenu;
+    QMenu *viewMenu;
+    QMenu *helpMenu;
+
+    QToolBar *fileToolBar;
+    QToolBar *runToolBar;
+
+    QWidget *centralWidget;
+
+    void setupUi();
+
+    void createActions();
+    void createMenus();
+    void createToolBars();
+    void createStatusBar();
+    void createDockWindows();
+
 };
 
 #endif // MAINWINDOW_H

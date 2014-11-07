@@ -26,6 +26,9 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
+    a.setOrganizationName("ProjectPAM");
+    a.setApplicationName("LibreCAM");
+
     MainWindow w;
     w.show();
 
