@@ -81,8 +81,9 @@ void MainWindow::setupUi()
 
 void MainWindow::createActions()
 {
-    openAction = new QAction(this);
-    openAction->setObjectName(QStringLiteral("actionOpen"));
+    openAction = new QAction(tr("&Open"), this);
+    openAction->setShortcuts(QKeySequence::Open);
+    openAction->setStatusTip(tr("Need to fill this in"));
 
     QIcon icon;
     QString iconThemeName = QStringLiteral("document-open");
@@ -94,9 +95,11 @@ void MainWindow::createActions()
     }
 
     openAction->setIcon(icon);
+    connect(openAction, SIGNAL(triggered()), this, SLOT(openActionSlot()));
 
-    saveAction = new QAction(this);
-    saveAction->setObjectName(QStringLiteral("actionSave"));
+    saveAction = new QAction(tr("&Save"), this);
+    saveAction->setShortcuts(QKeySequence::Save);
+    saveAction->setStatusTip(tr("Need to fill this in"));
 
     QIcon icon1;
     iconThemeName = QStringLiteral("document-save");
@@ -108,9 +111,11 @@ void MainWindow::createActions()
     }
 
     saveAction->setIcon(icon1);
+    connect(saveAction, SIGNAL(triggered()), this, SLOT(saveActionSlot()));
 
-    newAction = new QAction(this);
-    newAction->setObjectName(QStringLiteral("actionNew"));
+    newAction = new QAction(tr("&New"), this);
+    newAction->setShortcuts(QKeySequence::New);
+    newAction->setStatusTip(tr("Need to fill this in"));
 
     QIcon icon2;
     iconThemeName = QStringLiteral("document-new");
@@ -122,9 +127,11 @@ void MainWindow::createActions()
     }
 
     newAction->setIcon(icon2);
+    connect(newAction, SIGNAL(triggered()), this, SLOT(newActionSlot()));
 
-    runAction = new QAction(this);
-    runAction->setObjectName(QStringLiteral("actionRun"));
+    runAction = new QAction(tr("&Run"), this);
+    //runAction->setShortcuts(QKeySequence::Open);
+    runAction->setStatusTip(tr("Need to fill this in"));
 
     QIcon icon3;
     iconThemeName = QStringLiteral("media-playback-start");
@@ -136,9 +143,11 @@ void MainWindow::createActions()
     }
 
     runAction->setIcon(icon3);
+    connect(runAction, SIGNAL(triggered()), this, SLOT(runActionSlot()));
 
-    pauseAction = new QAction(this);
-    pauseAction->setObjectName(QStringLiteral("actionPause"));
+    pauseAction = new QAction(tr("&Pause"), this);
+    //pauseAction->setShortcuts(QKeySequence::Open);
+    pauseAction->setStatusTip(tr("Need to fill this in"));
 
     QIcon icon4;
     iconThemeName = QStringLiteral("media-playback-pause");
@@ -150,9 +159,11 @@ void MainWindow::createActions()
     }
 
     pauseAction->setIcon(icon4);
+    connect(pauseAction, SIGNAL(triggered()), this, SLOT(pauseActionSlot()));
 
-    stopAction = new QAction(this);
-    stopAction->setObjectName(QStringLiteral("actionStop"));
+    stopAction = new QAction(tr("&Stop"), this);
+    //stopAction->setShortcuts(QKeySequence::stop);
+    stopAction->setStatusTip(tr("Need to fill this in"));
 
     QIcon icon5;
     iconThemeName = QStringLiteral("media-playback-stop");
@@ -164,6 +175,7 @@ void MainWindow::createActions()
     }
 
     stopAction->setIcon(icon5);
+    connect(stopAction, SIGNAL(triggered()), this, SLOT(stopActionSlot()));
 
 }
 
