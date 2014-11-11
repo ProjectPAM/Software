@@ -24,12 +24,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QtCore/QVariant>
 #include <QtWidgets/QAction>
-#include <QtWidgets/QApplication>
-#include <QtWidgets/QButtonGroup>
-#include <QtWidgets/QHeaderView>
-#include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenu>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QStatusBar>

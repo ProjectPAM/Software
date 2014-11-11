@@ -67,9 +67,6 @@ void MainWindow::stopActionSlot()
 
 void MainWindow::setupUi()
 {
-    if (this->objectName().isEmpty())
-        this->setObjectName(QStringLiteral("MainWindow"));
-
     this->resize(748, 586);
 
     centralWidget = new QWidget(this);
