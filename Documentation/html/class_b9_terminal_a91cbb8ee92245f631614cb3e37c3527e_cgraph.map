@@ -1,5 +1,0 @@
-<map id="B9Terminal::rcCloseVat" name="B9Terminal::rcCloseVat">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#a429d7ba341781cca50ec5c7a44925706" title="B9Terminal::on_pushButton\lVClose_clicked" alt="" coords="217,5,399,46"/>
-<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="448,12,629,39"/>
-<area shape="rect" id="node4" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="678,5,853,46"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="B9UpdateManager::ResetEverything" name="B9UpdateManager::ResetEverything">
-<area shape="rect" id="node2" href="$class_loading_bar.html#a61ca7b136a2702deaad393b477910af1" title="LoadingBar::setMax" alt="" coords="308,5,447,32"/>
-<area shape="rect" id="node3" href="$class_loading_bar.html#a53205e34bacf6c1e23891f95aed99c76" title="LoadingBar::setMin" alt="" coords="310,56,445,83"/>
-<area shape="rect" id="node4" href="$class_loading_bar.html#ae9dacbb4496b1fe34dcfa6e67464dde6" title="LoadingBar::setDescription" alt="" coords="288,107,467,133"/>
-</map>

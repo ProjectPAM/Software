@@ -1,5 +1,0 @@
-<map id="PCycleSettings::updateValues" name="PCycleSettings::updateValues">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#afa5b574863de91077063f04a1a16492e" title="B9Terminal::on_pushButton\lCycleSettings_clicked" alt="" coords="267,5,450,46"/>
-<area shape="rect" id="node3" href="$class_b9_terminal.html#ab2386374fcfa15785e2ef6a1f899619e" title="B9Terminal::updateCycleValues" alt="" coords="254,71,463,97"/>
-<area shape="rect" id="node4" href="$class_dlg_print_prep.html#a2a227086df02fc383b9a04eebf8d3529" title="DlgPrintPrep::on_pushButton\lReleaseCycle_clicked" alt="" coords="513,63,703,105"/>
-</map>

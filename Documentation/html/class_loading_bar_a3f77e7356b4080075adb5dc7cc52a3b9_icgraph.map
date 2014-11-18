@@ -1,8 +1,0 @@
-<map id="LoadingBar::GetValue" name="LoadingBar::GetValue">
-<area shape="rect" id="node2" href="$class_b9_edit.html#a9ae3f8788df40146ac1b0f4d23794221" title="B9Edit::importSlicesFromSlc" alt="" coords="203,5,394,32"/>
-<area shape="rect" id="node4" href="$class_b9_layout.html#a13ad973016699210161000a3c92e3c54" title="B9Layout::SliceWorldToJob" alt="" coords="207,56,391,83"/>
-<area shape="rect" id="node7" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="207,107,390,133"/>
-<area shape="rect" id="node3" href="$class_b9_edit.html#aefc0c73a23598ff97017c8c48ca8bac2" title="B9Edit::importSlices" alt="" coords="447,5,588,32"/>
-<area shape="rect" id="node5" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="443,81,591,108"/>
-<area shape="rect" id="node6" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="640,81,744,108"/>
-</map>

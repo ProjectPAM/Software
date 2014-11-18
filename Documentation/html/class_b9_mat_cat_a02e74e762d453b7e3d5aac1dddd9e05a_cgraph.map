@@ -1,8 +1,0 @@
-<map id="B9MatCat::SaveUserMaterialsToRegister" name="B9MatCat::SaveUserMaterialsToRegister">
-<area shape="rect" id="node2" href="$class_b9_mat_cat.html#a54608d4fc97d2c97a4a38762afa48b01" title="B9MatCat::isFactoryEntry" alt="" coords="275,5,450,32"/>
-<area shape="rect" id="node3" href="$class_b9_mat_cat.html#a11fe746a25c62bb1f61cd6fc3f6cd3a3" title="B9MatCat::getMaterialLabel" alt="" coords="271,56,455,83"/>
-<area shape="rect" id="node4" href="$class_b9_mat_cat.html#abfe46d65038895f7d004b3bddfc38749" title="B9MatCat::getMaterialDescription" alt="" coords="253,107,472,133"/>
-<area shape="rect" id="node5" href="$class_b9_mat_cat.html#a48066118c4c53c3cf4fdf96638a40d35" title="B9MatCat::getTattach" alt="" coords="287,181,438,208"/>
-<area shape="rect" id="node6" href="$class_b9_mat_cat.html#a5d61a399191c174683098f44c00240de" title="B9MatCat::getTbase" alt="" coords="291,256,434,283"/>
-<area shape="rect" id="node7" href="$class_b9_mat_cat.html#a430597a38b25a642a9247e1d177c9530" title="B9MatCat::getTover" alt="" coords="293,331,433,357"/>
-</map>

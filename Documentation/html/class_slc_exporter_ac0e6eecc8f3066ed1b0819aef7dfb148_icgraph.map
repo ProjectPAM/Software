@@ -1,6 +1,0 @@
-<map id="SlcExporter::WriteBoundryHeader" name="SlcExporter::WriteBoundryHeader">
-<area shape="rect" id="node2" href="$class_slice.html#a7a23a663e259a60f5430e50b6764741d" title="Slice::WriteToSlc" alt="" coords="233,12,357,39"/>
-<area shape="rect" id="node3" href="$class_b9_layout.html#aaf5aedfce0bd61595e62fda23190a6fc" title="B9Layout::SliceWorldToSlc" alt="" coords="406,12,589,39"/>
-<area shape="rect" id="node4" href="$class_b9_layout.html#afc4c55055ecb5ade64ad8d6ac9b2afa6" title="B9Layout::SliceWorld" alt="" coords="638,12,786,39"/>
-<area shape="rect" id="node5" href="$class_b9_slice.html#a0b090ff07ea10d05f4c22cd503d3a66e" title="B9Slice::Slice" alt="" coords="835,12,939,39"/>
-</map>

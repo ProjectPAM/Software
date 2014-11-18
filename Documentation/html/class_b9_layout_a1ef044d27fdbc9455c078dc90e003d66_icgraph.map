@@ -1,5 +1,0 @@
-<map id="B9Layout::OnSupport_Bottom_Length_Changed" name="B9Layout::OnSupport_Bottom_Length_Changed">
-<area shape="rect" id="node2" href="$class_b9_layout.html#a229beb567681a2917b4a39e5c3765283" title="B9Layout::ResetSupportLight" alt="" coords="238,5,431,32"/>
-<area shape="rect" id="node3" href="$class_b9_layout.html#a6e2397da7af877f7fff94aafd570f4be" title="B9Layout::ResetSupportMedium" alt="" coords="229,56,440,83"/>
-<area shape="rect" id="node4" href="$class_b9_layout.html#a552553f3327363013690e2e9a25402d9" title="B9Layout::ResetSupportHeavy" alt="" coords="233,107,436,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SliceEditView::sliceDirtied" name="SliceEditView::sliceDirtied">
-<area shape="rect" id="node2" href="$class_slice_edit_view.html#a6fec815c904dc7064c6a46afacd510f2" title="SliceEditView::SliceEditView" alt="" coords="229,45,421,72"/>
-<area shape="rect" id="node3" href="$class_slice_edit_view.html#adc2c4c7556cec98710171b8b94770f44" title="SliceEditView::ReCompress" alt="" coords="231,96,419,123"/>
-<area shape="rect" id="node4" href="$class_drawing_context.html#aefc2d31e12d3ffce9c782e2bfc953dee" title="DrawingContext::mouseRelease\lEvent" alt="" coords="469,5,680,46"/>
-<area shape="rect" id="node5" href="$class_slice_edit_view.html#a4089ccb09f7f7a281393922663ec981e" title="SliceEditView::Undo" alt="" coords="503,71,646,97"/>
-<area shape="rect" id="node6" href="$class_slice_edit_view.html#a217c06a76e713a52955de6f435e54c0c" title="SliceEditView::Redo" alt="" coords="503,121,646,148"/>
-<area shape="rect" id="node7" href="$class_slice_edit_view.html#a23337f56ab7cd3cb2c3aafb3299696c8" title="SliceEditView::PasteFrom\lClipboard" alt="" coords="487,173,662,214"/>
-</map>

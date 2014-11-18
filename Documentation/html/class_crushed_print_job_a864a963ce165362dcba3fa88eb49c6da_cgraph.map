@@ -1,6 +1,0 @@
-<map id="CrushedPrintJob::streamInCPJ" name="CrushedPrintJob::streamInCPJ">
-<area shape="rect" id="node2" href="$class_crushed_print_job.html#a620be8f0854f3630307af1cc62fd32da" title="CrushedPrintJob::addCBM" alt="" coords="259,5,437,32"/>
-<area shape="rect" id="node3" href="$class_crushed_bit_map.html#a1b5e5dce37b8449e5e5be255dbcd42f7" title="CrushedBitMap::setWidth" alt="" coords="262,56,434,83"/>
-<area shape="rect" id="node4" href="$class_crushed_bit_map.html#a16832c570d6fb9397df3411d037e9631" title="CrushedBitMap::setHeight" alt="" coords="260,107,436,133"/>
-<area shape="rect" id="node5" href="$class_crushed_bit_map.html#a55f356b57d5abdbabbce4b75eebfe0dc" title="CrushedBitMap::setIsBase\lLayer" alt="" coords="259,158,437,199"/>
-</map>

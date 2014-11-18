@@ -1,7 +1,0 @@
-<map id="B9SupportStructure::BakeToInstanceGeometry" name="B9SupportStructure::BakeToInstanceGeometry">
-<area shape="rect" id="node2" href="$class_b9_support_attachment_data.html#aec2a765c7fe1a5ddbec2a9ed10f20611" title="B9SupportAttachmentData\l::GetTriangles" alt="" coords="237,5,416,46"/>
-<area shape="rect" id="node3" href="$geometricfunctions_8h.html#ae99f1bb1020521f7b6d69023545c0c41" title="RotateVector" alt="" coords="277,71,376,97"/>
-<area shape="rect" id="node4" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="239,121,414,148"/>
-<area shape="rect" id="node5" href="$class_triangle3_d.html#a78491d2a2b4f57fca059e921c4f1c2da" title="Triangle3D::UpdateBounds" alt="" coords="237,172,416,199"/>
-<area shape="rect" id="node6" href="$class_triangle3_d.html#af9552925c905802639e7df0bda0e4096" title="Triangle3D::UpdateNormal\lFromGeom" alt="" coords="238,223,415,265"/>
-</map>

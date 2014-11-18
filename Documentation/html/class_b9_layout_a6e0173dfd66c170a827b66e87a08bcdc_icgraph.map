@@ -1,8 +1,0 @@
-<map id="B9Layout::SelectSupport" name="B9Layout::SelectSupport">
-<area shape="rect" id="node2" href="$class_b9_layout.html#a4427d5d93d6b2b20261b161c3c11caf5" title="B9Layout::SelectOnly" alt="" coords="235,5,384,32"/>
-<area shape="rect" id="node3" href="$class_b9_layout.html#a4c07871a8e50c9b59212dd00e5843975" title="B9Layout::RefreshSupport\lSelectionsFromList" alt="" coords="221,57,397,98"/>
-<area shape="rect" id="node6" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="226,122,393,163"/>
-<area shape="rect" id="node4" href="$class_b9_layout.html#af439cdc1b4d62fb6e95385bf4e5fc70b" title="B9Layout::BuildInterface" alt="" coords="463,64,628,91"/>
-<area shape="rect" id="node5" href="$class_b9_layout.html#aa9b1a4aa78c9c25a8a35701bd476d832" title="B9Layout::B9Layout" alt="" coords="694,64,834,91"/>
-<area shape="rect" id="node7" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="445,129,645,156"/>
-</map>

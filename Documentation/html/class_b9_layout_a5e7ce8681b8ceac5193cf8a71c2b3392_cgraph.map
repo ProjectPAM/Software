@@ -1,7 +1,0 @@
-<map id="B9Layout::PushBasePlateProperties" name="B9Layout::PushBasePlateProperties">
-<area shape="rect" id="node2" href="$class_b9_layout.html#ab16790a18dc20d8277d728f974bb22de" title="B9Layout::SupportModeInst" alt="" coords="288,5,472,32"/>
-<area shape="rect" id="node3" href="$class_b9_model_instance.html#ab19eee4b4ab764b1a2d72e6323d02471" title="B9ModelInstance::GetBase\lPlate" alt="" coords="289,57,471,98"/>
-<area shape="rect" id="node4" href="$class_b9_support_structure.html#a7f44ceb1974b2c45604db2390ae6b5cc" title="B9SupportStructure\l::GetBottomAttachShape" alt="" coords="296,122,464,163"/>
-<area shape="rect" id="node6" href="$class_b9_support_structure.html#a0a8350fa3aae6b3a83e5c770b154cc85" title="B9SupportStructure\l::GetBottomLength" alt="" coords="312,187,448,229"/>
-<area shape="rect" id="node5" href="$class_b9_support_attachment_data.html#abcd24b402804618645f9d00d594881f5" title="B9SupportAttachmentData\l::GetName" alt="" coords="520,122,699,163"/>
-</map>

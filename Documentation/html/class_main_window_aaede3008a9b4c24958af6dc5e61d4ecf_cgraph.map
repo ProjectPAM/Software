@@ -1,7 +1,0 @@
-<map id="MainWindow::handleW4Hide" name="MainWindow::handleW4Hide">
-<area shape="rect" id="node2" href="$class_log_file_manager.html#a52c889e3e2978a46f5bf66e5bd73c220" title="LogFileManager::setPrinting" alt="" coords="247,5,431,32"/>
-<area shape="rect" id="node3" href="$class_b9_terminal.html#aeac42ae75146fe172660062af47c9aec" title="B9Terminal::setIsPrinting" alt="" coords="254,56,423,83"/>
-<area shape="rect" id="node4" href="$_o_s___wrapper___functions_8cpp.html#ab9025f8fd2c380379043eed151806904" title="CROSS_OS_DisableSleeps" alt="" coords="245,107,432,133"/>
-<area shape="rect" id="node5" href="$class_screen_saver_waker.html#a3436f160b51b33852254681b44f99139" title="ScreenSaverWaker::StartWaking" alt="" coords="481,81,695,108"/>
-<area shape="rect" id="node6" href="$class_screen_saver_waker.html#adac80d8e186f46b2a42671b6ff8d83ea" title="ScreenSaverWaker::StopWaking" alt="" coords="481,132,695,159"/>
-</map>

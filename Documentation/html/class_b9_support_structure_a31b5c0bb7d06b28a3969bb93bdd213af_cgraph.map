@@ -1,8 +1,0 @@
-<map id="B9SupportStructure::IsPrintable" name="B9SupportStructure::IsPrintable">
-<area shape="rect" id="node2" href="$class_b9_support_structure.html#a8d350da181e7ed5e2c0d301d7370a3f0" title="B9SupportStructure\l::IsTopPrintable" alt="" coords="189,5,325,46"/>
-<area shape="rect" id="node4" href="$class_b9_support_structure.html#ad7a8c661d5c5202996357ce7e99c32c5" title="B9SupportStructure\l::IsMidPrintable" alt="" coords="189,70,325,111"/>
-<area shape="rect" id="node5" href="$class_b9_support_structure.html#afc6a23c404e3ad7246dc68c69973ec82" title="B9SupportStructure\l::IsBottomPrintable" alt="" coords="189,135,325,177"/>
-<area shape="rect" id="node7" href="$class_b9_support_structure.html#ac864bb19adcb4f95c35d1d0b8b4ea1f3" title="B9SupportStructure\l::IsUpsideDown" alt="" coords="189,201,325,242"/>
-<area shape="rect" id="node3" href="$class_b9_support_structure.html#abaa87d0a00b9049ce040cb836c0d7242" title="B9SupportStructure\l::IsTopAngleUp" alt="" coords="381,5,517,46"/>
-<area shape="rect" id="node6" href="$class_b9_support_structure.html#a37df37f972a7be349ac353883be7cae9" title="B9SupportStructure\l::IsBottomAngleDown" alt="" coords="374,135,525,177"/>
-</map>

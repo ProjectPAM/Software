@@ -1,9 +1,0 @@
-<map id="B9MatCat::getZinMM" name="B9MatCat::getZinMM">
-<area shape="rect" id="node2" href="$class_b9_mat_cat.html#a5313739dac2509283416a1dd1a6b8016" title="B9MatCat::getZLabel" alt="" coords="235,16,381,43"/>
-<area shape="rect" id="node5" href="$class_b9_mat_cat.html#ad190e2ef5fb422b7c315c7a6578ecbe9" title="B9MatCat::getCurTbaseAtZinMS" alt="" coords="201,121,415,148"/>
-<area shape="rect" id="node8" href="$class_b9_mat_cat.html#a34355d112fb78a37bef1f79b38d1ac86" title="B9MatCat::getCurToverAtZinMS" alt="" coords="202,71,414,97"/>
-<area shape="rect" id="node3" href="$class_dlg_materials_manager.html#af247c26c6654fb99bc8ad51ab4189ebf" title="DlgMaterialsManager\l::setUp" alt="" coords="491,5,637,46"/>
-<area shape="rect" id="node4" href="$class_dlg_materials_manager.html#aabedb9a6dc9437b40def313141fe87ca" title="DlgMaterialsManager\l::DlgMaterialsManager" alt="" coords="713,5,866,46"/>
-<area shape="rect" id="node6" href="$class_dlg_print_prep.html#a9365672c35ec9624865f4f63eefd220d" title="DlgPrintPrep::on_comboBox\lMaterial_currentIndexChanged" alt="" coords="465,70,663,111"/>
-<area shape="rect" id="node7" href="$class_dlg_print_prep.html#a18e47119e3af2230aa82b7f640b3135b" title="DlgPrintPrep::on_checkBox\lStep1_clicked" alt="" coords="473,135,655,177"/>
-</map>

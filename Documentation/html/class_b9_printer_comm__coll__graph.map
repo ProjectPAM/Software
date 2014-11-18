@@ -1,6 +1,0 @@
-<map id="B9PrinterComm" name="B9PrinterComm">
-<area shape="rect" id="node4" href="$class_qext_serial_enumerator.html" title="The QextSerialEnumerator class provides list of ports available in the system. " alt="" coords="65,83,215,109"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html" title="B9PrinterStatus" alt="" coords="320,83,435,109"/>
-<area shape="rect" id="node5" href="$class_qext_serial_enumerator_private.html" title="QextSerialEnumeratorPrivate" alt="" coords="5,173,195,200"/>
-<area shape="rect" id="node6" href="$class_qext_serial_port.html" title="The QextSerialPort class encapsulates a serial port on both POSIX and Windows systems. " alt="" coords="459,83,565,109"/>
-</map>

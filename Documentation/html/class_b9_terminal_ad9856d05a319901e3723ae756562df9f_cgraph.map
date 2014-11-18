@@ -1,6 +1,0 @@
-<map id="B9Terminal::getLampAdjustedExposureTime" name="B9Terminal::getLampAdjustedExposureTime">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#aaec5b8baa0ae0381ce1110213be767c0" title="B9PrinterComm::getLampHrs" alt="" coords="251,5,445,32"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#acb39c34438f19854eeb73ddc634e5242" title="B9PrinterComm::getHalfLife" alt="" coords="255,56,441,83"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html#ae560999fd34816c0e38781b7c6683d3a" title="B9PrinterStatus::getLampHrs" alt="" coords="494,5,687,32"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a1c9f4f08ac4ae36a37c06867394ec845" title="B9PrinterStatus::getHalfLife" alt="" coords="498,56,683,83"/>
-</map>

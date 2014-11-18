@@ -1,7 +1,0 @@
-<map id="B9Edit::setVersion" name="B9Edit::setVersion">
-<area shape="rect" id="node2" href="$class_b9_edit.html#aef35b22fb58632ca01fc30d16458b808" title="B9Edit::newJob" alt="" coords="187,31,301,57"/>
-<area shape="rect" id="node5" href="$class_b9_edit.html#afb05e7b06728a265059e52ef5ee58cc6" title="B9Edit::openJob" alt="" coords="185,81,303,108"/>
-<area shape="rect" id="node3" href="$class_b9_edit.html#a4bc070cb3e8860f3fb599e57b4a35635" title="B9Edit::B9Edit" alt="" coords="366,56,474,83"/>
-<area shape="rect" id="node4" href="$class_b9_edit.html#a56a3b1732d0f09facfb82b7c87d34e18" title="B9Edit::closeEvent" alt="" coords="353,5,487,32"/>
-<area shape="rect" id="node6" href="$class_b9_edit.html#a28d3b014af316b7e9a16aaaf9085cea2" title="B9Edit::dropEvent" alt="" coords="356,107,484,133"/>
-</map>

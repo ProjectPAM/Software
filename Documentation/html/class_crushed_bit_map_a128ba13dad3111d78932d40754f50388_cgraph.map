@@ -1,6 +1,0 @@
-<map id="CrushedBitMap::crushSlice" name="CrushedBitMap::crushSlice">
-<area shape="rect" id="node2" href="$class_crushed_bit_map.html#a52308acd10643cf4dee4c64c3128ca0f" title="CrushedBitMap::crushSlice" alt="" coords="235,56,416,83"/>
-<area shape="rect" id="node3" href="$class_crushed_bit_map.html#a2bf3dec8e51a53de106dff76838bf8e8" title="CrushedBitMap::pixelIsWhite" alt="" coords="477,5,669,32"/>
-<area shape="rect" id="node4" href="$class_crushed_bit_map.html#ad9496c496cfb5f3d249a78313592bfff" title="CrushedBitMap::pushBits" alt="" coords="488,56,659,83"/>
-<area shape="rect" id="node5" href="$class_crushed_bit_map.html#ab0e06b59f8bf7079e3246b8cf4ff3082" title="CrushedBitMap::computeKeySize" alt="" coords="464,107,683,133"/>
-</map>

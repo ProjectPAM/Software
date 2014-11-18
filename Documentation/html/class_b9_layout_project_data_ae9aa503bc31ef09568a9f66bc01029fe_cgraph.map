@@ -1,8 +1,0 @@
-<map id="B9LayoutProjectData::LoadDefaults" name="B9LayoutProjectData::LoadDefaults">
-<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#a77d5ef4277bb7000485924880e6d632f" title="B9LayoutProjectData\l::SetPixelSize" alt="" coords="395,5,541,46"/>
-<area shape="rect" id="node4" href="$class_b9_layout_project_data.html#a8db648f1c8c16e68d32d164890e18952" title="B9LayoutProjectData\l::SetPixelThickness" alt="" coords="395,70,541,111"/>
-<area shape="rect" id="node5" href="$class_b9_layout_project_data.html#a9931ea7ff7085eaeb818ac128cf71d27" title="B9LayoutProjectData\l::SetResolution" alt="" coords="200,125,347,166"/>
-<area shape="rect" id="node6" href="$class_b9_layout_project_data.html#a32d869b02351afa8722cca6db6622f36" title="B9LayoutProjectData\l::CalculateBuildArea" alt="" coords="200,190,347,231"/>
-<area shape="rect" id="node7" href="$class_b9_layout_project_data.html#a737f04b5302ed381df1a5417f15970f0" title="B9LayoutProjectData\l::SetBuildSpaceSize" alt="" coords="395,190,541,231"/>
-<area shape="rect" id="node3" href="$class_b9_layout_project_data.html#a26c8d2be451cba8442801576e3aa2186" title="B9LayoutProjectData\l::SetDirtied" alt="" coords="589,99,736,141"/>
-</map>

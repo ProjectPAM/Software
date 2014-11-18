@@ -1,7 +1,0 @@
-<map id="B9ModelInstance::RenderTrianglePickGL" name="B9ModelInstance::RenderTrianglePickGL">
-<area shape="rect" id="node2" href="$class_world_view.html#a59b7186745ce812b620c4bd64a78bf9f" title="WorldView::GetPickTriangleIndx" alt="" coords="272,23,483,50"/>
-<area shape="rect" id="node3" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="771,16,938,57"/>
-<area shape="rect" id="node5" href="$class_world_view.html#a51817bae47b6f5cbc13f0e31980a52ab" title="WorldView::Update3DCursor" alt="" coords="531,23,722,50"/>
-<area shape="rect" id="node6" href="$class_world_view.html#aff46bfefcb52d662efda632b33d1ce48" title="WorldView::GetDrillingHit" alt="" coords="541,74,712,101"/>
-<area shape="rect" id="node4" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="987,23,1187,50"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="B9UpdateManager::ResetEverything" name="B9UpdateManager::ResetEverything">
-<area shape="rect" id="node2" href="$class_b9_update_manager.html#ac05ad264636294e9240fb707f00c8bed" title="B9UpdateManager::OnRecieved\lReply" alt="" coords="808,63,1019,105"/>
-<area shape="rect" id="node4" href="$class_b9_update_manager.html#ac108f54e11a62f341e9469367ab54c8e" title="B9UpdateManager::OnDownload\lTimeout" alt="" coords="540,122,753,163"/>
-<area shape="rect" id="node5" href="$class_b9_update_manager.html#a74b1dfa9d868545d369db79b37281d98" title="B9UpdateManager::OnCancel\lUpdate" alt="" coords="289,5,485,46"/>
-<area shape="rect" id="node3" href="$class_b9_update_manager.html#a08839a41be141b521eceaca7780af8c0" title="B9UpdateManager::B9Update\lManager" alt="" coords="1067,93,1263,134"/>
-<area shape="rect" id="node6" href="$class_b9_update_manager.html#a4f253c5b1aaea11b1fa1fc361d04ef0a" title="B9UpdateManager::CopyInRemote\lEntries" alt="" coords="533,5,760,46"/>
-</map>

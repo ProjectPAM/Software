@@ -1,4 +1,0 @@
-<map id="B9Terminal::setTgtAltitudePU" name="B9Terminal::setTgtAltitudePU">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="251,5,411,32"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="459,5,618,32"/>
-</map>

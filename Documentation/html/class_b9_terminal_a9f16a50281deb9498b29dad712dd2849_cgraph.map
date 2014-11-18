@@ -1,8 +1,0 @@
-<map id="B9Terminal::onMotionResetComplete" name="B9Terminal::onMotionResetComplete">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#a9d550d70a2867edfd676daaa5c443c58" title="B9PrinterComm::getHomeStatus" alt="" coords="242,20,457,47"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#aa9cfdf24fe62e6057c7af06e6390cfce" title="B9PrinterComm::getLastHomeDiff" alt="" coords="238,77,461,104"/>
-<area shape="rect" id="node6" href="$class_b9_printer_comm.html#a18399e8e670ba98d8f8b5b7285630d1c" title="B9PrinterComm::SendCmd" alt="" coords="259,135,440,161"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html#ab0fbf39fd83fec3024469ebce013aa20" title="B9PrinterStatus::getHome\lStatus" alt="" coords="510,5,685,46"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a0f7e10bedf73dfb8b5dc48afd0b47a9d" title="B9PrinterStatus::getLast\lHomeDiff" alt="" coords="515,70,680,111"/>
-<area shape="rect" id="node7" href="$class_b9_printer_status.html#a637aba7c49b5c913f4e2148c9eafd18b" title="B9PrinterStatus::setHome\lStatus" alt="" coords="510,135,685,177"/>
-</map>

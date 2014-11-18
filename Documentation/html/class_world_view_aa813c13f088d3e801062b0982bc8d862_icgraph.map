@@ -1,4 +1,0 @@
-<map id="WorldView::SelectInstanceByScreen" name="WorldView::SelectInstanceByScreen">
-<area shape="rect" id="node2" href="$class_world_view.html#af8a4476ee7b3122e81072cd83228f06b" title="WorldView::OnToolInitial\lAction" alt="" coords="235,5,402,46"/>
-<area shape="rect" id="node3" href="$class_world_view.html#a068a33c5ca5b82b46f34cfd44f5b6b1a" title="WorldView::mousePressEvent" alt="" coords="451,12,651,39"/>
-</map>

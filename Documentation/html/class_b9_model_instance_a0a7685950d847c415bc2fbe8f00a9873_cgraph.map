@@ -1,8 +1,0 @@
-<map id="B9ModelInstance::RenderSupportsTipsGL" name="B9ModelInstance::RenderSupportsTipsGL">
-<area shape="rect" id="node2" href="$class_b9_support_structure.html#a03f3e73173d93f911370b0a76d25d6ba" title="B9SupportStructure\l::GetTopPoint" alt="" coords="280,5,416,46"/>
-<area shape="rect" id="node3" href="$class_b9_support_structure.html#af4dbac0f0b28595214bd9d83d0f7bae7" title="B9SupportStructure\l::GetTopPivot" alt="" coords="280,70,416,111"/>
-<area shape="rect" id="node4" href="$class_b9_support_structure.html#a33722f7d03e395dcd380c65e80e2adc4" title="B9SupportStructure\l::GetBottomPivot" alt="" coords="280,190,416,231"/>
-<area shape="rect" id="node5" href="$class_b9_support_structure.html#a8a0fe2a31a4f14a7dd902eae48aa57b0" title="B9SupportStructure\l::GetBottomPoint" alt="" coords="464,126,600,167"/>
-<area shape="rect" id="node6" href="$class_b9_support_structure.html#a7049742095a98e37af942591ce9d6f6e" title="B9SupportStructure\l::GetBottomNormal" alt="" coords="464,191,600,233"/>
-<area shape="rect" id="node7" href="$class_b9_support_structure.html#a0a8350fa3aae6b3a83e5c770b154cc85" title="B9SupportStructure\l::GetBottomLength" alt="" coords="464,257,600,298"/>
-</map>

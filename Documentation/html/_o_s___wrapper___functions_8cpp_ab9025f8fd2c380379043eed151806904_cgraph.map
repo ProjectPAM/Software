@@ -1,4 +1,0 @@
-<map id="CROSS_OS_DisableSleeps" name="CROSS_OS_DisableSleeps">
-<area shape="rect" id="node2" href="$class_screen_saver_waker.html#a3436f160b51b33852254681b44f99139" title="ScreenSaverWaker::StartWaking" alt="" coords="241,5,455,32"/>
-<area shape="rect" id="node3" href="$class_screen_saver_waker.html#adac80d8e186f46b2a42671b6ff8d83ea" title="ScreenSaverWaker::StopWaking" alt="" coords="241,56,455,83"/>
-</map>

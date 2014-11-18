@@ -1,6 +1,0 @@
-<map id="Triangle3D::IntersectsXYPlane" name="Triangle3D::IntersectsXYPlane">
-<area shape="rect" id="node2" href="$class_triangle3_d.html#aa096a40a0449d819d25a7de364bff53b" title="Triangle3D::IsBad" alt="" coords="286,31,413,57"/>
-<area shape="rect" id="node5" href="$class_triangle3_d.html#a8bc95a5fe12313861aba7e3a3ea9b5a3" title="Triangle3D::ParallelXYPlane" alt="" coords="256,81,443,108"/>
-<area shape="rect" id="node3" href="$geometricfunctions_8cpp.html#a08bb76383bc5dc89f94334abb3750fe1" title="Distance3D" alt="" coords="491,5,581,32"/>
-<area shape="rect" id="node4" href="$geometricfunctions_8cpp.html#a33153d828297aac1d81548f936a43de3" title="IsZero" alt="" coords="507,56,565,83"/>
-</map>

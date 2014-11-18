@@ -1,7 +1,0 @@
-<map id="B9SupportStructure::IsTopPrintable" name="B9SupportStructure::IsTopPrintable">
-<area shape="rect" id="node2" href="$class_b9_support_structure.html#a31b5c0bb7d06b28a3969bb93bdd213af" title="B9SupportStructure\l::IsPrintable" alt="" coords="189,27,325,69"/>
-<area shape="rect" id="node3" href="$class_world_view.html#a0c33e14f0640d2ff517a2cf4b4245a57" title="WorldView::OnToolDragAction" alt="" coords="373,5,573,32"/>
-<area shape="rect" id="node5" href="$class_world_view.html#ab120ac8eb7705eb070c112040240e827" title="WorldView::OnToolRelease\lAction" alt="" coords="382,57,565,98"/>
-<area shape="rect" id="node4" href="$class_world_view.html#a7b62bf386eb906f3265aa127566667fa" title="WorldView::mouseMoveEvent" alt="" coords="630,5,829,32"/>
-<area shape="rect" id="node6" href="$class_world_view.html#a177e8eaa0cf4c0d2c3b236af2c84a67a" title="WorldView::mouseReleaseEvent" alt="" coords="622,64,837,91"/>
-</map>

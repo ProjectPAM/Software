@@ -1,8 +1,0 @@
-<map id="ProjectData::SetBuildSpaceSize" name="ProjectData::SetBuildSpaceSize">
-<area shape="rect" id="node2" href="$class_project_data.html#a748e67f05e2f91bb709e63119d5a34fd" title="ProjectData::CalculateBuildArea" alt="" coords="264,5,475,32"/>
-<area shape="rect" id="node4" href="$class_project_data.html#afb538fd324c02a209de001b0bb375786" title="ProjectData::SetDefaults" alt="" coords="523,56,691,83"/>
-<area shape="rect" id="node7" href="$class_project_data.html#a4da7bc49b32d66d30c7406126df8ed34" title="ProjectData::UpdateZSpace" alt="" coords="276,107,463,133"/>
-<area shape="rect" id="node3" href="$class_project_data.html#a2742b98e077c026b55e071780fe9630a" title="ProjectData::Open" alt="" coords="541,5,672,32"/>
-<area shape="rect" id="node5" href="$class_project_data.html#aacdfb2f42b3ca850a610e13b51dd1761" title="ProjectData::New" alt="" coords="739,56,866,83"/>
-<area shape="rect" id="node6" href="$class_project_data.html#a8c45b9ac9a119ce89147f13a4a4e2cd2" title="ProjectData::ProjectData" alt="" coords="915,56,1083,83"/>
-</map>

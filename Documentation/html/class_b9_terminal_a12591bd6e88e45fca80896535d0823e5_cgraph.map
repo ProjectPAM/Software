@@ -1,8 +1,0 @@
-<map id="B9Terminal::onBC_ProjStatusChanged" name="B9Terminal::onBC_ProjStatusChanged">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#a4a1c6f0e531d168e111fa4c86f5ff3da" title="B9PrinterComm::getProjector\lStatus" alt="" coords="251,5,445,46"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#aabed67c0869d22ca90a2eddddd4e4737" title="B9PrinterComm::isProjector\lPowerCmdOn" alt="" coords="255,70,441,111"/>
-<area shape="rect" id="node6" href="$class_b9_printer_comm.html#aaec5b8baa0ae0381ce1110213be767c0" title="B9PrinterComm::getLampHrs" alt="" coords="251,136,445,163"/>
-<area shape="rect" id="node3" href="$class_b9_printer_status.html#a3eb9b880486ac99a3540d260392eb366" title="B9PrinterStatus::getProjector\lStatus" alt="" coords="495,5,687,46"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a3731a7854f27ddf433eafdad90be6f3b" title="B9PrinterStatus::isProjector\lPowerCmdOn" alt="" coords="499,70,683,111"/>
-<area shape="rect" id="node7" href="$class_b9_printer_status.html#ae560999fd34816c0e38781b7c6683d3a" title="B9PrinterStatus::getLampHrs" alt="" coords="494,136,687,163"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="B9Layout::SetProjectorX" name="B9Layout::SetProjectorX">
-<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#a9931ea7ff7085eaeb818ac128cf71d27" title="B9LayoutProjectData\l::SetResolution" alt="" coords="416,5,563,46"/>
-<area shape="rect" id="node4" href="$class_b9_layout_project_data.html#ada22c5ba7fe8e33b209f5b04124dfd7a" title="B9LayoutProjectData\l::GetResolution" alt="" coords="221,49,368,90"/>
-<area shape="rect" id="node5" href="$class_b9_layout_project_data.html#a32d869b02351afa8722cca6db6622f36" title="B9LayoutProjectData\l::CalculateBuildArea" alt="" coords="221,114,368,155"/>
-<area shape="rect" id="node3" href="$class_b9_layout_project_data.html#a26c8d2be451cba8442801576e3aa2186" title="B9LayoutProjectData\l::SetDirtied" alt="" coords="611,45,757,86"/>
-<area shape="rect" id="node6" href="$class_b9_layout_project_data.html#a737f04b5302ed381df1a5417f15970f0" title="B9LayoutProjectData\l::SetBuildSpaceSize" alt="" coords="416,85,563,126"/>
-</map>

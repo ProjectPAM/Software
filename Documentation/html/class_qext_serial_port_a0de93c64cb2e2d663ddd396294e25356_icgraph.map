@@ -1,7 +1,0 @@
-<map id="QextSerialPort::setDtr" name="QextSerialPort::setDtr">
-<area shape="rect" id="node2" href="$class_b9_printer_comm.html#ab829fd26f34e966e58d7fdfbdd421bbd" title="B9PrinterComm::OpenB9Creator\lCommPort" alt="" coords="205,49,419,90"/>
-<area shape="rect" id="node3" href="$class_b9_printer_comm.html#a7a47edf564160c731695b09e4b75912f" title="B9PrinterComm::RefreshComm\lPortItems" alt="" coords="467,49,675,90"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#adda3b4b10775ab87594e08dbae6ade98" title="B9PrinterComm::B9PrinterComm" alt="" coords="723,5,939,32"/>
-<area shape="rect" id="node5" href="$class_b9_printer_comm.html#abe537ba42ff6ec10c54dba28ee3fbbb1" title="B9PrinterComm::watchDog" alt="" coords="739,56,922,83"/>
-<area shape="rect" id="node6" href="$class_b9_printer_comm.html#a50311eebbc0330f9dd6a974637f7f0ce" title="B9PrinterComm::startWatch\lDogTimer" alt="" coords="987,49,1173,90"/>
-</map>

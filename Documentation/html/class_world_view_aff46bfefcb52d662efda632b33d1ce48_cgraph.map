@@ -1,9 +1,0 @@
-<map id="WorldView::GetDrillingHit" name="WorldView::GetDrillingHit">
-<area shape="rect" id="node2" href="$class_b9_model_instance.html#aecacf180b71fcaebfa4604951f58a1a0" title="B9ModelInstance::GetPos" alt="" coords="510,27,685,54"/>
-<area shape="rect" id="node3" href="$class_b9_model_instance.html#afcb4374362d29162275a07d2f899afe5" title="B9ModelInstance::GetMaxBound" alt="" coords="225,33,439,59"/>
-<area shape="rect" id="node4" href="$class_b9_model_instance.html#aaf48cbe1d62da4d66da86ff9f7ef0c02" title="B9ModelInstance::GetMinBound" alt="" coords="227,83,437,110"/>
-<area shape="rect" id="node5" href="$class_world_view.html#a59b7186745ce812b620c4bd64a78bf9f" title="WorldView::GetPickTriangleIndx" alt="" coords="227,189,437,215"/>
-<area shape="rect" id="node7" href="$class_world_view.html#a7a5ccce21838d422284054ce7859a46c" title="WorldView::GetPickOnTriangle" alt="" coords="231,134,433,161"/>
-<area shape="rect" id="node6" href="$class_b9_model_instance.html#afba3d4131acfdd939e5a5c7a8c04e087" title="B9ModelInstance::RenderTriangle\lPickGL" alt="" coords="488,188,707,229"/>
-<area shape="rect" id="node8" href="$class_b9_model_instance.html#ab2c9d7561227b966b21876b1ba2debc4" title="B9ModelInstance::RenderSingle\lTrianglePickGL" alt="" coords="493,123,702,164"/>
-</map>

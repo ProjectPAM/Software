@@ -1,6 +1,0 @@
-<map id="DlgPrintPrep::updateTimes" name="DlgPrintPrep::updateTimes">
-<area shape="rect" id="node2" href="$class_dlg_print_prep.html#aa2b6ad3885d999855c24dc299f611c7b" title="DlgPrintPrep::DlgPrintPrep" alt="" coords="243,5,421,32"/>
-<area shape="rect" id="node3" href="$class_dlg_print_prep.html#a9365672c35ec9624865f4f63eefd220d" title="DlgPrintPrep::on_comboBox\lMaterial_currentIndexChanged" alt="" coords="233,57,431,98"/>
-<area shape="rect" id="node4" href="$class_dlg_print_prep.html#a2a227086df02fc383b9a04eebf8d3529" title="DlgPrintPrep::on_pushButton\lReleaseCycle_clicked" alt="" coords="237,122,427,163"/>
-<area shape="rect" id="node5" href="$class_dlg_print_prep.html#a8d2e41eed1fc75184b7fb29fb670c355" title="DlgPrintPrep::on_spinBox\lLayersToPrint_valueChanged" alt="" coords="235,187,429,229"/>
-</map>

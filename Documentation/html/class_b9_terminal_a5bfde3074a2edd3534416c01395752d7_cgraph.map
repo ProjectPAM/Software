@@ -1,7 +1,0 @@
-<map id="B9Terminal::on_lineEditTgtZInches_editingFinished" name="B9Terminal::on_lineEditTgtZInches_editingFinished">
-<area shape="rect" id="node2" href="$class_b9_terminal.html#a53bf2a60a6d8d6a5f7b0c3b55324b26c" title="B9Terminal::setTgtAltitudeIN" alt="" coords="233,12,423,39"/>
-<area shape="rect" id="node3" href="$class_b9_terminal.html#a98258d24b52f64c6148bd0501d15034a" title="B9Terminal::setTgtAltitudeMM" alt="" coords="473,12,671,39"/>
-<area shape="rect" id="node4" href="$class_b9_printer_comm.html#ad9922f09d4557fdb3fb9cdd703fb31e6" title="B9PrinterComm::getPU" alt="" coords="965,12,1125,39"/>
-<area shape="rect" id="node6" href="$class_b9_terminal.html#a15cb8872d189b601c8587cc10c8dd25a" title="B9Terminal::setTgtAltitudePU" alt="" coords="721,37,917,64"/>
-<area shape="rect" id="node5" href="$class_b9_printer_status.html#a529616a70f93e9285f03ace121ea99e0" title="B9PrinterStatus::getPU" alt="" coords="1174,12,1333,39"/>
-</map>

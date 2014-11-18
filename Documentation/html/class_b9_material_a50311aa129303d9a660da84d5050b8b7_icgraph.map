@@ -1,5 +1,0 @@
-<map id="B9Material::FindXYData" name="B9Material::FindXYData">
-<area shape="rect" id="node2" href="$class_b9_material.html#af696031323ab6b979505b442f01c6d83" title="B9Material::SetXYAttachment\lCureTime" alt="" coords="217,5,415,46"/>
-<area shape="rect" id="node3" href="$class_b9_material.html#a567b7b269d304c42f83b8acdec809270" title="B9Material::SetXYAttachment\lLayers" alt="" coords="217,70,415,111"/>
-<area shape="rect" id="node4" href="$class_b9_material.html#ab65cff3da92398a065389d99a00fd715" title="B9Material::GetXYAttachment\lCureTime" alt="" coords="217,135,415,177"/>
-</map>

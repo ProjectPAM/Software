@@ -1,7 +1,0 @@
-<map id="WorldView::UpdatePlasmaFence" name="WorldView::UpdatePlasmaFence">
-<area shape="rect" id="node2" href="$class_b9_layout.html#a1a5f5d2c3412fb41f8edc2d9601074e5" title="B9Layout::GetAllInstances" alt="" coords="288,5,467,32"/>
-<area shape="rect" id="node3" href="$class_b9_model_instance.html#afcb4374362d29162275a07d2f899afe5" title="B9ModelInstance::GetMaxBound" alt="" coords="270,56,485,83"/>
-<area shape="rect" id="node4" href="$class_b9_layout.html#a7b0c75e90a7bfceb27f044eb723f14af" title="B9Layout::ProjectData" alt="" coords="300,107,455,133"/>
-<area shape="rect" id="node5" href="$class_b9_layout_project_data.html#a664ab11dba11ab11bb2109c6d026c0bf" title="B9LayoutProjectData\l::GetBuildSpace" alt="" coords="304,158,451,199"/>
-<area shape="rect" id="node6" href="$class_b9_model_instance.html#aaf48cbe1d62da4d66da86ff9f7ef0c02" title="B9ModelInstance::GetMinBound" alt="" coords="272,224,483,251"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="SliceEditView::Redo" name="SliceEditView::Redo">
-<area shape="rect" id="node2" href="$class_drawing_context.html#aee8222ca773c5deb9b64e5a8194397cc" title="DrawingContext::SetUpperImg" alt="" coords="198,5,399,32"/>
-<area shape="rect" id="node3" href="$class_slice_edit_view.html#a72b1f718ec7f821cbcc9c8896eb7d65d" title="SliceEditView::RefreshContext" alt="" coords="197,56,400,83"/>
-<area shape="rect" id="node5" href="$class_slice_edit_view.html#adc2c4c7556cec98710171b8b94770f44" title="SliceEditView::ReCompress" alt="" coords="205,107,393,133"/>
-<area shape="rect" id="node4" href="$class_drawing_context.html#a400ea20c52d1ff9afde64e45c6f74841" title="DrawingContext::Generate\lLogicImage" alt="" coords="449,49,626,90"/>
-</map>

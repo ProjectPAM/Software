@@ -1,6 +1,0 @@
-<map id="B9Terminal::getMatCat" name="B9Terminal::getMatCat">
-<area shape="rect" id="node2" href="$class_dlg_print_prep.html#aa2b6ad3885d999855c24dc299f611c7b" title="DlgPrintPrep::DlgPrintPrep" alt="" coords="221,5,400,32"/>
-<area shape="rect" id="node3" href="$class_dlg_print_prep.html#a9365672c35ec9624865f4f63eefd220d" title="DlgPrintPrep::on_comboBox\lMaterial_currentIndexChanged" alt="" coords="211,57,410,98"/>
-<area shape="rect" id="node4" href="$class_dlg_print_prep.html#a0644bf4cea0825f8cfde786211c4ed50" title="DlgPrintPrep::on_pushButton\lMatCat_clicked" alt="" coords="215,122,406,163"/>
-<area shape="rect" id="node5" href="$class_dlg_print_prep.html#a18e47119e3af2230aa82b7f640b3135b" title="DlgPrintPrep::on_checkBox\lStep1_clicked" alt="" coords="219,187,402,229"/>
-</map>

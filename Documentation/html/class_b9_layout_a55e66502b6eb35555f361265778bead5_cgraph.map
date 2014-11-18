@@ -1,5 +1,0 @@
-<map id="B9Layout::SetZHeight" name="B9Layout::SetZHeight">
-<area shape="rect" id="node2" href="$class_b9_layout_project_data.html#a737f04b5302ed381df1a5417f15970f0" title="B9LayoutProjectData\l::SetBuildSpaceSize" alt="" coords="205,5,352,46"/>
-<area shape="rect" id="node4" href="$class_b9_layout_project_data.html#a664ab11dba11ab11bb2109c6d026c0bf" title="B9LayoutProjectData\l::GetBuildSpace" alt="" coords="205,70,352,111"/>
-<area shape="rect" id="node3" href="$class_b9_layout_project_data.html#a26c8d2be451cba8442801576e3aa2186" title="B9LayoutProjectData\l::SetDirtied" alt="" coords="400,5,547,46"/>
-</map>
