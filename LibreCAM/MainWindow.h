@@ -42,22 +42,45 @@ public:
 private slots:
     void openActionSlot();
     void newActionSlot();
+
+    //void undoActionSlot();
+    void redoActionSlot();
+
     void runActionSlot();
     void pauseActionSlot();
     void stopActionSlot();
 
 private:
-    QAction *openAction;
-    QAction *saveAction;
     QAction *newAction;
+    QAction *openAction;
+    QAction *closeAction;
+    QAction *saveAction;
+    QAction *saveAsAction;
+    QAction *projectInfoAction;
+    QAction *exitAction;
+
+    QAction *undoAction;
+    QAction *redoAction;
+    QAction *cutAction;
+    QAction *copyAction;
+    QAction *pasteAction;
+    QAction *boxSelectionAction;
+    QAction *selectAllAction;
+    QAction *deleteAction;
+    QAction *preferencesAction;
+
+    QAction *orthographicViewAction;
+    QAction *perspectiveViewAction;
+
     QAction *runAction;
     QAction *pauseAction;
     QAction *stopAction;
 
     QMenu *fileMenu;
     QMenu *editMenu;
-    QMenu *runMenu;
     QMenu *viewMenu;
+    QMenu *runMenu;
+    QMenu *windowMenu;
     QMenu *helpMenu;
 
     QToolBar *fileToolBar;
