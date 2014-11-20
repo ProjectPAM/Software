@@ -1,15 +1,15 @@
 ﻿language: cpp
 compiler:
-  - gcc
-  - clang
+    - gcc
+    - clang
 # Change this to your needs
 before_install:
     - sudo add-apt-repository --yes ppa:ubuntu-sdk-team/ppa
     - sudo apt-get update -qq
     - sudo apt-get install -qq qt5-qmake qtbase5-dev qtdeclarative5-dev libqt5webkit5-dev libsqlite3-dev
 script:
-	- mkdir build
-	- cd ./build
+    - mkdir build
+    - cd ./build
     - qmake -qt=qt5 -v
     - qmake ../LibreCAM/LibreCAM.pro -qt=qt5 -r -spec linux-g++ CONFIG+=debug
     - make
